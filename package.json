@@ -1,0 +1,26 @@
+{
+  "name": "pu",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [
+    "data visualization",
+    "d3"
+  ],
+  "homepage": "",
+  "author": "Fernando Gelin (www.fernandogelin.com)",
+  "repository": {
+    "type": "git",
+    "url": "<source repo url>"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "d3": "3.x",
+    "express": "^4.13.3",
+    "phylotree": "^0.1.6"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}

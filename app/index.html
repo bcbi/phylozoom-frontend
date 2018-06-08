@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+<link href="//veg.github.io/phylotree.js/phylotree.css" rel="stylesheet">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+<script src="//code.jquery.com/jquery.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js" charset="utf-8"></script>
+<script type='application/javascript' src='assets/js/phylotree.js'></script>
+
+<style>
+	#guide {
+		position: fixed;
+		top: 25px;
+		right: 25px;
+		border-style: solid;
+		border-color: red;
+		border-width: 1px;
+		background: white;
+	}
+	#guide path.branch {
+		stroke: #DDD;
+	}
+	#guide path.branch:hover {
+		stroke-width: 2px;
+	}
+	#dropdown-id {
+		max-width: 200px;
+		height: 30px;
+	}
+	.bg-danger {
+		background-color: #fb0211;
+		color: white;
+	}
+	.jumbotron {
+		padding: 2em;
+		height: 30vh;
+		text-align: center;
+	}
+	.controllers {
+		margin-top: 10rem;
+		color: black;
+	}
+	select {
+		height: 4rem !important;
+		margin-left: 2rem;
+	}
+	.tree-container {
+		text-align: center;
+	}
+</style>
+
+</head>
+
+<body>
+
+<!--	<div id="guide">
+    <svg id="tree_guide" />
+  </div> -->
+	<div class="jumbotron bg-danger">
+	  <h1 class="display-4">PhytoKB Tree View</h1>
+	  	<p class="lead">Brown Center for Biomedical Informatics</p>
+		<div class="container controllers">
+			<div class="row">
+			</div>
+			<div class="row">
+					<select id="dropdown-id" class="dropdown btn btn-secondary"></select>
+					<select id="dropdown-id-levels" class="dropdown btn btn-secondary"></select>
+		</div>
+	</div>
+</div>
+
+	<div class="container">
+		<div class="row tree-container">
+	  	<svg id="tree_display" />
+		</div>
+	</div>
+</body>
+<script type='application/javascript' src='assets/js/largeTree.js'></script>
+<script type='application/javascript' src='assets/js/main.js'></script>
+
+</html>

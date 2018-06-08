@@ -1,0 +1,4480 @@
+dr_905273$Methyclothiazide
+dr_42903960$Apricot kernel oil
+dr_19077117$Hetastarch
+dr_19026274$p-Hydroxyamphetamine
+dr_43013178$polydatin
+dr_40042032$Estradiol / Medroxyprogesterone Oral Tablet
+dr_19003914$Triacetin
+dr_710650$modafinil
+dr_19023846$dibenzepin
+dr_1716903$moxifloxacin
+dr_19045272$Miglustat
+dr_19032667$aniracetam
+pt_1731144$Aconitum napellus
+dr_991855$Saccharomyces boulardii
+dr_798834$Clomipramine
+dr_781182$ramelteon
+dr_40140587$CHYMOTRYPSIN / TRYPSIN Delayed Release Oral Tablet
+dr_40139657$Polyethylene Glycol 400 / tetrahydrozoline Ophthalmic Solution
+dr_1387219$deserpidine
+dr_19025115$picosulfate sodium
+dr_19037891$chlorocresol
+dr_19091377$Poractant alfa
+dr_44507464$Aniline
+dr_19049024$Potassium
+dr_19018261$oxilofrine
+dr_1136980$Ketorolac
+dr_1797258$Cilastatin
+dr_1724703$Oxacillin
+dr_1346823$carvedilol
+dr_43013024$apixaban
+dr_1360421$Quinidine
+dr_40152991$Chlorpheniramine / Dextromethorphan / Pseudoephedrine Oral Tablet
+dr_19090204$Lente Insulin, Beef
+dr_924724$Dicyclomine
+dr_963742$Gramicidin
+dr_43014182$mipomersen
+dr_19102108$zomepirac
+dr_19126894$Ammonium
+dr_42800204$lucinactant
+dr_19069149$Histidine
+dr_44507686$leptin
+pt_912482$Coffea arabica
+dr_40118583$Nitric Oxide / Nitrogen Gas for Inhalation
+dr_915935$Pimecrolimus
+dr_1304643$darbepoetin alfa
+dr_19063981$Rutin
+dr_19136040$Carbaryl
+dr_986117$Ketotifen
+dr_19005104$Triflupromazine
+pt_2117929$Phymatolithon calcareum
+dr_19088223$Amdinocillin Pivoxil
+dr_19013986$magnesium acetate
+dr_40060008$etofylline / Theophylline Oral Tablet
+dr_40012595$Aspirin / Oxycodone Oral Tablet
+dr_19033280$Buserelin
+dr_44785829$dapagliflozin
+dr_43527220$tribulus
+dr_42904117$HYPERICUM OIL
+dr_40237958$Sodium Fluoride / Xylitol Chewable Tablet
+pt_1770714$Juglans regia
+dr_1790812$Chlorhexidine
+dr_947416$tazarotene
+dr_931973$Endopeptidases
+dr_40031623$Domperidone / Ranitidine Oral Tablet
+dr_907013$Metolazone
+dr_19028050$Penicillamine
+dr_43012276$ferrous oxide
+dr_939871$sodium phosphate
+dr_19002664$Mephentermine
+dr_19003296$Tolperisone
+dr_916460$Benzalkonium
+dr_19032724$Bufexamac
+dr_19123240$Josamycin
+dr_40045128$Hydrochlorothiazide / valsartan Oral Tablet
+dr_19124972$Green Tea Extract
+dr_44506771$Aminopterin
+dr_19025281$Pipecuronium
+dr_1300751$Polysaccharide iron complex
+dr_959174$butabarbital
+pt_910768$Sorghum halepense
+dr_19035598$benzarone
+dr_40139751$Acetaminophen / Guaifenesin Oral Capsule
+pt_911875$Triticum aestivum
+dr_42900065$Vaccinium myrtillus leaf extract
+pt_1828496$Plantago notata
+dr_19024063$Acenocoumarol
+dr_40012249$Aspirin / Caffeine / Orphenadrine Oral Tablet
+dr_1727468$pralidoxime
+dr_19015464$nitroxoline
+dr_42898949$Coriander oil
+dr_19077421$Hymecromone
+dr_1588712$Follicle Stimulating Hormone
+dr_19010924$moroxydine
+dr_19035704$Calcium Carbonate
+dr_1588986$insulin human, rDNA origin
+dr_1137460$Salsalate
+dr_45776867$Bifidobacterium animalis
+dr_1119119$adalimumab
+dr_19014341$Atracurium
+dr_19018433$myrtol
+dr_44816340$Lutetium
+dr_19093366$Pirarubicin
+dr_40028300$Cinnarizine / Dimenhydrinate Oral Tablet
+dr_19002829$Tolazoline
+dr_19010961$Arsenic
+dr_1321636$bosentan
+dr_45774409$alfaxalone
+dr_43525901$Vitis vinifera leaf extract
+dr_951980$Sacrosidase
+dr_908126$Vidarabine
+dr_993631$Magnesium Oxide
+pt_738676$Opuntia streptacantha
+dr_950056$Povidone
+dr_19056037$GUAIETOLIN
+dr_42900932$Camphor / Eucalyptus oil / Menthol / methyl salicylate Topical Oil
+dr_1304044$fulvestrant
+dr_1309323$Cyclandelate
+dr_40094944$calcium phosphate / Ergocalciferol Chewable Tablet
+dr_1361711$Nitroglycerin
+dr_967861$magnesium citrate
+dr_44784806$Hypochlorite
+dr_19125097$Meclofenamic Acid
+dr_1177480$Ibuprofen
+dr_19096133$ferrous succinate
+dr_766337$Guanidine
+dr_19009874$methylnicotinate
+dr_1595461$ethynodiol
+dr_1836391$Sulfadiazine
+dr_19054702$Fibrinogen
+dr_19019698$Canrenone
+dr_987009$Trichloroacetate
+pt_2755751$Hordeum sp.
+dr_934262$balsalazide
+dr_1781733$Atovaquone
+pt_1828044$Plantago asiatica
+pt_848613$Scutellaria baicalensis
+dr_40012558$Ascorbic Acid / Iron Carbonyl Oral Tablet
+dr_40002672$Acetaminophen / Domperidone Oral Tablet
+pt_820335$Juniperus sabina
+dr_19066188$Secretin
+dr_44814187$Borneol / Menthol Transdermal Patch
+dr_19020021$Nitrazepam
+dr_1750461$Praziquantel
+dr_905531$Metipranolol
+dr_1529331$Acarbose
+dr_43526465$canagliflozin
+dr_19113028$ibopamine
+dr_40044842$Hydrochlorothiazide / Reserpine Oral Tablet
+dr_40092304$alginic acid / Calcium Carbonate Chewable Tablet
+dr_44507650$Monascus purpureus
+dr_1236744$Terbutaline
+dr_19001308$Oxerutins
+dr_19052686$dehydrosanol
+dr_42899323$Methanol
+dr_40060276$danthron / Docusate Oral Tablet
+dr_19078219$Sufentanil
+dr_19135847$Indium-111
+dr_1195334$Choline
+dr_904542$Triamterene
+dr_19095561$etofenamate
+dr_19055880$ALIBENDOL
+dr_19136426$Sulfamerazine
+pt_189173$Eucalyptus globulus
+dr_40061289$Magnesium Hydroxide / Simethicone Oral Tablet
+dr_40223464$Citicoline
+dr_40036616$Diclofenac / pridinol Oral Tablet
+dr_42709324$vitamin D3
+dr_40146303$Codeine / phenyltoloxamine Oral Solution
+dr_40224763$incobotulinumtoxin A
+dr_19026450$anidulafungin
+dr_40133153$Acetaminophen / Brompheniramine / Pseudoephedrine Oral Solution
+dr_19100773$tofisopam
+dr_1738521$Doxycycline
+dr_45775370$2-Mercaptoethanesulfonic Acid
+dr_950882$clocortolone
+dr_1539403$Simvastatin
+dr_19010564$Pipemidate
+dr_703470$Tranylcypromine
+dr_923672$Hyoscyamine
+dr_922024$paregoric
+pt_820366$Picea abies
+dr_40009223$Amoxicillin / Sulbactam Oral Tablet
+dr_19086939$gamma-Linolenate
+dr_45775206$pirfenidone
+dr_19063454$Enoximone
+dr_19060156$etofibrate
+dr_19100761$Felbinac
+dr_19039512$sobrerol
+dr_40167582$ofatumumab
+dr_19055982$Flupenthixol
+pt_886252$Yucca schidigera
+dr_43012220$Propane
+pt_846347$Salvia divinorum
+dr_19052903$Promazine
+dr_19029135$Propionic acid
+dr_1383815$Isosorbide
+dr_939784$butoconazole
+dr_42900529$grapefruit oil
+dr_19072152$morniflumate
+dr_40150267$diphtheria toxoid vaccine, inactivated / Haemophilus capsular oligosaccharide Injectable Suspension
+dr_42903808$OREGANO LEAF OIL
+dr_40007837$Aluminum Hydroxide / magnesium carbonate Oral Tablet
+dr_19088328$alglucosidase alfa
+dr_19048037$lumefantrine
+dr_959362$Gentian Violet
+dr_19069131$ioversol
+dr_19049038$Estriol
+dr_19032599$Rotavirus Vaccine, Live Attenuated, G1P[8] Human 89-12 strain
+pt_1750338$Hypericum perfoliatum
+dr_19007652$Gadobenate
+dr_44785066$sucroferric oxyhydroxide
+dr_966468$Halcinonide
+dr_45892833$Sulfur Hexafluoride
+dr_1189766$Levorphanol
+pt_1726573$Persea americana
+dr_19000537$Threonine
+dr_42899345$Maltose Syrup
+dr_980867$Clioquinol
+dr_19069107$indobufen
+dr_19032662$anileridine
+dr_961047$Ranitidine
+dr_19044719$zipeprol
+dr_1757803$Ganciclovir
+pt_1880533$Inula helenium
+dr_1507705$Cortisone
+dr_956874$Furosemide
+dr_1327978$Penbutolol
+dr_19011663$Balanced salt solution
+dr_19101849$urapidil
+dr_44507780$eslicarbazepine
+dr_722424$Interferon beta-1a
+pt_934627$Hedera helix
+dr_938061$selenium sulfide
+dr_778268$Imipramine
+dr_19010696$Zinc
+dr_914085$Yellow phenolphthalein
+dr_19059796$Gliclazide
+dr_19007422$Moxisylyte
+dr_40036052$Docusate / sennosides, USP Oral Tablet
+dr_40160381$Ascorbic Acid / Vitamin A Oral Capsule
+pt_882434$Aloe succotrina
+dr_19014878$Azathioprine
+dr_19044727$Vitamin K 1
+dr_40099683$ruscogenin / Trimebutine Topical Ointment
+dr_43532381$HEKLA LAVA
+dr_19055875$DIHEXYVERINE
+pt_2357201$Avena sp.
+dr_922570$Nystatin
+dr_1319051$Amyl Nitrite
+dr_950098$ciclopirox
+dr_701322$Memantine
+pt_1032932$Syzygium aromaticum
+dr_1727443$Paromomycin
+dr_1713332$Amoxicillin
+dr_40048653$Ifosfamide / Mesna Injectable Solution
+dr_19110711$Flufenamic Acid
+dr_1118084$celecoxib
+dr_969444$Nonoxynol-9
+pt_846672$Salvia officinalis
+dr_40166020$rimabotulinumtoxinB
+dr_19011773$Ascorbic Acid
+dr_950933$Castor Oil
+dr_19022596$Diatrizoate
+dr_19020079$formestane
+dr_933724$Phenazopyridine
+dr_40007169$Algestone / Estradiol Injectable Solution
+dr_1314577$nebivolol
+dr_936748$aprepitant
+dr_19112567$CALCIUM STEARATE
+dr_1523280$Diazoxide
+dr_40174023$Streptococcus pneumoniae serotype 7F capsular antigen diphtheria CRM197 protein conjugate vaccine
+dr_1300153$Racepinephrine
+dr_1749008$cefpodoxime
+dr_19080406$ANTI-INHIBITOR COAGULANT COMPLEX
+dr_40155831$Acetaminophen / Guaifenesin / Phenylephrine Oral Solution
+dr_1511449$Danazol
+dr_1197736$Mefenamate
+pt_1730432$Berberis vulgaris
+pt_856141$Carapichea ipecacuanha
+dr_40046452$Glycerin / Propylene glycol Ophthalmic Solution
+dr_40017321$Caffeine / Phenylpropanolamine Oral Tablet
+dr_751412$Fluvoxamine
+dr_19080969$Algestone
+dr_40063477$Naloxone / Tilidine Oral Capsule
+dr_951112$cocoa butter
+dr_1400959$guanadrel
+dr_19113040$lithium gluconate
+pt_930674$Euterpe oleracea
+dr_966913$Silver Nitrate
+dr_19071314$oxatomide
+dr_990028$lanthanum carbonate
+dr_42898675$Bacillus subtilis
+dr_924939$Bisacodyl
+dr_1708880$Minocycline
+dr_40059484$coumarin / troxerutin Oral Tablet
+dr_19129642$Oxolinic Acid
+dr_1703026$Merbromin
+dr_749727$Ethchlorvynol
+dr_905078$Trifluridine
+dr_1778162$Cefuroxime
+dr_19049707$chlorphenoxamine
+dr_967823$Sodium Chloride
+dr_19039770$buthiazide
+dr_766209$Selegiline
+dr_1102917$Tolmetin
+dr_19007701$Mezlocillin
+dr_45775746$abacavir / dolutegravir / Lamivudine Oral Tablet
+dr_19019029$Nifuratel
+dr_19041085$tartaric acid
+dr_19102150$Carglumic acid
+dr_42904211$silybum marianum seed oil
+dr_757627$Galantamine
+dr_40062184$Metronidazole / Spiramycin Oral Tablet
+dr_19047240$clofoctol
+dr_40025650$Choline / Inositol Oral Tablet
+dr_19095091$potassium carbonate
+dr_19095744$ferric ammonium citrate
+dr_42904274$POMEGRANATE JUICE
+dr_990413$chlorcyclizine
+dr_40135391$glimepiride / pioglitazone Oral Tablet
+dr_1124957$Oxycodone
+dr_40173226$Metformin / pioglitazone Extended Release Oral Tablet
+dr_19018518$bamifylline
+dr_1316354$Bendroflumethiazide
+dr_46221746$polyethylene glycol 9000
+dr_1743222$Enoxacin
+dr_19009145$mequitazine
+dr_19023184$Clove oil
+dr_940004$sodium thiosulfate
+pt_820275$Beta vulgaris
+dr_40149785$Brompheniramine / Dextromethorphan / Pseudoephedrine Oral Tablet
+dr_1307213$Ginger extract
+dr_19018910$Cannabinol
+dr_40133593$alginic acid / Sodium Bicarbonate Oral Suspension
+dr_1750087$Povidone-Iodine
+dr_1366279$Guanethidine
+dr_992456$Chlorophyll
+dr_19019023$Niflumic Acid
+dr_948555$alosetron
+dr_19127669$Lithium Aspartate
+pt_849191$Serenoa repens
+dr_43533090$Afatinib
+pt_1812322$Chimaphila umbellata
+dr_1185922$Ketoprofen
+dr_40226742$olmesartan
+dr_19068821$clotiazepam
+dr_1590418$thyroid, porcine
+dr_42900448$olive oil
+dr_19068688$Hesperidin
+pt_823744$Leonurus cardiaca
+dr_1314955$Bilberry extract
+dr_43531976$Liquid Petroleum
+dr_918222$oxiconazole
+dr_40017315$Caffeine / Phenobarbital Oral Tablet
+dr_40012616$Aspirin / Propoxyphene Oral Tablet
+dr_934075$azelastine
+dr_40023013$Chlorpheniramine / Phenylpropanolamine Extended Release Oral Tablet
+dr_40017311$Caffeine / Nitroglycerin Sublingual Tablet
+dr_40004051$Acetaminophen / dichloralphenazone / isometheptene Oral Capsule
+dr_19016749$remifentanil
+dr_1310149$Warfarin
+dr_1503297$Metformin
+dr_1753745$Albendazole
+dr_1301025$Enoxaparin
+dr_40011021$Belladonna Alkaloids / Caffeine Oral Tablet
+pt_1747029$Salix purpurea
+dr_1395573$Chondroitin Sulfates
+dr_19038024$Selenious Acid
+dr_19052059$Aspartate
+dr_19017810$Amsacrine
+dr_19007600$Soybean preparation
+dr_40060227$cyclothiazide / Triamterene Oral Tablet
+dr_906149$TRYPSIN
+dr_19092283$Chlormethiazole
+dr_1401437$Garlic preparation
+dr_551977$Poliovirus Vaccine, Inactivated
+dr_19009965$agalsidase alfa
+dr_19086622$dapiprazole
+dr_946340$Piperonyl Butoxide
+dr_19001477$Synephrine
+dr_715939$Escitalopram
+dr_992127$Loteprednol
+dr_19019131$Magnesium Aspartate
+dr_1710446$Cycloserine
+dr_40002739$Acetaminophen / Methocarbamol Oral Tablet
+dr_40029854$Codeine / Promethazine Oral Solution
+dr_19058354$Aconite
+dr_19115053$alpha-amylase
+dr_42900229$Tartrazine
+dr_45892980$Amlodipine / Perindopril Oral Tablet
+dr_19097463$gadoteridol
+dr_1701928$Activated Charcoal
+dr_19095028$Chlorquinaldol
+dr_43013047$crofelemer
+dr_40231415$Moxidectin
+dr_40224153$Amlodipine / Hydrochlorothiazide / olmesartan Oral Tablet
+pt_1727298$Cinnamomum cassia
+pt_1811465$Camellia sinensis
+dr_19096766$CHROMIUM, CHELATED
+pt_882027$Aloe bargalensis
+dr_982105$Saccharomyces boulardii lyo
+dr_19075109$POLICRESULEN
+dr_952538$Anthralin
+dr_45776421$factor VIII (b-domain deleted recombinant) FC fusion protein
+dr_19018602$Calcium Glucarate
+pt_1844377$Borago officinalis
+dr_40142910$Budesonide / formoterol Metered Dose Inhaler
+pt_2867653$Taraxacum sp.
+dr_44785548$Acetaminophen / Dextromethorphan / Doxylamine Oral Tablet
+dr_40182881$Esomeprazole / Naproxen Delayed Release Oral Tablet
+dr_19016974$omoconazole
+dr_1340532$Succinic Acid
+dr_19064042$Saccharin
+dr_1549080$Estrogens, Conjugated (USP)
+dr_19080226$milnacipran
+dr_40003545$Acetaminophen / Caffeine / dihydrocodeine Oral Tablet
+dr_42898420$Aesculus hippocastanum leaf extract
+dr_42899780$Sesame Oil
+dr_1389464$Levamisole
+dr_19097016$CALCIUM CARBONATE, PRECIPITATED
+dr_40166461$Pralatrexate
+pt_875171$Zingiber officinale
+dr_40175934$tea leaf extract
+dr_43532424$lysozyme
+dr_19077093$propiverine
+dr_940426$calcium polycarbophil
+dr_40093715$buthiazide / Spironolactone Oral Tablet
+dr_40146287$Codeine / Potassium Oral Solution
+dr_19026459$tapentadol
+dr_19011355$etoricoxib
+dr_19027186$Paramethasone
+dr_40017327$Caffeine / ethenzamide Oral Tablet
+dr_43531995$Lactoferrin
+dr_19136044$Sisomicin
+dr_19058100$BISMUTH TRIBROMOPHENATE
+dr_759740$Pyridostigmine
+dr_40027449$Dexamethasone / Neomycin Topical Spray
+dr_42898712$celery seed extract
+dr_40150387$Ascorbic Acid / Biotin / Calcium Carbonate / Cupric oxide / Ferrous fumarate / Folic Acid / Magnesium Oxide / Niacinamide / Pantothenic Acid / Riboflavin / Thiamine / Vitamin A / Vitamin B 12 / Vitamin B6 / Vitamin E / Zinc Oxide Oral Tablet
+dr_1306905$Passion flower extract
+dr_19013828$Hyoscyamus extract
+dr_987128$Lactobacillus
+dr_19032816$Glycine zinc chelate
+dr_1728903$Dimercaprol
+dr_19059654$alvimopan
+dr_42903913$Latex
+dr_1192218$Levalbuterol
+dr_960988$Diflorasone
+dr_1362225$Reserpine
+dr_1311826$Deanol
+dr_966991$Simethicone
+pt_1809604$Embelia ribes
+dr_19094980$polyestradiol
+dr_42800246$taliglucerase alfa
+pt_1764690$Crataegus pinnatifida
+dr_1337068$ambrisentan
+dr_19032630$anethole
+pt_692537$Geranium thunbergii
+dr_40134498$Diphenhydramine / Ibuprofen Oral Tablet
+dr_905151$Alclometasone
+dr_915981$Neomycin
+dr_43526424$dimethyl fumarate
+dr_1789517$dalfopristin
+dr_785649$Ketamine
+dr_1502855$Tolbutamide
+dr_916943$tegaserod
+dr_19024197$Ornidazole
+dr_19003644$Methacycline
+dr_40239995$ezogabine
+dr_40058182$latanoprost / Timolol Ophthalmic Solution
+dr_19033909$Phenformin
+dr_45892419$Gentamicin
+dr_40036057$Docusate / sennoside B Oral Tablet
+dr_19015144$nifuroxazide
+dr_40241549$Acetaminophen / Diphenhydramine / Phenylephrine Oral Capsule
+dr_1308473$tinzaparin
+dr_1517998$Pramlintide
+dr_723344$phendimetrazine
+dr_1352890$Dextran
+dr_19100437$Technetium Tc 99m Disofenin
+dr_1329241$Bleomycin
+dr_1398937$Clonidine
+dr_1376289$Hydroflumethiazide
+dr_19029555$acetophenazine
+dr_19101426$hemicellulase
+dr_19080523$silicon dioxide, colloidal
+dr_19009557$ferrous phosphate
+dr_40181781$dienogest / Estradiol Oral Tablet
+dr_1308432$sargramostim
+dr_1036094$Stannous Fluoride
+dr_40012635$Aspirin / butalbital / Caffeine Oral Tablet
+dr_19100414$strontium chloride
+dr_19057607$Amisulpride
+dr_40110663$Dextran / Sodium Chloride Injectable Solution
+dr_19051444$cicletanine
+dr_19110751$MELITRACEN
+dr_19035953$rifapentine
+dr_40240664$indacaterol
+dr_1588000$Desogestrel
+dr_40057730$isopropyl myristate / Mineral Oil Topical Gel
+dr_836654$Tacrine
+dr_19060985$Glutamine
+dr_40224950$Fibrinogen / Thrombin Transdermal Patch
+dr_19084670$bivalirudin
+dr_19055783$ZINC ASPARTATE
+dr_19004810$Copper Gluconate
+dr_43527197$brimonidine / brinzolamide Ophthalmic Suspension
+dr_46233907$poloxamer 234
+dr_19035569$Calcifediol
+dr_19029824$Boron
+dr_19088035$detomidine
+dr_19049877$chromic chloride
+pt_1856905$Arctium lappa
+dr_40238058$Xylazine
+dr_19025922$oxypertine
+dr_43532084$POLYSORBATE 65
+dr_40166035$saxagliptin
+dr_777221$Hydroxyzine
+dr_933952$Pheniramine
+dr_40161488$Timothy grass pollen extract
+pt_1850219$Bupleurum falcatum
+dr_19091824$Lobeline
+dr_40039593$Fructose / Glucose / Phosphoric acid Oral Solution
+dr_19069760$Sodium Hydroxide
+dr_19080514$diperodon
+dr_19003476$Horse antihuman thymocyte gamma globulin
+dr_46221736$Clioquinol / Hydrocortisone Rectal Cream
+dr_1369939$6-Aminocaproic Acid
+dr_1717327$Ampicillin
+pt_861777$Curcuma zanthorrhiza
+dr_40037281$Felodipine / Ramipril Oral Tablet
+dr_42900341$aloe vera leaf extract
+dr_43012197$Ammonium Sulfate
+dr_19002800$tropisetron
+dr_19016320$Bencyclane
+dr_19008361$Tacalcitol
+dr_1335301$Phenoxybenzamine
+dr_19113756$Ibadronate
+dr_19018405$prednazoline
+dr_19037223$Beta Carotene
+dr_19125279$Meglumine
+dr_1598493$ESTROGENIC SUBSTANCES
+dr_926487$Pancreatin
+dr_19043266$vanadyl sulfate
+dr_40041777$Eucalyptus oil / Menthol Topical Ointment
+dr_19004254$metharbital
+dr_19058291$MAGNESIUM, CHELATED
+dr_42706184$Calcium Carbonate / Magnesium Chloride Delayed Release Oral Tablet
+dr_19039877$sodium perborate
+pt_903060$Digitaria purpurea
+dr_42709322$axitinib
+dr_19015602$Nefopam
+dr_911354$palonosetron
+pt_2621751$Citrus nobilis
+dr_19098566$gemtuzumab
+dr_19051234$cyamemazine
+dr_19056802$alpha Tocopherol
+dr_19112526$Galactose
+dr_538530$Candida albicans
+dr_42705061$Piperonyl Butoxide / Pyrethrum extract Medicated Shampoo
+dr_46234321$Dextromethorphan / Menthol / Phenylephrine Oral Solution
+pt_1756184$Astragalus gummifer
+dr_19135848$99 Molybdenum
+dr_19122997$Coral Calcium
+dr_1334456$Ramipril
+dr_905233$Mometasone
+dr_1396012$ferrous gluconate
+dr_1724666$Dicloxacillin
+dr_19066610$Glutathione Disulfide
+dr_1797513$Ciprofloxacin
+dr_19050461$Prazepam
+dr_40100453$piretanide / Ramipril Oral Tablet
+dr_42904292$Carbon Black
+dr_19065820$Passiflora incarnata extract
+dr_44506782$Cholic Acid
+dr_19067073$Helium
+dr_19034009$ambroxol-theophylline-7-acetate
+dr_44507735$parsley oil
+dr_905518$Methylene blue
+dr_1196514$flunisolide
+dr_913440$nabilone
+dr_943116$trolamine salicylate
+dr_19081667$Alseroxylon
+dr_1036636$Suprofen
+dr_40075586$Phloroglucinol / trimethylphloroglucinol Rectal Suppository
+dr_19011034$Citrate
+dr_19004539$lacidipine
+dr_44784981$Technetium Tc 99m Sestamibi
+dr_40244464$ruxolitinib
+dr_782043$Isoflurane
+dr_739363$sibutramine
+dr_739138$Sertraline
+dr_19018352$Nicergoline
+dr_40039807$Ethinyl Estradiol / norgestimate Oral Tablet
+dr_1598819$Clomiphene
+dr_19003593$isothipendyl
+dr_529411$tetanus toxoid vaccine, inactivated
+dr_757352$Eszopiclone
+dr_962398$Glycine
+dr_1001419$Cocaine
+dr_40046017$Haemophilus capsular oligosaccharide / tetanus toxoid vaccine, inactivated Injectable Solution
+dr_19026637$Dihydroergotoxine
+dr_40150955$Sulfacetamide / Sulfur Medicated Pad
+dr_1103137$iodinated glycerol
+dr_42903460$regorafenib
+dr_19069191$kebuzone
+dr_1363516$5-Hydroxytryptophan
+dr_1525278$estropipate
+dr_40090604$Thiamine / Vitamin B6 Oral Tablet
+dr_42900401$bosutinib
+dr_1727223$Atazanavir
+dr_19050488$Etomidate
+dr_19053540$iobitridol
+dr_45892847$edoxaban
+dr_19060393$Quercetin
+pt_1879140$Artemisia vulgaris
+dr_19050040$Potassium Orotate
+dr_42904131$apricot extract
+dr_715710$rasagiline
+dr_954036$propylhexedrine
+dr_40046143$Glyburide / Metformin Oral Tablet
+dr_19078876$flavocoxid
+dr_1759455$Pyrazinamide
+dr_1373225$Perindopril
+dr_40163587$clorsulon
+dr_19052553$rotavirus vaccine, tetravalent, live, oral
+dr_42900524$lithium bromide
+dr_19024669$Bioflavonoids
+dr_1543229$Laronidase
+dr_795113$Chlorzoxazone
+dr_19027362$potassium phosphate
+dr_40134707$efavirenz / emtricitabine / tenofovir disoproxil Oral Tablet
+dr_990678$Chlordiazepoxide
+dr_19056342$Buchu
+dr_1703687$Acyclovir
+dr_1711246$entecavir
+dr_19136028$Saccharomyces cerevisiae
+dr_990069$Chloramphenicol
+dr_1310353$Lutein
+dr_40012260$Aspirin / Caffeine / Quinine Oral Tablet
+dr_42899826$Rose oil
+dr_40054227$Iodine / Sodium Iodide Topical Solution
+dr_945286$Pilocarpine
+dr_43532469$neurotrophin 4
+dr_40137867$Lamivudine / Nevirapine / Zidovudine Oral Tablet
+pt_1822067$Gymnema sylvestre
+dr_19004578$CIDER VINEGAR
+dr_902616$Calamine
+dr_19005046$pyridoxine
+dr_1353766$Propranolol
+dr_19028945$pridinol
+dr_40010561$Atenolol / Chlorthalidone Oral Tablet
+dr_1125765$Oxymorphone
+dr_19136493$Sulfapyridine
+dr_42899439$LANOLIN OIL
+dr_19056465$Fluspirilene
+dr_43012195$2-hydroxyethyl methacrylate
+dr_40002781$Acetaminophen / Propoxyphene Oral Tablet
+dr_19087223$Cresol
+dr_43531843$DIACETYL BENZOYL LATHYROL
+dr_19060423$Quinestrol
+dr_40145785$Casanthranol / Docusate Oral Solution
+dr_997276$Cimetidine
+dr_1180182$Meclofenamate
+dr_19041746$tetrazepam
+dr_1394023$nilotinib
+dr_43532158$Quinate
+dr_19136066$Somatostatin
+dr_1304376$MILK THISTLE SEED
+dr_40226579$fingolimod
+dr_1360332$Glucosamine
+dr_19024772$ferumoxsil
+dr_19007572$Valine
+dr_19012346$eltrombopag
+dr_40134962$Magnesium Hydroxide / Omeprazole / Sodium Bicarbonate Chewable Tablet
+dr_930604$aluminum acetate
+dr_952045$Amphotericin
+dr_42899398$Medium chain triglycerides
+dr_907879$Miconazole
+dr_43560392$ferric carboxymaltose
+dr_43013539$Captan
+dr_19112899$ziconotide acetate
+dr_523367$poliovirus vaccine inactivated, type 3 (Saukett)
+dr_19122262$chlorproethazine
+dr_19011795$linoleate
+dr_19006043$Troleandomycin
+pt_905731$Hordeum distichon
+dr_1102527$Meperidine
+dr_40166557$aliskiren / valsartan Oral Tablet
+dr_40065718$Methscopolamine / Pseudoephedrine Oral Tablet
+dr_19125390$Mercury
+dr_42898521$Butane
+dr_40007730$Amitriptyline / Chlordiazepoxide Oral Tablet
+dr_984232$Isotretinoin
+pt_1792192$Sida cordifolia
+dr_1126557$Dihydroergotamine
+dr_1524674$zoledronic acid
+pt_1789541$Cola acuminata
+dr_1362979$dofetilide
+dr_979096$Zinc Acetate
+pt_1852527$Lomatium dissectum
+dr_19054242$Protamine Sulfate (USP)
+dr_1336926$tadalafil
+dr_40026552$Clotrimazole / Hydrocortisone Topical Cream
+dr_40063557$Naphazoline / Pheniramine Ophthalmic Solution
+dr_980311$COLLAGENASE
+dr_951279$Prilocaine
+dr_44817996$Acetaminophen / Chlorpheniramine / Phenylephrine Effervescent Oral Tablet
+dr_1314002$Atenolol
+dr_46233964$Citric Acid / potassium citrate Powder for Oral Solution
+dr_40012259$Aspirin / Caffeine / Propoxyphene Oral Tablet
+dr_1116109$Belladonna Alkaloids
+dr_19009022$meclocycline
+dr_19033934$Phenindione
+dr_19030751$alverine
+dr_1747005$cefditoren
+pt_1849466$Centella asiatica
+dr_19030860$SARRACENIA PURPUREA preparation
+dr_19126516$malate
+dr_19037035$Benzylpenicilloyl polylysine
+dr_40136897$5-Hydroxytryptophan / Vitamin B6 Disintegrating Oral Tablet
+dr_42874246$icosapent ethyl
+dr_1710281$tenofovir disoproxil
+dr_1333357$Busulfan
+dr_19026739$Pantothenic Acid
+dr_1760039$Pyrimethamine
+dr_706644$Tubocurarine
+dr_44784980$Trenbolone
+dr_989878$Lidocaine
+dr_19009025$mecobalamin
+pt_696897$Trigonella foenum-graecum
+dr_19059477$ethanolamine
+dr_40067032$Oxytetracycline / Polymyxin B Vaginal Tablet
+dr_19018406$adipic acid
+dr_40229650$Camphor / Eucalyptus oil / Menthol Topical Gel
+dr_45775026$ledipasvir / sofosbuvir Oral Tablet
+dr_1331270$Dipyridamole
+dr_1306837$Ubiquinone
+dr_1037005$Tetrahydrocannabinol
+dr_1377141$hydroxyurea
+dr_992716$Mafenide
+pt_694082$Phaseolus vulgaris
+dr_904356$Methenamine
+dr_19071936$loxoprofen
+dr_730548$Bromocriptine
+dr_939134$sertaconazole
+dr_743670$venlafaxine
+dr_19042801$trilostane
+dr_19041536$testosterone 17-phenylpropionate
+dr_1340128$Captopril
+dr_715233$Baclofen
+dr_19039639$buflomedil
+dr_928744$Dimenhydrinate
+dr_19100760$titanium dioxide
+dr_1559684$Glyburide
+dr_19055156$Flumethasone
+pt_1844476$Symphytum officinale
+dr_19071861$letosteine
+dr_19095786$ferric subsulfate solution
+pt_1922232$Rumex crassus
+pt_1842635$Lycium chinense
+dr_40046096$Hydrocodone / phenyltoloxamine Oral Tablet
+dr_40096153$benazepril / Hydrochlorothiazide Oral Tablet
+dr_19025925$Oxyphenbutazone
+pt_1771188$Pelargonium sidoides
+dr_900017$Cascara sagrada
+dr_19115055$sennoside B
+dr_19016959$tiratricol
+dr_19015423$BCG Vaccine
+dr_19047071$Pivampicillin
+dr_43526990$Technetium Tc 99m Sulfur Colloid
+dr_19026701$pangamic acid
+dr_1514412$Nandrolone
+dr_42900012$Xylene
+dr_1702559$Tinidazole
+dr_43014237$pomalidomide
+pt_1784963$Citrus grandis
+dr_1704139$posaconazole
+dr_40078775$prednisolone / Sulfacetamide Ophthalmic Suspension
+dr_19010955$Cysteine
+dr_733008$Perphenazine
+dr_1368823$Altretamine
+dr_42899447$Insulin, Pork
+dr_756349$Flurazepam
+dr_1510202$miglitol
+dr_40165377$abobotulinumtoxinA
+dr_1773402$Cefoperazone
+dr_19041065$golimumab
+dr_19054936$Floxacillin
+dr_1759842$Clavulanate
+dr_904639$Trichlormethiazide
+dr_40023865$Chlorhexidine / Chlorobutanol Mouthwash
+dr_1724700$Foscarnet
+dr_19113035$Hematoporphyrin
+dr_19044317$zinc chloride
+pt_693940$Mucuna pruriens
+dr_19078424$terizidone
+dr_19077143$17-alpha-Hydroxyprogesterone
+dr_19045983$cinitapride
+dr_40238188$ipilimumab
+dr_948582$Polymyxin B
+dr_1381661$Iron-Dextran Complex
+dr_19072030$Curcumin
+dr_1390051$Chlorambucil
+dr_42801287$pertuzumab
+dr_1709170$meropenem
+dr_19029421$Dinoprost
+dr_754270$Protriptyline
+dr_40229614$Calcium Citrate / Cholecalciferol Oral Powder
+dr_19072087$metopimazine
+dr_985708$Ketoconazole
+dr_19126510$fumarate
+dr_1836503$Sulfisoxazole
+dr_19137031$Ispaghula husk
+dr_937368$infliximab
+dr_19027015$Dihydrotachysterol
+dr_42899579$POMEGRANATE SEED OIL
+dr_40150696$Hydrocortisone / Lidocaine Medicated Pad
+dr_19132890$Strontium-89
+pt_1856217$Cynara cardunculus
+dr_40042022$Estradiol / Estrone Injectable Solution
+dr_1512446$Doxercalciferol
+dr_40167658$rabbit skin extract
+dr_1150362$cinnamedrine
+dr_1708100$loracarbef
+dr_19047076$Pizotyline
+dr_19044986$fibrinogen concentrate (human)
+dr_40170687$chloroxylenol / Copper Sulfate Topical Powder
+pt_848775$Scutellaria lateriflora
+dr_19029306$Acetate
+dr_19112534$barbexaclone
+dr_43013731$Monensin
+dr_40240387$Acetaminophen / Pheniramine / Phenylephrine Oral Suspension
+dr_40133375$Chlordiazepoxide / clidinium Oral Tablet
+dr_43013884$alogliptin
+dr_45774639$vedolizumab
+dr_19029278$diethylamine salicylate
+dr_901656$Menthol
+dr_717607$Desvenlafaxine
+dr_19129274$reviparin
+dr_19015536$theodrenaline
+pt_1760994$Rosa canina
+dr_1789276$gatifloxacin
+dr_1746940$Erythromycin
+dr_1730370$Pentamidine
+dr_43012518$bedaquiline
+dr_1515417$Urofollitropin
+dr_748010$Estazolam
+dr_950792$clidinium
+dr_19056032$ACETIAMINE
+dr_903459$Dolasetron
+dr_987153$Lactobacillus acidophilus
+dr_46221696$daclatasvir
+dr_19026609$polynoxylin
+dr_19046939$Clavulanic Acid
+dr_42903736$propylene
+dr_19018639$calcium bromide
+dr_43532113$Parathyroid Hormone
+dr_19029393$aceclofenac
+dr_19022533$Bethanidine
+dr_44814322$Hepatitis A Virus
+dr_19069019$Histamine
+dr_1106647$Turpentine
+dr_40167838$Amlodipine / telmisartan Oral Tablet
+dr_19020477$Nitrogen
+pt_1828502$Plantago ovata
+dr_42899635$Phenethylamine
+dr_1114220$Naloxone
+dr_990009$Dipivefrin
+dr_19056157$LEVOMENTHOL
+dr_19009116$meprednisone
+dr_1551673$Estrogens, Esterified (USP)
+dr_1314928$ginger root
+dr_45892883$secukinumab
+dr_19112632$COLLAGEN, HYDROLYZED
+dr_949759$halobetasol
+pt_1754743$Malpighia glabra
+dr_1796458$cefdinir
+dr_42899255$Gadolinium
+dr_924151$Pentosan Polysulfate
+dr_46221354$menthol, (+)-
+dr_734275$Phenobarbital
+dr_40173748$Calamine / Zinc Oxide Rectal Suppository
+dr_1780601$Iodine
+pt_2360358$Glycine soja
+dr_46221518$melamine
+dr_19018546$benzophenone
+dr_19049816$oxtriphylline
+dr_1586369$Ultralente Insulin, Human
+pt_1583148$Equisetum arvense
+dr_19070680$Cefatrizine
+dr_916802$Benzethonium
+dr_43526261$Menthol / methyl salicylate Paste
+dr_43012279$maltodextrin
+dr_40021925$Cetrimide / Lidocaine Topical Gel
+dr_19099415$ruscogenin
+dr_40166942$Calcium Chloride / Glucose / Lactate / Magnesium Chloride / Sodium Chloride Intraperitoneal Solution
+dr_19097867$calcium glubionate
+dr_19049228$Estrogens
+dr_19122168$Human vaccinia immune globulin
+dr_40163718$prasugrel
+dr_1398039$ST. JOHN'S WORT EXTRACT
+dr_44785026$drospirenone / Estradiol Oral Tablet
+dr_44785885$von Willebrand factor
+dr_19061124$Glutethimide
+dr_19022446$pentaerythritol
+dr_40165651$onabotulinumtoxinA
+dr_40231387$Metformin / saxagliptin Extended Release Oral Tablet
+dr_40229621$Calcium Carbonate / WHEAT DEXTRIN Chewable Tablet
+dr_19092353$Lymecycline
+dr_45774485$Bupropion / Naltrexone Extended Release Oral Tablet
+dr_19091830$Lofepramine
+dr_943852$xylometazoline
+dr_19054931$floctafenine
+dr_1584910$Somatropin
+dr_40239985$fidaxomicin
+dr_708298$Midazolam
+pt_884586$Drimia maritima
+dr_19014035$Nafronyl
+pt_1759586$Rubus idaeus
+dr_40140214$Estradiol / Norethindrone Transdermal Patch
+dr_902722$Tobramycin
+dr_1195492$Etodolac
+dr_40002729$Acetaminophen / Ibuprofen Oral Tablet
+pt_1773262$Punica granatum
+dr_40149941$Naproxen / Sumatriptan Oral Tablet
+dr_1740226$cadexomer iodine
+dr_19072089$micronomicin
+dr_977949$ichthammol
+dr_19027679$Pefloxacin
+dr_1636145$Stanozolol
+dr_42900366$cetostearyl alcohol
+dr_40237343$romifidine
+pt_217513$Drosera rotundifolia
+dr_40027462$Dexamethasone / tramazoline Nasal Spray
+dr_19081316$Ioxaglate
+dr_40042021$Estradiol / Estriol Oral Tablet
+dr_19026343$danaparoid
+dr_45775324$diatrizoic acid
+dr_986417$POLYETHYLENE GLYCOL 3350
+dr_40105119$Ascorbic Acid / Quercetin Oral Tablet
+dr_42899416$calomel
+dr_19055843$TIEMONIUM
+dr_19049350$Ethamsylate
+dr_40239677$Benzoyl Peroxide / Salicylic Acid Medicated Liquid Soap
+dr_40036170$Dextromethorphan / Guaifenesin Oral Tablet
+dr_45775540$iodine I-131
+dr_19092061$ZINC CITRATE
+dr_40036510$Dextromethorphan / Triprolidine Oral Solution
+pt_1763568$Pygeum africanum
+dr_920293$Nitrofurantoin
+dr_19039298$sevoflurane
+dr_19042191$tolrestat
+dr_45892531$blinatumomab
+dr_19034281$Phenmetrazine
+dr_1517824$Niacin
+dr_40179169$Castor Oil / Peruvian balsam Topical Ointment
+dr_704984$Trifluoperazine
+dr_19003999$mycophenolate mofetil
+dr_1316327$ALFALFA OIL
+dr_19072027$menatetrenone
+dr_1152631$Cromolyn
+dr_900093$Casanthranol
+dr_40133811$potassium nitrate / Sodium Fluoride Toothpaste
+dr_1311409$Dacarbazine
+dr_40123541$calcium phosphate / Vitamin D Chewable Tablet
+dr_42874244$homatropine / Hydrocodone Prefilled Syringe
+dr_19043959$acamprosate
+dr_19011021$moxonidine
+dr_42899580$POTASSIUM SODIUM TARTRATE
+dr_42898763$cedar leaf oil
+dr_1036252$Sulfacetamide
+dr_19006692$Tyrosine
+dr_19050610$salmon oil
+dr_916751$Lindane
+dr_19003491$isoconazole
+dr_44818464$Zolazepam
+dr_1525746$agalsidase beta
+dr_19050832$clobazam
+dr_40148493$Chlorpheniramine / Dextromethorphan / Guaifenesin Oral Tablet
+dr_1301152$Melatonin
+dr_1114122$Nalbuphine
+dr_42899155$Hamamelis virginiana leaf extract
+dr_40004118$Acetaminophen / salicylamide Oral Tablet
+dr_1762711$Ribavirin
+dr_45776147$oritavancin
+dr_40018158$Betamethasone / Salicylic Acid Topical Ointment
+dr_1525866$Diethylstilbestrol
+dr_19000498$Mefloquine
+dr_1386957$Labetalol
+dr_19045045$Ergocalciferol
+dr_1789428$Amprenavir
+dr_1504620$Methimazole
+dr_19080959$Nordazepam
+dr_42901434$Lidocaine / Methylprednisolone Injectable Suspension
+dr_19069049$Collagen
+dr_987366$lubiprostone
+dr_43525843$GERANIUM EXTRACT
+dr_942494$chlorophyllin copper complex
+dr_43560354$levomilnacipran
+dr_19089579$difluprednate
+pt_2417925$Cinnamomum aromaticum
+dr_1114771$Auranofin
+dr_19022479$fomepizole
+dr_19135804$Propolis
+dr_984801$Kaolin
+dr_19009705$lenograstim
+dr_1348265$anastrozole
+dr_19017581$Plerixafor
+pt_360339$Nasturtium officinale
+dr_986515$CELLULASE
+dr_1503983$cetrorelix
+dr_19011339$mosapride
+dr_42904275$CRANBERRY JUICE
+dr_720727$zaleplon
+pt_1745805$Linum usitatissimum
+dr_19095721$Fenoldopam
+dr_40004842$Acetic Acid / aluminum acetate Otic Solution
+dr_1399177$Sodium ferric gluconate complex
+dr_958368$Echothiophate
+dr_19136210$Streptozocin
+dr_40126004$Ethinyl Estradiol / Ferrous fumarate / Norethindrone Oral Tablet
+dr_19125201$Pristinamycin
+pt_1764983$Ziziphus jujuba
+dr_19072083$Cyclofenil
+dr_40017475$Beta Carotene / Vitamin A Oral Tablet
+dr_19009676$molgramostim
+dr_43526455$calcium bicarbonate
+dr_42900230$Tea Leaf Oil
+dr_1713930$Nafcillin
+dr_1363981$S-Adenosylmethionine
+dr_19086893$Dialysis Solutions
+pt_1851886$Foeniculum vulgare
+dr_43013779$Phloretin
+dr_19095729$fenticonazole
+dr_40075892$Pyrimethamine / Sulfadoxine Oral Tablet
+dr_1377898$Iron polysaccharide
+dr_19088713$Hyaluronidase, Human
+dr_1351935$factor IX
+dr_778474$tizanidine
+dr_19060797$Petroleum distillate
+dr_19055842$TENONITROZOLE
+dr_19088340$dextranomer
+dr_19023842$phensuximide
+dr_42705988$Metformin / sitagliptin Extended Release Oral Tablet
+dr_19030376$Pentagastrin
+dr_1308368$Midodrine
+dr_40090887$Talc / Zinc Oxide Topical Powder
+dr_942028$tioconazole
+dr_19136008$Rifamycins
+dr_19010493$Xipamide
+pt_1734026$Papaver somniferum
+dr_19041860$thymomodulin
+dr_19066891$Silicon
+dr_19098514$quinupramine
+dr_19059528$Alfentanil
+dr_19080427$cyclopentamine
+dr_912362$Ammonium Chloride
+dr_19024190$silybin
+dr_751698$Procaine
+dr_40173162$Lamivudine / Nevirapine / Stavudine Oral Tablet
+dr_19088795$phenethicillin
+dr_1758392$telbivudine
+dr_19087394$lacosamide
+dr_19059006$Magnesium glycinate
+pt_703424$Glycyrrhiza uralensis
+dr_1315942$docetaxel
+dr_19014026$Nux Vomica extract
+dr_40101830$sulfametrole / Trimethoprim Oral Tablet
+dr_19011437$icodextrin
+dr_904704$Mepenzolate
+pt_832834$Aralia chinensis
+dr_40169802$Lidocaine / Prilocaine Mucous Membrane Topical Solution
+pt_855271$Vitex agnus-castus
+dr_901845$Colistin
+dr_837027$Apomorphine
+dr_19096710$CHYMOTRYPSIN
+dr_1768849$Cefaclor
+dr_994341$Meclizine
+dr_1000560$Ondansetron
+dr_43013156$sodium chlorate
+dr_1123904$phenyltoloxamine
+dr_40105709$Benserazide / Levodopa Oral Solution
+pt_1813978$Rhododendron aureum
+dr_1115572$Beclomethasone
+dr_40081028$Sulfamerazine / Trimethoprim Oral Tablet
+dr_1343916$Epinephrine
+dr_42904224$Uncaria tomentosa leaf extract
+dr_43532406$Hepatitis B Virus
+dr_42900396$acai oil
+dr_1143374$Ephedrine
+dr_19009540$Vitamin E
+dr_42899681$Nerium oleander leaf extract
+dr_42706599$Diphenhydramine / Hydrocortisone / Nystatin Mouthwash
+dr_40088332$Tinidazole / tioconazole Vaginal Tablet
+pt_902585$Cynodon dactylon
+dr_1036600$Sulfuric acid
+dr_1398399$exemestane
+dr_956653$Fosfomycin
+dr_528323$Hepatitis B Surface Antigen Vaccine
+dr_19071159$TASONERMIN
+dr_40063869$Naphazoline / prednisolone Nasal Solution
+dr_1711759$Dapsone
+dr_1337159$Calcium Glycerophosphate
+dr_40173184$Levosimendan
+dr_940864$Econazole
+pt_1842602$Nicotiana tabacum
+dr_19068964$Hexobarbital
+dr_42706813$aluminum sulfate / calcium acetate Topical Solution
+dr_1353256$Propafenone
+dr_19008012$Tiapride
+dr_19102785$pidotimod
+dr_1518254$Dexamethasone
+dr_19128258$Norgestrienone
+dr_932815$Levobunolol
+dr_40011037$Belladonna Alkaloids / Phenobarbital Oral Tablet
+dr_1714165$peginterferon alfa-2a
+dr_42904103$Helleborus extract
+dr_45774751$empagliflozin
+dr_19052736$Proline
+dr_912476$Becaplermin
+dr_1363053$Doxazosin
+dr_1174888$Hydrocodone
+dr_715727$tolcapone
+dr_755695$Fluoxetine
+dr_757688$aripiprazole
+dr_19005061$ziconotide
+dr_40011844$Bendroflumethiazide / Nadolol Oral Tablet
+dr_795661$felbamate
+pt_1770895$Terminalia chebula
+dr_19057690$Gallamine
+dr_906902$Lactobacillus reuteri
+dr_40097200$abacavir / Lamivudine / Zidovudine Oral Tablet
+dr_932745$Bumetanide
+dr_1322199$eptifibatide
+dr_1344381$bicalutamide
+pt_1811464$Camellia siangensis
+dr_42904272$Orange juice
+pt_820095$Hebanthe eriantha
+dr_929638$Acitretin
+dr_766814$quetiapine
+dr_19123342$Kininogenase
+dr_703083$Mesoridazine
+dr_40042674$Fluphenazine / Nortriptyline Oral Tablet
+dr_19100451$tertatolol
+dr_1781321$Ipecac
+dr_43013265$ALUMINUM ZIRCONIUM TRICHLOROHYDREX GLY
+dr_45775782$eliglustat
+dr_42904271$Apple juice
+dr_19134000$Piribedil
+dr_1237049$Theophylline
+dr_40018135$Betamethasone / Clotrimazole Topical Ointment
+dr_1436776$Testolactone
+dr_941258$Docusate
+pt_1770893$Terminalia celebica
+dr_19003570$parecoxib
+dr_19056450$BOTULISM ANTITOXIN A
+dr_19000726$Thymol
+pt_1738596$Rhodiola rosea
+dr_19102306$AZINTAMIDE
+dr_19122137$vildagliptin
+dr_40070682$Phenobarbital / Phenytoin Oral Tablet
+dr_19011007$Xenon
+dr_928110$prednicarbate
+dr_40138387$Acetaminophen / Caffeine / Pyrilamine Oral Capsule
+dr_42898867$Cinnamon oil
+dr_1550023$Insulin Lispro
+dr_19100394$sodium nitrate
+dr_781705$Isocarboxazid
+dr_739323$Droperidol
+dr_19051513$Encainide
+dr_1545958$atorvastatin
+dr_19044394$Interferon Alfa-n1
+dr_19044883$zopiclone
+dr_745466$Valproate
+dr_40033424$Dydrogesterone / Estradiol Oral Tablet
+dr_46221451$Benzocaine / Salicylic Acid Topical Ointment
+dr_19025498$piretanide
+dr_19000753$Ferrous glycine sulfate
+dr_1397059$valerian root extract
+pt_1770736$Carya ovata
+dr_19021940$Dextromoramide
+pt_882461$Aloe vallaris
+dr_42898711$Chlorine
+dr_45775560$ethyl salicylate
+pt_2510406$Schisandra sphenanthera
+dr_719128$Benzphetamine
+dr_40224159$alcaftadine
+dr_19053565$periciazine
+dr_1319133$Nimodipine
+dr_19098545$SOY LECITHIN
+dr_19069137$bemiparin
+dr_19067036$idebenone
+dr_40050267$Isoleucine / Leucine / Valine Oral Tablet
+pt_820272$Spinacia oleracea
+dr_42900071$sodium bromide
+dr_44817914$Citric Acid / Sodium Bicarbonate Effervescent Oral Tablet
+dr_46221338$BIS-PEG-PPG-14-14 dimethicone
+pt_1730460$Hydrastis canadensis
+dr_19051649$doxorubicin liposome
+dr_42900212$THYMUS OIL
+dr_46221385$Estradiol / Progesterone Drug Implant
+dr_1312007$dehydroepiandrosterone
+dr_19008264$Vinblastine
+dr_40145405$Atropine / Phenobarbital Oral Solution
+dr_40236987$belimumab
+dr_19071160$Perflutren
+dr_19082764$meglumine antimoniate
+dr_40239330$telaprevir
+dr_1189754$rofecoxib
+dr_19054670$Ferrous Ascorbate
+dr_45892552$ombitasvir
+dr_1322081$Betaxolol
+dr_1337620$capecitabine
+dr_40026728$Desogestrel / Ethinyl Estradiol Oral Tablet
+pt_1784976$Citrus reticulata
+dr_904501$travoprost
+dr_1799139$Oseltamivir
+dr_1592085$Lovastatin
+dr_42900093$Spearmint oil
+dr_992409$Senna Leaves
+dr_40085584$Triamterene / Xipamide Oral Tablet
+dr_1351461$Procainamide
+dr_19043395$Phosphorus
+dr_40168938$ecallantide
+dr_902938$ciclesonide
+dr_1398719$ASTRAGALUS ROOT
+dr_19105879$Ajmaline
+pt_846617$Salvia miltiorrhiza
+dr_19090767$Linseed Oil
+dr_19061406$Lymphocyte immune globulin
+dr_1367268$irinotecan
+pt_1997906$Rhamnus purshiana
+pt_1035222$Melaleuca lutea
+dr_40050442$Hydroflumethiazide / Spironolactone Oral Tablet
+dr_43012959$SORBITAN
+dr_42899542$Olea europaea leaf extract
+dr_19059741$phosphatidylserine
+dr_19019176$Nimorazole
+dr_40031407$Colchicine / Probenecid Oral Tablet
+dr_19009057$menadiol
+pt_1766223$Cannabis sativa
+dr_953076$Famotidine
+dr_19101712$tropatepine
+dr_1790868$Amikacin
+dr_19082891$oxiracetam
+dr_571187$OspA protein
+dr_1394337$Mechlorethamine
+dr_702774$Mepivacaine
+dr_40222715$Ibuprofen / Phenylephrine Oral Tablet
+dr_44506578$Ascorbic Acid / Collagen Oral Capsule
+dr_19032407$romiplostim
+dr_19099129$Clonixin
+dr_911064$Zinc Oxide
+dr_40171301$short ragweed pollen extract
+dr_19085688$Ketanserin
+dr_19081284$Alprenolol
+dr_42900068$Vitis vinifera seed extract
+dr_19080458$eculizumab
+dr_44816326$phenolate
+dr_40167569$peramivir
+dr_950370$Carteolol
+dr_19088167$Ambroxol
+dr_42801108$Protein C
+dr_19078151$Sodium propionate
+dr_40011276$Atropine / Hyoscyamine / Scopolamine Oral Tablet
+dr_19001131$Sodium ironedetate
+dr_19012925$silodosin
+dr_1367500$Losartan
+dr_42900100$Titanium
+dr_787787$hyaluronate
+dr_1437379$Thioguanine
+dr_19013754$citrus bioflavonoids
+dr_19080248$ACETIC
+pt_2392343$Avena sativa\1Zea mays addition line
+dr_19010652$Moclobemide
+dr_1036690$Tannic Acid
+dr_19006842$Tyrothricin
+dr_19120306$tranilast
+dr_1512480$Ibandronate
+dr_40131016$Acetaminophen / Dextromethorphan Chewable Tablet
+dr_40012878$Ascorbic Acid / Vitamin E Oral Tablet
+dr_1154332$Pseudoephedrine
+dr_1317967$aliskiren
+dr_907553$levocabastine
+dr_941052$alitretinoin
+pt_926176$Eleutherococcus senticosus
+dr_40006231$Aluminum Hydroxide / dimethicone Chewable Tablet
+dr_19049059$Potassium Aspartate
+dr_19003070$Mersalyl
+dr_949453$chloroxine
+dr_45892579$olaparib
+dr_19089992$diphenidol
+dr_836715$Temazepam
+dr_45774966$netupitant
+dr_19039874$sodium metabisulfite
+dr_43560385$dolutegravir
+dr_1103552$almotriptan
+dr_1703603$famciclovir
+dr_19049402$chlorophyllin
+pt_886585$Iris germanica
+dr_19129635$Opipramol
+dr_40001314$Lidocaine / tribenoside Rectal Suppository
+dr_42873638$carfilzomib
+dr_40031890$Diphenhydramine / Zinc Acetate Topical Spray
+dr_1586640$nitisinone
+dr_40145462$Betamethasone / dexchlorpheniramine Oral Solution
+dr_1517740$paricalcitol
+pt_834596$Panax quinquefolius
+dr_19103082$Erythrosine
+dr_19067303$Hemin
+pt_2279624$Chlorella vulgaris
+dr_42904261$Lemon Juice
+dr_19097821$gliquidone
+dr_40061288$Magnesium Hydroxide / Mineral Oil Oral Suspension
+dr_40128015$lopinavir / Ritonavir Oral Tablet
+dr_19018432$aloxiprin
+pt_1735262$Platanus occidentalis
+dr_40026523$Clopamide / Reserpine Oral Tablet
+dr_19055073$IRON BILE SALTS
+dr_19003140$Mesterolone
+dr_1326481$pegaspargase
+dr_19026925$carpipramine
+dr_916662$dimethicone
+dr_46233931$asunaprevir
+dr_19095266$eprazinone
+pt_820679$Juniperus ashei
+dr_1139042$Acetylcysteine
+dr_19056541$benproperine
+dr_19009405$Vitamin D
+pt_1765561$Frangula alnus
+dr_40044836$Hydrochlorothiazide / Pindolol Oral Tablet
+dr_1156378$Flurbiprofen
+dr_40050480$Hydrogen Peroxide / Sodium Bicarbonate Oral Gel
+dr_19069078$Gallium 67 citrate
+dr_40030837$Chlorthalidone / Clonidine Oral Tablet
+dr_46221761$Vitamin B9
+dr_1394333$Mecamylamine
+dr_703547$Trazodone
+dr_40039681$Furosemide / Spironolactone Oral Tablet
+dr_42903541$N,N-dimethylglycine
+dr_42903853$Indium In-111 Oxyquinoline
+dr_19032359$Perhexiline
+dr_44817981$Acetaminophen / Phenylephrine Effervescent Oral Tablet
+dr_19104616$Ethylenediamine
+dr_19087067$4-Aminobenzoate
+dr_1338005$Bisoprolol
+pt_879493$Smilax aspera
+dr_19022494$Nylidrin
+dr_19106287$Vitamin K 2
+dr_1105853$Tripelennamine
+dr_43014123$medronate
+dr_42705857$Linagliptin / Metformin Oral Tablet
+dr_19006871$Argipressin
+dr_1738135$efavirenz
+dr_40131077$Amoxicillin / Clavulanate Oral Suspension
+dr_19059097$Cholesterol
+dr_42900536$Thallium
+pt_1747791$Passiflora incarnata
+dr_19004098$Methandrostenolone
+dr_1319156$Dextran 70
+dr_923081$Ofloxacin
+dr_1367571$Heparin
+dr_19011712$desirudin
+dr_1114375$anakinra
+dr_40059901$cyclobenzaprine / nimesulide Oral Tablet
+dr_964339$Sulfasalazine
+dr_1154029$Fentanyl
+dr_1318137$Nicardipine
+dr_40230159$cornstarch
+dr_42900496$lemon balm oil
+dr_1746244$Saquinavir
+dr_46221642$Cholecalciferol / Lactobacillus reuteri Oral Suspension
+dr_19006047$Tromethamine
+dr_19057346$Copper Sulfate
+dr_1304850$Filgrastim
+dr_1747157$Delavirdine
+dr_43013888$alogliptin / pioglitazone Oral Tablet
+dr_1186385$Levorotatory alkaloids of belladonna
+dr_19013789$EGG YOLK PHOSPHOLIPIDS
+dr_43532336$Indigo
+dr_19008972$Pneumococcal vaccine
+dr_40004012$Acetaminophen / butalbital / Caffeine Oral Solution
+dr_19046454$carprofen
+dr_19121608$Influenza virus vaccine
+dr_19016467$Bentonite
+dr_40044224$Glipizide / Metformin Oral Tablet
+dr_1137529$salmeterol
+dr_968426$mesalamine
+dr_980478$Inulin
+dr_40007851$Aluminum Hydroxide / magnesium trisilicate Oral Tablet
+dr_19090505$Human calcitonin
+dr_1539954$phenylbutyrate
+dr_40007734$Amitriptyline / Perphenazine Oral Tablet
+pt_1770709$Juglans nigra
+dr_43532236$aceglutamide
+dr_40069108$Petrolatum / Salicylic Acid Topical Ointment
+dr_43013090$isoprene
+dr_19100368$rapacuronium
+dr_40000917$Lovastatin / Niacin Extended Release Oral Tablet
+dr_1352141$Factor VIIa
+dr_942799$trimethobenzamide
+dr_19076714$Dibasic potassium phosphate
+dr_19060894$Lactobacillus Sporogenes
+dr_40063474$Naloxone / Pentazocine Oral Tablet
+dr_978236$Eflornithine
+pt_2405276$Acacia chiapensis
+dr_1761033$Glutaral
+dr_42900259$cyclomethicone
+dr_1140088$Dyphylline
+dr_19069076$hydroxyethyl cellulose
+dr_19018661$bornaprine
+dr_19003206$iopromide
+dr_716968$Desipramine
+dr_40164866$Influenza Virus Vaccine, Inactivated A-Brisbane-59-2007, IVR-148 (H1N1) strain
+dr_19018604$benzylthiouracil
+dr_19055137$heparin, porcine
+dr_718122$oxcarbazepine
+pt_1863109$Taraxacum officinale
+dr_915391$Octinoxate
+dr_916230$darifenacin
+dr_43012506$Arbutin
+dr_19129738$Paraffin
+dr_19031397$Dipyrone
+dr_19003345$iron sorbitex
+dr_902950$Tolnaftate
+dr_40174604$velaglucerase alfa
+dr_967562$loteprednol etabonate
+dr_42898681$Chlorogenic acid
+dr_42899086$Ilex paraguariensis leaf extract
+dr_40044821$Hydrochlorothiazide / Losartan Oral Tablet
+dr_19046625$Pipobroman
+dr_1189220$guaiacolsulfonate
+dr_43012692$Ethinyl Estradiol / Etonogestrel Vaginal Ring
+dr_19090806$calcium orotate
+dr_19027181$Paraldehyde
+dr_735340$Phentermine
+dr_40009679$Ampicillin / Sulbactam Injectable Solution
+dr_40231242$Menthol / pectin Oral Solution
+dr_19011098$Dimethoxanate
+dr_19030353$Bromazepam
+dr_46221435$panobinostat
+dr_1501617$Colestipol
+pt_713887$Eucommia ulmoides
+dr_744740$zolpidem
+dr_19012598$Vecuronium
+dr_19071128$Copper
+dr_1172206$pamabrom
+dr_19018517$azosemide
+dr_981774$adapalene
+dr_1379525$Inositol
+dr_40129801$Hepatitis A Vaccine, Inactivated / Hepatitis B Surface Antigen Vaccine Injectable Suspension
+dr_43012256$aluminum silicate
+dr_44814337$Ketoprofen / Lidocaine Topical Cream
+dr_19115044$prothipendyl
+dr_40002673$Acetaminophen / Doxylamine / Pseudoephedrine Oral Tablet
+dr_40170250$Sulfadiazine / Trimethoprim Oral Powder
+dr_1515774$norgestimate
+dr_40025186$Chlorophyll / Papain / Urea Topical Spray
+dr_40061355$Meperidine / Promethazine Oral Capsule
+dr_1502809$Tolazamide
+dr_19136041$Antilymphocyte Immunoglobulin
+dr_959420$Aluminum carbonate
+dr_19069080$hylan
+dr_40070568$Papaverine / Phentolamine Injectable Solution
+dr_1728909$Succimer
+dr_45775457$Lanolin / Petrolatum Topical Cream
+dr_935390$resorcinol
+dr_19095164$Cholecalciferol
+dr_1337331$Apple Cider Vinegar
+dr_19059441$etifoxine
+dr_713192$fosphenytoin
+dr_40039683$Furosemide / Triamterene Oral Tablet
+dr_40078860$Sodium Chloride / Urea Topical Cream
+dr_19095724$fenoxazoline
+dr_19014202$Alfacalcidol
+dr_1756524$Formaldehyde
+dr_19099359$Dextran 110
+dr_939976$sodium sulfate
+dr_19036391$deracoxib
+dr_1782521$isoniazid
+dr_1707800$lomefloxacin
+dr_43525869$Thymidine
+dr_19018328$aceprometazine
+dr_1189490$dichloralphenazone
+dr_1391575$FERROUS ASPARTATE
+dr_916282$olsalazine
+dr_1837289$Thiabendazole
+dr_19052683$Cephaloridine
+pt_1730999$Aconitum carmichaeli
+pt_1853305$Sambucus canadensis
+dr_42898995$FRANKINCENSE OIL
+dr_1351557$candesartan
+dr_715259$duloxetine
+dr_1365720$Samarium
+dr_40044841$Hydrochlorothiazide / Ramipril Oral Tablet
+dr_944360$zinc pyrithione
+pt_846880$Salvia sclarea
+dr_1755112$Flucytosine
+dr_19113045$Heparinoids
+dr_1395058$Chlorthalidone
+dr_40056240$ichthammol / Zinc Oxide Topical Ointment
+dr_45776202$ferric citrate
+dr_19063387$rimiterol
+dr_950637$Tacrolimus
+dr_40076134$levothyroxine / Potassium Iodide Oral Tablet
+dr_42900111$Staphylococcus aureus
+dr_40149696$Glucosamine / methylsulfonylmethane Oral Tablet
+dr_929435$Acetazolamide
+pt_360036$Lepidium meyenii
+dr_702661$Mephenytoin
+dr_44507865$Prothrombin
+dr_19060896$magnesium amino acid chelate
+dr_950183$Lactase
+pt_1854509$Valeriana officinalis
+dr_19111234$Fluprednisolone
+dr_40169014$lufenuron
+dr_1305496$Methyldopate
+dr_1363749$Fosinopril
+dr_19033664$fominoben
+dr_1549686$fluvastatin
+dr_740924$Edrophonium
+pt_1852914$Angelica acutiloba
+dr_1401581$Metyrosine
+dr_19136184$Streptodornase
+dr_19136030$Saline Solution, Hypertonic
+dr_19011904$Potassium aminobenzoate
+dr_19016099$octylonium
+dr_19029079$promestriene
+pt_696823$Glycyrrhiza glabra
+dr_19019317$pantethine
+dr_19112898$iron fumarate
+dr_1319751$Bepridil
+pt_902628$Dactylis glomerata
+dr_19082874$orgotein
+dr_42898385$Amber
+dr_19125750$Chromium Polynicotinate
+dr_727835$Pemoline
+dr_43012198$Carnosine
+dr_19124969$Amino Acids
+dr_42709318$Tocopherol
+dr_19020124$BETAHISTINE
+dr_40094156$calcium acetate / magnesium carbonate Oral Tablet
+dr_1736887$linezolid
+dr_19001311$epoetin beta
+dr_1168079$Magnesium Salicylate
+dr_792263$Loxapine
+dr_44817992$Acetaminophen / Dextromethorphan / Phenylephrine Effervescent Oral Tablet
+dr_40007824$Aluminum Hydroxide / Simethicone Chewable Tablet
+dr_19052682$Meclofenoxate
+dr_19113001$Durapatite
+dr_40018156$Betamethasone / Neomycin Topical Ointment
+dr_930021$alfuzosin
+dr_19101457$triclocarban
+dr_40140795$Hydralazine / Isosorbide Dinitrate Oral Tablet
+dr_40125111$Arginine / Ginkgo biloba extract / yohimbine Oral Capsule
+dr_19089810$Gonadorelin
+dr_19048026$cobamamide
+dr_40035751$Docusate / Ferrous fumarate Oral Capsule
+dr_1586346$Insulin, Regular, Pork
+dr_19025945$carazolol
+dr_1516766$repaglinide
+dr_40159373$Lutein / zeaxanthin Oral Tablet
+dr_40034357$Echinacea Root Extract / ECHINACEA, AERIAL PARTS Oral Capsule
+dr_904525$bimatoprost
+dr_1305058$Methotrexate
+dr_19021930$Noscapine
+pt_820320$Juniperus communis
+dr_40014797$Bupivacaine / Fentanyl Injectable Solution
+dr_958134$bismuth subcitrate
+dr_19036892$Daclizumab
+dr_1318853$Nifedipine
+dr_19082886$cyclothiazide
+dr_1304919$pemetrexed
+dr_40027450$Dexamethasone / Oxytetracycline Topical Ointment
+dr_713109$Amoxapine
+dr_742594$trichloroacetaldehyde
+dr_918881$oxybenzone
+dr_19031378$Pepsin A
+dr_40010558$Atenolol / Bendroflumethiazide Oral Capsule
+pt_2147947$Kochia scoparia
+dr_42899800$Rice Oil
+dr_997881$Clindamycin
+dr_1314273$rituximab
+dr_45775606$usnic acid
+pt_1885958$Eupatorium capillifolium
+dr_19056614$Lactobacillus bifidus
+dr_40154612$Calcium Citrate / Vitamin D Oral Powder
+dr_40063306$Metformin / rosiglitazone Oral Tablet
+dr_19056611$drotaverin
+dr_19010496$Xylitol
+dr_19098548$Tenecteplase
+pt_2644072$Ziziphus sp.
+dr_1525741$Oxymetholone
+dr_1123534$phenindamine
+dr_19008276$parnaparin
+dr_1151422$Probenecid
+dr_1189458$frovatriptan
+dr_43526707$Eucalyptol / Menthol / methyl salicylate / Thymol Topical Powder
+pt_1852233$Coriandrum sativum
+dr_44814585$metreleptin
+dr_19023817$adiphenine
+dr_1636780$Testosterone
+dr_40055721$ferrous succinate / Succinic Acid Oral Tablet
+dr_42898564$CANNABIS SATIVA SEED OIL
+dr_19012197$Berberine
+dr_957393$aluminum chloride
+dr_40034691$Dipyrone / propinox Oral Solution
+dr_19053610$propiomazine
+dr_1530014$Acetohexamide
+dr_42900108$Tetrofosmin
+dr_1350066$Carmustine
+dr_1309944$Amiodarone
+dr_40139406$Dextromethorphan / Phenylephrine Oral Strip
+dr_1119510$Dextromethorphan
+dr_1796435$Cefixime
+dr_19049145$Celiprolol
+pt_1858551$Carthamus tinctorius
+dr_19117078$Sodium tartrate
+pt_1881926$Tagetes erecta
+dr_1522957$Octreotide
+dr_42904025$Fucus vesiculosus extract
+dr_44818499$vorapaxar
+dr_1347450$alteplase
+dr_1758536$etravirine
+dr_1105775$Aminophylline
+dr_42899646$Molasses
+dr_46221355$camphor, (-)-
+dr_19046654$Piracetam
+dr_718583$Nicotine
+dr_42899520$Iridium
+dr_40142669$Amlodipine / olmesartan Oral Tablet
+dr_40012627$Aspirin / butalbital / Caffeine / Codeine Oral Tablet
+dr_42800027$Varicella-Zoster Virus Vaccine Live (Oka-Merck) strain
+dr_19001701$Thyrotropin-Releasing Hormone
+dr_19039926$dexlansoprazole
+dr_19044337$Physostigmine
+dr_42873891$Citric Acid / Magnesium Oxide / picosulfate sodium Oral Solution
+dr_19025698$Diethylcarbamazine
+dr_1322207$argatroban
+pt_1826433$Bacopa monnieri
+dr_40159841$artemether / lumefantrine Oral Tablet
+dr_42904141$Manuka Oil
+dr_40239216$Linagliptin
+dr_19087090$Amantadine
+dr_19007977$lormetazepam
+dr_1745072$Cidofovir
+dr_40230597$ceftaroline
+pt_2603244$Valeriana mexicana
+dr_1134439$Caffeine
+dr_40039760$Ethinyl Estradiol / Gestodene Oral Tablet
+dr_19068261$MANGANESE GLUCONATE
+dr_1139993$Phenylpropanolamine
+dr_19025693$plasma protein fraction
+dr_19082376$ALBUMIN,IODINATED I-125 SERUM
+dr_19024365$Ornithine
+dr_43014216$stearate
+dr_19049909$Potassium Iodide
+dr_19098979$Lactated Ringer's Solution
+dr_43532497$trametinib
+dr_19000556$Mefruside
+dr_1158632$Methscopolamine
+dr_1326115$Oxytocin
+dr_19080375$piperidolate
+dr_19113013$fluindione
+dr_46221255$ferric pyrophosphate
+dr_19082306$Isoleucine
+dr_19090802$calcium lactobionate
+dr_40183759$HEPTANOIC ACID
+dr_1335539$Phentolamine
+dr_43013872$alginate
+dr_19056219$GLICOFOSFOPEPTICAL
+dr_19097029$Mixed vespid venom
+dr_42903827$Coenzyme A
+dr_1356461$Flutamide
+pt_1730912$Actaea cimicifuga
+dr_1741122$tazobactam
+dr_19053979$Fenoterol
+pt_696725$Myroxylon balsamum
+pt_1772581$Oenothera biennis
+dr_40012236$Ascorbic Acid / Chondroitin Sulfates / Glucosamine Oral Tablet
+dr_1550557$prednisolone
+dr_19058371$Phenylmercuric nitrate
+dr_19019094$oxyphencyclimine
+dr_40004071$Acetaminophen / isometheptene Oral Capsule
+dr_40141498$butalbital / Caffeine / Codeine Oral Tablet
+dr_19137312$Thiamine
+pt_1746648$Salix alba
+dr_19089408$dibrompropamidine
+dr_19028044$Penfluridol
+dr_42899953$Prunus armeniaca seed extract
+dr_766067$Secobarbital
+dr_19018511$artesunate
+dr_40230847$Ethanol / Menthol Topical Solution
+dr_19052734$Proglumide
+dr_997496$Cinoxacin
+dr_1304565$Rasburicase
+dr_19050375$ciprofibrate
+dr_19122139$butyrate
+dr_19007748$Cetrimide
+dr_939863$sodium carbonate
+dr_40242573$Bifidobacterium longum
+dr_1733765$sparfloxacin
+dr_19066774$Serine
+dr_42898435$Alcloxa
+dr_1110727$Cyproheptadine
+dr_19065814$grape extract
+dr_1596977$Regular Insulin, Human
+dr_1349025$Estramustine
+dr_19067274$ipriflavone
+dr_19101786$ubiquinol
+dr_40160338$Amlodipine / Hydrochlorothiazide / valsartan Oral Tablet
+dr_40238158$hypromellose / tetrahydrozoline / Zinc Sulfate Ophthalmic Solution
+dr_1378382$Paclitaxel
+dr_44816338$Yttrium
+dr_40244266$aflibercept
+dr_19055217$Carbomer
+dr_19018419$Niacinamide
+dr_19011035$Lactate
+dr_1325363$erlotinib
+dr_742185$atomoxetine
+dr_19026526$Dihydroergocristine
+dr_1513849$Insulin, Zinc, Human
+dr_19002912$nelarabine
+pt_1763111$Prunus dulcis
+dr_794229$Mazindol
+dr_19093848$Magnesium Sulfate
+dr_19080542$Iodamide
+dr_19020068$Nitric Oxide
+dr_40073935$Psyllium / sennosides, USP Oral Granules
+dr_40147914$Ephedrine / Guaifenesin Oral Solution
+dr_19058973$Calcium phosphate dibasic
+dr_19135786$Potassium Dichromate
+dr_19102231$Thymopentin
+dr_733896$Phenelzine
+dr_1000979$guar gum
+dr_40014793$Bupivacaine / Epinephrine Injectable Solution
+dr_786426$Rotigotine
+dr_40241331$rivaroxaban
+dr_45775741$Acetaminophen / Dextromethorphan / Doxylamine / Phenylephrine Oral Tablet
+dr_1798476$Clofazimine
+dr_19060834$Thyme oil
+dr_42898570$Bromine
+dr_19055901$dolomite
+dr_702865$Meprobamate
+dr_1736829$fosamprenavir
+dr_40039800$Ethinyl Estradiol / ethynodiol Oral Tablet
+dr_19006951$yellowjacket venom protein
+dr_922191$pectin
+dr_19014164$Wheat germ oil
+dr_19098123$glucametacin
+pt_703486$Glycine max
+dr_19097042$OAT BRAN
+dr_1518148$colesevelam
+dr_40095410$candesartan / Hydrochlorothiazide Oral Tablet
+dr_19047135$placebo
+dr_19136654$Apazone
+dr_40166616$nattokinase
+dr_19021129$Nitrous Oxide
+dr_1341149$temozolomide
+dr_40139050$Hydrocortisone / Iodoquinol Rectal Cream
+dr_1380472$Intrinsic factor
+dr_721724$Nortriptyline
+dr_40226366$aliskiren / Amlodipine Oral Tablet
+dr_711584$Levetiracetam
+pt_1781070$Acer negundo
+dr_19091624$PROCYANIDOLIC OLIGOMER
+dr_19002257$hydroxypropylcellulose
+dr_40097202$abacavir / Lamivudine Oral Tablet
+pt_1764634$Crataegus laevigata
+dr_44507544$Doxylamine / Phenylephrine Oral Tablet
+dr_735843$natalizumab
+dr_19134009$Pirinitramide
+dr_724394$Orphenadrine
+dr_42900431$myrtle leaf oil
+dr_40239665$belatacept
+dr_42706573$Diphenhydramine / Lidocaine / Nystatin Mouthwash
+dr_1836241$Sulbactam
+dr_1749301$Ethambutol
+dr_19112944$phosphate ion
+dr_750119$Ethosuximide
+dr_42898318$Aspartame
+dr_19060400$Quinacrine
+dr_19051285$Prenylamine
+dr_19078460$tixocortol
+dr_1578445$Tiludronate
+dr_19073699$Hyaluronidase
+dr_19071991$magnesium phosphate
+dr_19008867$Cromoglycate
+dr_19017807$black currant oil
+dr_1101554$Colchicine
+dr_19068900$MYCOPHENOLATE
+pt_834591$Panax notoginseng
+dr_42903845$Ethylene
+dr_44816339$Zirconium
+dr_40073755$Polyvinyl Alcohol / Povidone Ophthalmic Solution
+dr_19135812$Prothionamide
+dr_42900329$avocado oil
+pt_1842772$Atropa belladonna
+dr_1353228$Vitamin B6
+pt_693053$Cassia fistula
+dr_40061114$Metoclopramide / Pancreatin Oral Tablet
+dr_42900359$Calcitonin
+dr_1586226$Cerivastatin sodium
+dr_19067810$Antimony Potassium Tartrate
+dr_19011331$Barium Sulfate
+pt_1734474$Eschscholzia californica
+dr_19000818$Sulfadimethoxine
+dr_19097682$Genistein
+dr_1153664$Propoxyphene
+dr_733301$Buspirone
+dr_1597235$follitropin beta
+dr_1036487$sulfathiazole
+dr_1551099$Prednisone
+dr_42903912$Ribose
+dr_19135840$Cold cream
+dr_40148360$Acetaminophen / Aspirin Oral Powder
+dr_1563413$Ritodrine
+dr_19010886$Zuclopenthixol
+dr_19102109$zotepine
+pt_827363$Magnolia officinalis
+dr_1342346$Toremifene
+dr_40145776$Calcium Carbonate / Magnesium Oxide Oral Solution
+dr_40070010$Nitrogen / Oxygen Gas for Inhalation
+dr_19097468$Gadopentetate Dimeglumine
+dr_43532537$thiocyanate
+dr_1133732$Butorphanol
+dr_19037446$Calcium Sulfate
+dr_1721543$Norfloxacin
+dr_40170322$amitraz
+dr_19010873$Tyramine
+dr_19096031$propentofylline
+dr_19026972$lenalidomide
+dr_929698$boric acid
+dr_19011062$mofezolac
+dr_969004$Hexylresorcinol
+pt_2285021$Palmaria palmata
+dr_40060260$dalfopristin / quinupristin Injectable Solution
+dr_1726228$aminosalicylic acid
+dr_40140306$Loratadine / Pseudoephedrine Extended Release Oral Capsule
+pt_831061$Nepeta cataria
+dr_19058613$Isopropamide
+dr_1103374$valdecoxib
+dr_1749083$ceftibuten
+dr_920458$Betamethasone
+dr_1578181$somatrem
+dr_753626$Propofol
+dr_19070955$HAWTHORN BERRY EXTRACT
+dr_991382$Amiloride
+dr_951237$Antazoline
+dr_1589795$Luteinizing Hormone
+dr_1331247$Pentoxifylline
+dr_19102106$mepirodipine
+dr_42899623$Peumus boldus leaf extract
+dr_915392$Natamycin
+dr_45775020$ledipasvir
+dr_40242044$icatibant
+dr_40021919$Cetrimide / Chlorhexidine Topical Solution
+dr_785788$olanzapine
+dr_44785804$Technetium Tc 99m Medronate
+dr_19035631$Calcitriol
+dr_948856$Polyvinyl Alcohol
+dr_929128$Propylene glycol
+dr_40171826$WHEAT DEXTRIN
+dr_19069046$omacetaxine mepesuccinate
+dr_1337860$Dopamine
+dr_40066267$Mometasone / Salicylic Acid Topical Ointment
+dr_1347384$irbesartan
+pt_693060$Senna occidentalis
+dr_529114$L1 protein, Human papillomavirus type 18 Vaccine
+dr_40113990$Guaifenesin / Pseudoephedrine Transdermal Patch
+dr_19011031$Pregnenolone
+pt_1872619$Calendula officinalis
+dr_19055078$CLORAZEPIC ACID
+dr_19030059$alginic acid
+dr_1400498$Iron Carbonyl
+dr_40080504$Sodium Fluoride / Triclosan Toothpaste
+dr_700253$Thiopental
+pt_1798822$Rheum palmatum
+dr_40003488$Acetaminophen / Aspirin / Caffeine / salicylamide Oral Tablet
+dr_40128140$Acetaminophen / Dextromethorphan / Diphenhydramine Oral Solution
+dr_19071862$lidamidine
+dr_40125348$Calcium Carbonate / Psyllium Oral Capsule
+dr_43560379$fipronil
+dr_1154343$Albuterol
+dr_42899012$Fennel oil
+pt_1741204$Vitis vinifera
+dr_919204$Amylases
+dr_1335471$benazepril
+dr_40234201$butylscopolamine
+dr_40026558$Clotrimazole / hexamidine Topical Cream
+dr_40027653$Coal Tar / Salicylic Acid Topical Solution
+dr_976545$potassium citrate
+dr_19135939$Ferrous citrate Fe59
+dr_40003525$Acetaminophen / Caffeine / Chlorpheniramine / Phenylephrine Oral Tablet
+dr_19056408$BUTCHER'S BROOM Preparation
+dr_596876$Hepatitis A Vaccine, Inactivated
+dr_19003946$ketazolam
+dr_19004718$Demecarium
+dr_42903893$Ovalbumin
+dr_1558242$Gemfibrozil
+dr_986261$Colloidal oatmeal
+dr_19024938$campesterol
+dr_42873355$Cholecalciferol / Vitamin A Oral Solution
+pt_1851880$Anethum graveolens
+dr_19042852$Phospholipids
+dr_797617$Citalopram
+dr_19059547$Potassium gluconate
+dr_19086888$deflazacort
+dr_42899412$Magnesium Ascorbate
+dr_40014865$Calcium Carbonate / magnesium trisilicate Chewing Gum
+dr_40170680$dalfampridine
+dr_19049709$lornoxicam
+dr_1350504$Etoposide
+dr_44818465$AESCULUS HIPPOCASTANUM SEED OIL
+dr_19012565$Mycophenolic Acid
+pt_918107$Cornus canadensis
+dr_926770$Papain
+dr_19071236$lactitol
+dr_1756822$Furazolidone
+dr_40019010$Benzocaine / resorcinol Vaginal Cream
+dr_43531800$Cochineal
+dr_19042575$tribenoside
+dr_1308185$lycopene
+dr_948078$pantoprazole
+dr_1769535$Cefadroxil
+dr_19026180$Digitoxin
+dr_19122134$Pegaptanib Sodium
+dr_19078938$vinburnine
+dr_19125388$Menotropins
+dr_42900561$succinate
+pt_1815908$Vaccinium corymbosum
+dr_40010569$Atenolol / Nifedipine Oral Tablet
+dr_19041933$tibolone
+dr_19126536$Oleate
+pt_1965597$Vaccinium macrocarpon
+dr_906914$Urea
+dr_40142665$Albuterol / Ipratropium Metered Dose Inhaler
+dr_40057968$dorzolamide / Timolol Ophthalmic Solution
+dr_19014977$Nicorandil
+dr_19067803$Sincalide
+dr_917336$Desoximetasone
+dr_40029212$Codeine / Ethylmorphine Oral Tablet
+dr_40002643$Acetaminophen / Diphenhydramine Oral Tablet
+dr_19024227$Methacholine
+dr_19100379$serratiopeptidase
+dr_929983$monobenzone
+dr_19091472$Lisuride
+dr_713196$interferon beta-1b
+dr_19078808$Indoramin
+dr_19000729$Aprotinin
+dr_19056154$dopexamine
+dr_43525630$Calamine / Menthol / Zinc Oxide Topical Ointment
+dr_1125449$pirbuterol
+dr_40028928$Cysteine / Methionine Oral Capsule
+dr_40225722$ulipristal
+dr_959665$Pyrethrins
+pt_1770892$Terminalia catappa
+dr_1729720$Penicillin V
+dr_1338512$Doxorubicin
+dr_44506781$Ferrous carbonate
+dr_19018481$aminoquinuride
+dr_1763339$Rimantadine
+dr_45892826$potassium oxide
+pt_1861233$Cichorium intybus
+dr_40131615$ferrous sulfate / Folic Acid Oral Tablet
+dr_19069075$hydroquinidine
+dr_942765$TRIETHANOLAMINE POLYPEPTIDE OLEATE CONDENSATE
+dr_40011852$Bendroflumethiazide / Potassium Chloride Oral Tablet
+dr_1724827$Zalcitabine
+dr_914053$naftifine
+dr_1310317$Cyclophosphamide
+dr_1325124$Dicumarol
+dr_40142311$phenol / Zinc Oxide Topical Ointment
+dr_19050484$Etidocaine
+dr_19106870$Indium IN-111 Chloride
+dr_904351$Aminolevulinic Acid
+dr_710062$Amitriptyline
+dr_19038998$bretylium
+dr_19005147$Methotrimeprazine
+dr_19054997$iodine-131-tositumomab
+dr_1150345$meloxicam
+dr_40145363$Ampicillin / Cloxacillin Oral Solution
+dr_43014259$valerate
+pt_1581589$Lycopodium clavatum
+dr_19058092$Gelatin
+dr_19065450$fosfestrol
+dr_978577$Mineral Oil, Light
+dr_40144020$fluticasone / salmeterol Dry Powder Inhaler
+dr_43526717$GLYCERYL PHOSPHATE
+dr_42904062$Adonis vernalis extract
+dr_44785907$umeclidinium
+dr_40051197$Lanolin / Mineral Oil / Petrolatum Topical Lotion
+dr_928006$Iodoquinol
+dr_1302398$Ticlopidine
+dr_19051599$Daunorubicin Liposomal
+dr_19000732$Thyroglobulin
+dr_44816332$albiglutide
+dr_1771162$Cefazolin
+dr_1135766$Phenylephrine
+dr_1763204$Rifampin
+pt_1853312$Sambucus nigra
+dr_909358$Cyclizine
+dr_19088571$Leucine
+pt_1766090$Ulmus americana
+dr_1331235$quinapril
+dr_19058549$CALCIUM ALGINATE
+dr_40052975$Hydrocortisone / Oxytetracycline Topical Spray
+dr_19037794$bismuth subnitrate
+dr_19113007$bosentan monohydrate
+pt_2337805$Ephedra sp.
+dr_1748921$Ritonavir
+dr_1036228$Sucralfate
+dr_1363387$sorafenib
+dr_19048046$L-methylfolate
+dr_40006795$Albuterol / Ipratropium Inhalant Solution
+dr_40137835$Hydrocortisone / pramoxine Rectal Gel
+dr_908360$magaldrate
+dr_40223343$Benzocaine / butamben / Tetracaine Mucosal Spray
+dr_40151685$Ascorbic Acid / POLYETHYLENE GLYCOL 3350 / Potassium Chloride / Sodium Ascorbate / Sodium Chloride / sodium sulfate Oral Solution
+dr_19122158$Iothalamate
+dr_19122136$Atosiban
+dr_19091288$ISOSPAGLUMIC ACID
+pt_1879874$Tanacetum parthenium
+dr_1311443$Dactinomycin
+dr_19089602$Dihematoporphyrin Ether
+dr_19135830$rabies immune globulin, human
+dr_1386670$Thioctate
+dr_1341927$Enalapril
+dr_19111620$Folic Acid
+dr_40045124$Hydrochlorothiazide / quinapril Oral Tablet
+dr_42899344$Maltose
+dr_19016440$Benperidol
+dr_19089969$clevidipine
+dr_40241969$brentuximab vedotin
+dr_1740546$Carbenicillin
+dr_753860$Fenfluramine
+dr_19078097$Idarubicin
+dr_724908$Biperiden
+dr_40071903$Neomycin / Polymyxin B Topical Cream
+pt_883917$Convallaria majalis
+dr_45775116$olodaterol
+dr_42899196$Gold
+dr_19024246$Dichloroacetate
+pt_930842$Fagus grandifolia
+dr_19070954$HAWTHORN BERRY
+pt_820195$Amaranthus retroflexus
+pt_2681488$Schizonepeta tenuifolia
+dr_19036731$benzthiazide
+dr_45775526$lithium hydroxide
+dr_19049410$chloroprocaine
+dr_1188052$dexbrompheniramine
+dr_709699$Molindone
+pt_696262$Pisum sativum
+dr_1304107$imatinib
+dr_1163944$Guaifenesin
+dr_19080985$Iohexol
+dr_40017332$Caffeine / propyphenazone Rectal Suppository
+dr_19056038$MAGNESIUM GLUTAMATE
+dr_1763779$Griseofulvin
+dr_1728416$Penicillin G
+dr_19056874$Dexketoprofen
+dr_19137385$Thiotepa
+dr_19126916$Pyruvate
+dr_45775571$glycopyrronium
+dr_1777254$Ceftizoxime
+dr_43527027$atorvastatin / ezetimibe Oral Tablet
+dr_927478$pramoxine
+dr_19123879$Lead
+dr_40163710$pneumococcal capsular polysaccharide type 9V vaccine
+pt_1737880$Liquidambar styraciflua
+dr_19098980$Ringer's solution
+dr_19069223$liotrix
+dr_40030382$Dapsone / FERROUS OXALATE Oral Tablet
+dr_19128219$Norethandrolone
+dr_19068433$Heptaminol
+dr_42900483$Kerosene
+dr_1149196$Cetirizine
+dr_712757$Amobarbital
+pt_1780994$Boswellia serrata
+dr_1236493$Sulfinpyrazone
+dr_40133396$Castor Oil / Peruvian balsam / TRYPSIN Topical Gel
+dr_40067733$Nystatin / Tinidazole Vaginal Tablet
+dr_1778262$Imipenem
+dr_19015395$Levonordefrin
+dr_19005257$Methoxyflurane
+pt_1793186$Carica papaya
+dr_19112540$beta Sitosterol
+dr_19027308$Potassium Hydroxide
+dr_42903944$Bacillus firmus
+dr_40222939$Mineral Oil / pramoxine / Zinc Oxide Rectal Ointment
+dr_46234385$Capsaicin / methyl salicylate Topical Cream
+dr_19039679$Cantharidin
+dr_19044273$fospropofol
+dr_19098530$POTASSIUM,CHELATED
+dr_19135473$Acai Berry Extract
+dr_40142614$Acetaminophen / phenyltoloxamine Delayed Release Oral Capsule
+dr_1309068$Minoxidil
+dr_836877$Tetrabenazine
+dr_44507733$oxalate
+dr_1152134$Aurothiomalate
+dr_40123985$loteprednol etabonate / Tobramycin Ophthalmic Suspension
+dr_1760616$Quinine
+dr_43532063$Nitrocellulose
+dr_19068896$halometasone
+pt_1744702$Aristotelia chilensis
+dr_40028361$Ciprofloxacin / Hydrocortisone Otic Suspension
+dr_19051926$Magnesium lactate
+dr_19000812$Stigmasterol
+dr_1125443$Dornase Alfa
+dr_19122121$Insulin
+dr_19068839$Hexetidine
+dr_1398579$cayenne extract
+dr_40242545$Ascorbic Acid / Calcium Carbonate Oral Tablet
+dr_19018882$oxitropium
+dr_40172365$iodoform
+dr_19032614$Acetone
+pt_1735251$Sabia purpurea
+dr_19091701$Liver Extract
+dr_19009054$meglumine ioxithalamate
+pt_1843198$Capsicum frutescens
+dr_782211$entacapone
+dr_1106776$tiotropium
+dr_42873635$lorcaserin
+dr_19136187$Streptokinase
+dr_19084912$Aluminum aspirin
+dr_19055344$Fluocortolone
+dr_40239116$ferrous bisglycinate
+dr_19086560$danthron
+dr_1366773$histrelin
+dr_19122131$Potassium chlorate
+dr_1516800$Risedronate
+dr_44818461$siltuximab
+dr_19127547$calcium citrate malate
+dr_19017585$Netilmicin
+dr_19092377$Lysine
+dr_19078092$Sodium gluconate
+dr_19118265$succinylated gelatin
+dr_42900471$indole
+dr_40147561$coenzyme Q10 / Vitamin E Oral Solution
+dr_1355509$Floxuridine
+dr_966376$Allantoin
+dr_19090761$regadenoson
+dr_45775351$bicarbonate ion
+dr_1036157$Starch
+dr_40238930$Rilpivirine
+pt_1747450$Populus deltoides
+dr_19040563$Carbenoxolone
+dr_1520218$Betaine
+pt_820764$Pinus pinaster
+dr_44507676$obinutuzumab
+dr_1563600$Chorionic Gonadotropin
+pt_1906765$Rhamnus frangula
+dr_1703063$valganciclovir
+dr_42709327$peginesatide
+dr_1541079$Corticotropin
+dr_43013471$Ascorbate
+dr_19050554$Etretinate
+pt_854784$Uncaria tomentosa
+pt_893016$Olea europaea
+dr_19091239$domiphen
+dr_1318011$oxaliplatin
+dr_40007380$Amiloride / Hydrochlorothiazide Oral Tablet
+dr_19086176$BCG, Live, Tice Strain
+dr_40230712$eribulin
+dr_19089733$dihydroxyaluminum aminoacetate
+dr_1301065$Dalteparin
+dr_19011685$roxatidine
+dr_1702364$Ticarcillin
+dr_19058933$erdosteine
+dr_904250$Methazolamide
+dr_44817912$Aspirin / Citric Acid / Sodium Bicarbonate Effervescent Oral Tablet
+pt_1764710$Crataegus rhipidophylla
+pt_1829397$Verbascum thapsus
+dr_1326303$Digoxin
+dr_19033498$Carbutamide
+dr_19003959$Methadyl Acetate
+dr_45775375$quinaprilat
+dr_43525774$chondroitin sulfate (chicken)
+dr_19097664$Citrulline
+dr_1713905$doripenem
+dr_19046724$Pirenzepine
+dr_19011951$Debrisoquin
+dr_992308$dyclonine
+pt_1819466$Strychnos toxifera
+dr_42900072$Sodium succinate
+dr_723013$Diazepam
+dr_43012190$betadex
+pt_2366336$Citrus sinensis
+dr_911735$rabeprazole
+dr_19135788$Potassium Permanganate
+dr_914335$Atropine
+dr_1551860$Pravastatin
+dr_1307046$Metoprolol
+dr_19089496$gadoversetamide
+dr_44814600$tasimelteon
+dr_1318030$Oprelvekin
+dr_19015756$norfenefrine
+dr_19007737$Mianserin
+dr_19078612$Indocyanine Green
+dr_19031041$Diphtheria Antitoxin
+dr_40138647$Dextran 70 / hypromellose Ophthalmic Gel
+dr_19056805$GRAPE SEED
+dr_43012263$dodecyl sulfate
+dr_1507558$Nafarelin
+dr_19023835$BCG, Live, Connaught Strain
+dr_19007721$Thyrotropin
+dr_40042056$Estradiol / norgestimate Oral Tablet
+dr_40133820$pramoxine / Zinc Oxide Rectal Cream
+dr_40140541$Amlodipine / valsartan Oral Tablet
+pt_361857$Arabis vochinensis
+dr_987245$Lactulose
+dr_732893$Bupivacaine
+dr_990760$Lipase
+dr_19135909$Fat emulsion
+dr_40029205$Codeine / Diclofenac Oral Tablet
+dr_19058494$epigallocatechin gallate
+dr_1738366$cefprozil
+dr_1396131$ferrous sulfate
+dr_911891$Fiber
+dr_40239056$abiraterone
+dr_1777087$Hydroxychloroquine
+dr_1351447$Tocainide
+dr_19043327$veralipride
+dr_40053099$Ibuprofen / Pseudoephedrine Oral Tablet
+dr_40229357$Benzocaine / Menthol Topical Cream
+pt_1879460$Achillea millefolium
+dr_19058896$calcium lactate
+dr_19070251$Spiramycin
+dr_19056737$BENZOXONIUM
+dr_1741309$terbinafine
+dr_19028286$cefodizime
+dr_960900$Aloe Extract
+dr_1118045$oxaprozin
+pt_934617$Hedera canariensis
+dr_19000820$Sulfamethoxypyridazine
+dr_40077118$Piperacillin / tazobactam Injectable Solution
+dr_43525900$TURMERIC OIL
+dr_40141015$Dextromethorphan / Guaifenesin Oral Granules
+dr_1136601$benzonatate
+dr_1178663$Indomethacin
+dr_908730$magnesium trisilicate
+dr_19112518$adrafinil
+dr_561429$Polyvalent pneumococcal vaccine
+dr_19088079$pantothenate
+dr_19043154$troxerutin
+dr_45775583$hypericin
+dr_19071869$Calcium Aspartate
+dr_40222444$denosumab
+dr_40228423$Levomefolic Acid
+dr_44506559$Camphor / methyl salicylate Topical Oil
+dr_1704183$Lamivudine
+dr_19003568$isopropyl myristate
+dr_1130863$Brompheniramine
+pt_1856222$Cynara scolymus
+dr_44817986$Dextromethorphan / Doxylamine / Phenylephrine Effervescent Oral Tablet
+dr_40168899$calcium pyruvate
+dr_40234834$vilazodone
+dr_19068969$Hexoprenaline
+dr_45775579$Iothalamic Acid
+dr_19001305$Diloxanide
+dr_42903826$cetyl myristoleate
+dr_40007226$Allantoin / Camphor / phenol Topical Ointment
+dr_586491$cytomegalovirus immune globulin
+dr_990340$Pancrelipase
+dr_40138959$Ferrous fumarate / Folic Acid Oral Solution
+dr_40039016$Ethambutol / isoniazid Oral Tablet
+dr_19005629$Trimethadione
+dr_19018488$butalamine
+dr_40081388$Sulfamethoxazole / Trimethoprim Oral Tablet
+dr_44816294$apremilast
+dr_1136487$ropivacaine
+pt_881990$Aloe africana
+pt_852694$Teucrium scorodonia
+dr_43533062$konjac mannan
+pt_908911$Phleum pratense
+dr_19026733$Chlormadinone
+dr_19063951$Guaiacol
+dr_19044890$Anistreplase
+dr_929549$Acetic Acid
+pt_862983$Dioscorea composita
+dr_904205$Apple pectin
+dr_1311276$vardenafil
+dr_40004832$Acetic Acid / Hydrocortisone Otic Solution
+dr_1336539$sunitinib
+dr_40052961$Hydrocortisone / Neomycin / Polymyxin B Topical Cream
+dr_19002662$Mephenesin
+dr_722031$Paroxetine
+dr_40001289$Lidocaine / Norepinephrine Injectable Solution
+dr_19087063$Eicosapentaenoate
+dr_42904152$Ginko biloba leaf oil
+dr_544505$rabies virus vaccine wistar strain PM-1503-3M (Human), Inactivated
+dr_42706042$Ascorbic Acid / Bioflavonoids Oral Capsule
+dr_939506$Sodium Bicarbonate
+dr_19063874$Roxithromycin
+dr_996541$fluocinolone
+dr_19096683$Chymopapain
+pt_900860$Avena sativa
+dr_1146810$Piroxicam
+dr_40097680$bismuth subsalicylate / Calcium Carbonate Oral Tablet
+dr_19092108$Levomethadyl
+dr_19061053$Adrenal cortex extract
+dr_40139665$Pseudoephedrine / Triprolidine Oral Suspension
+dr_937791$bismuth subsalicylate
+pt_834585$Panax ginseng
+dr_19052896$Deoxycholate
+dr_956691$Fructose
+dr_44814271$ANTIOXIDANT 119
+dr_1707164$Metronidazole
+dr_19079204$Zinc Gluconate
+dr_19023286$phenacemide
+pt_1884503$Arnica montana
+dr_19135936$razoxane
+dr_45775760$Suvorexant
+dr_998415$Clobetasol
+dr_1328165$Diltiazem
+pt_1799355$Fallopia multiflora
+dr_1381504$Alprostadil
+dr_705755$Trimipramine
+pt_700646$Cercis canadensis
+dr_19010015$Cyclopenthiazide
+dr_1580747$sitagliptin
+dr_44814613$pineapple extract
+dr_19106100$factor XIII
+dr_40165636$pitavastatin
+dr_19004621$Methenolone
+dr_40013515$Benzocaine / Tyrothricin Oral Solution
+pt_1816201$Vaccinium stenophyllum
+dr_19018885$oxolamine
+dr_19036797$tolvaptan
+dr_45776789$Influenza A virus vaccine, A-California-7-2009 (H1N1)-like virus / Influenza A virus vaccine, A-Victoria-361-2011 (H3N2)-like virus / Influenza B virus vaccine, B-Massachusetts-2-2012-like virus / Influenza Virus Vaccine, Live Attenuated, B-Brisbane-60-20
+dr_19113034$allobarbital
+dr_40003530$Acetaminophen / Caffeine / Codeine Oral Tablet
+dr_19131064$Sodium Stibogluconate
+dr_1353048$Licorice
+pt_2085781$Acacia senegal
+dr_1794280$Mebendazole
+pt_907581$Oryza sativa
+dr_42900486$mercuric sulfate
+dr_1303425$Tranexamic Acid
+dr_1337191$calcium hydroxide
+dr_1704758$Triclosan
+dr_40002859$Acetaminophen / butalbital / Caffeine / Codeine Oral Tablet
+dr_40012296$Aspirin / Carisoprodol Oral Tablet
+dr_43013853$Thymine
+dr_956266$Flurandrenolide
+dr_40045122$Hydrochlorothiazide / moexipril Oral Tablet
+dr_19039850$sodium bisulfite
+dr_44507700$vortioxetine
+dr_924566$tamsulosin
+dr_1360067$Iron
+pt_845160$Ricinus communis
+dr_40013464$Benzocaine / Cetylpyridinium Oral Lozenge
+dr_40244281$astaxanthin
+dr_42709323$ivacaftor
+dr_19095467$ethyl loflazepate
+dr_40039679$Furosemide / Potassium Extended Release Oral Tablet
+dr_43532365$GLUCOSE OXIDASE
+dr_954853$Flavoxate
+pt_1879984$Matricaria chamomilla
+dr_19066568$Amilomer
+dr_40162860$Benzocaine / Isopropyl Alcohol Topical Solution
+dr_532272$Measles Virus Vaccine Live, Enders' attenuated Edmonston strain
+dr_42903904$silver chloride
+dr_735850$Disulfiram
+dr_42900497$lemon oil
+dr_40022000$Cetylpyridinium / Menthol Oral Lozenge
+dr_19050123$profenamine
+dr_42898278$ANGELICA ROOT OIL
+dr_523620$Mumps Vaccine
+dr_19063605$pegaptanib
+dr_40024591$Camphor / phenol Topical Solution
+dr_40020053$Calcium Carbonate / Vitamin D Oral Tablet
+dr_40029291$Citicoline / ergoloid mesylates, USP Delayed Release Oral Tablet
+dr_42900525$ferric oxide
+dr_43013119$lomitapide
+dr_40013994$Bacitracin / Polymyxin B Topical Powder
+dr_40154630$Calcium Carbonate / Cholecalciferol Extended Release Oral Tablet
+dr_1353011$Dexrazoxane
+dr_1500211$Medroxyprogesterone
+dr_1784444$Ivermectin
+dr_42899779$Serotonin
+dr_1147878$zileuton
+pt_1882927$Helianthus annuus
+dr_987406$Ethacrynate
+dr_19024873$phthalylsulfathiazole
+dr_40131279$Calcium Carbonate / Folic Acid / Vitamin B Complex Extended Release Oral Tablet
+dr_43526711$Ethinyl Estradiol / Norethindrone Oral Capsule
+dr_19024904$Oxprenolol
+dr_909795$nepafenac
+dr_19018416$Niclosamide
+dr_40052996$Hydrocortisone / pramoxine Rectal Foam
+dr_19095703$fenbufen
+dr_42900051$Toluene
+dr_951511$Mupirocin
+dr_42904177$perampanel
+dr_19071968$Creatinine
+dr_42899124$HUMAN CORD BLOOD HEMATOPOIETIC PROGENITOR CELL
+pt_891650$Salvia alba
+dr_19094483$Medigoxin
+dr_40168385$romidepsin
+dr_19034275$bambuterol
+dr_40021512$Carbidopa / entacapone / Levodopa Oral Tablet
+dr_1350040$Amifostine
+dr_19000819$Sulfaguanidine
+dr_19052447$Chenodeoxycholate
+pt_1737841$Paeonia lactiflora
+dr_19003201$iodixanol
+dr_19068028$glycol salicylate
+pt_912130$Zea mays
+dr_919345$Gentamicin Sulfate (USP)
+dr_19113060$Hexobendine
+dr_44816310$miltefosine
+dr_42709320$ingenol mebutate
+dr_19070957$PNEUMOCOCCAL VACCINE, DIPHTHERIA CONJUGATE
+dr_42899788$Shea butter
+dr_19001014$Nadroparin
+dr_40164052$Asenapine
+dr_801396$halazepam
+dr_40166675$telavancin
+dr_19005015$Methohexital
+pt_1851157$Daucus carota
+dr_1140123$acrivastine
+dr_19091628$BOTULISM ANTITOXIN E
+dr_740560$Carbidopa
+dr_1319219$Calcium ascorbate
+dr_19050346$Eucalyptol
+dr_19013765$respiratory syncytial virus immune globulin intravenous
+dr_927194$Dihydroxyacetone
+dr_19011069$Asparagine
+dr_19008336$Vindesine
+dr_19011094$benzquercin
+dr_19136247$Sucrose
+dr_751347$Primidone
+dr_964407$Salicylic Acid
+dr_19042155$tolfenamic acid
+dr_43012243$Butylated Hydroxyanisole
+dr_543291$varicella-zoster immune globulin
+dr_1598658$Clofibrate
+dr_19004295$Thiamylal
+dr_19020092$bunazosin
+dr_957797$Psyllium
+dr_19123864$Canrenoate
+dr_19006586$rufinamide
+dr_955372$Ethanol
+dr_40027461$Dexamethasone / sodium phosphate Injectable Suspension
+dr_19024728$decitabine
+dr_19090187$Insulin, Protamine Zinc, Pork
+dr_1555120$Fludrocortisone
+dr_1112807$Aspirin
+dr_1343039$Triptorelin
+dr_19112635$Morphine Liposomal
+pt_1883833$Echinacea angustifolia
+pt_1785377$Eurycoma longifolia
+pt_2171435$Dunaliella salina
+dr_40064156$Methenamine / sodium phosphate Oral Tablet
+dr_40017306$Caffeine / Ergotamine Rectal Suppository
+dr_19030493$Bromhexine
+dr_957623$amlexanox
+dr_1315027$Cranberry preparation
+dr_1397141$bevacizumab
+dr_1506602$Methyltestosterone
+dr_1381253$anagrelide
+dr_743196$Enflurane
+dr_19011039$arginine glutamate
+dr_19004153$methantheline
+dr_19011091$deferiprone
+dr_19059707$Terpin hydrate
+dr_40092309$alginic acid / magnesium carbonate Oral Tablet
+dr_1329415$Dinoprostone
+dr_19003691$oxaceprol
+dr_954819$cevimeline
+dr_19050633$sertindole
+dr_40037859$Epinephrine / Mepivacaine Injectable Solution
+dr_19064329$flumequine
+dr_19017074$Deslanoside
+dr_19059705$Flumethiazide
+dr_1786617$Daptomycin
+dr_1711947$Deferoxamine
+dr_1702911$telithromycin
+pt_696557$Melilotus officinalis
+dr_45892478$L1 protein, Human papillomavirus type 58 Vaccine
+pt_909559$Poa pratensis
+dr_1338985$Nesiritide
+pt_882469$Aloe vera
+dr_19066992$Silymarin
+dr_43525773$Ospemifene
+dr_19004969$Trientine
+dr_19056300$compound benzoin tincture (USP)
+pt_1751666$Garcinia mangostana
+dr_948760$Polysorbate 80
+dr_1502905$Insulin Glargine
+dr_19008864$malic acid
+dr_19035533$benfluorex
+dr_40059842$crotamiton / Hydrocortisone Topical Cream
+dr_19058867$Calcium gluceptate
+dr_40133440$Dextromethorphan / Guaifenesin / Pseudoephedrine Oral Suspension
+dr_745268$ergoloid mesylates, USP
+dr_939259$Budesonide
+dr_19071966$Adenine
+dr_1337720$Dobutamine
+dr_19107829$fenspiride
+dr_43532281$fluticasone / vilanterol Dry Powder Inhaler
+dr_1123995$metaproterenol
+pt_693065$Senna alexandrina
+dr_19023254$Oleandomycin
+dr_42899937$Polyethylene Glycol 4000
+dr_19038562$Palifermin
+dr_19054876$dienogest
+dr_1590165$insulin, regular, beef-pork
+pt_1798895$Rumex crispus
+dr_45892185$zinc phosphate
+dr_19018980$bromopride
+dr_19030692$aluminum sulfate
+dr_19033691$asiaticoside
+dr_1346686$eprosartan
+dr_1319880$Nisoldipine
+dr_19135789$Potassium Sorbate
+dr_19019932$budipine
+dr_902427$Timolol
+dr_19011163$Pumpkin seed extract
+dr_19077884$Sodium Acetate
+dr_42898339$Antimony
+dr_40109924$Dextromethorphan / Pseudoephedrine Oral Suspension
+pt_1882085$Ambrosia artemisiifolia
+dr_19098722$SLIPPERY ELM BARK
+dr_1000632$Clotrimazole
+dr_40050922$Inositol / Niacin Oral Tablet
+dr_40040110$Erythromycin / Isotretinoin Topical Gel
+dr_1126128$Diflunisal
+dr_42799711$Gemtuzumab ozogamicin
+dr_40044588$Glucose / Potassium Chloride Injectable Solution
+dr_40171288$tocilizumab
+dr_938044$brinzolamide
+dr_40027598$Cilazapril / Hydrochlorothiazide Oral Tablet
+dr_42899139$Hypericum extract
+dr_40063385$Miconazole / Zinc Oxide Topical Ointment
+dr_40046788$Hydrocortisone / Natamycin / Neomycin Topical Ointment
+dr_40140235$Gramicidin / Neomycin / Polymyxin B Topical Cream
+dr_787362$Ambenonium
+dr_797399$gabapentin
+dr_45775080$efinaconazole
+dr_720810$Pramipexole
+dr_19010400$Fusidate
+dr_40133422$Choline / Magnesium Salicylate Oral Tablet
+dr_912263$certolizumab pegol
+dr_1305063$FE HEME POLYPEPTIDE
+dr_42903847$ethylene glycol
+dr_40010075$Antipyrine / Caffeine Oral Tablet
+dr_19005512$Trimebutine
+dr_40017424$Calcium Citrate / Ergocalciferol Oral Tablet
+dr_1748975$cefepime
+dr_19065826$trisodium citrate
+dr_19042545$treosulfan
+dr_19011093$Tenofovir
+dr_955632$Fluorouracil
+dr_19123344$beta-Alanine
+dr_45892329$Acetaminophen / Brompheniramine Oral Tablet
+dr_19091804$Magnesium sulfate heptahydrate
+dr_43012761$Interleukin-6
+dr_780442$varenicline
+pt_1847492$Ilex paraguariensis
+dr_40148364$Acetaminophen / Chlorpheniramine / Dextromethorphan / Pseudoephedrine Oral Suspension
+dr_40000694$Loperamide / Simethicone Oral Tablet
+dr_42900451$orange oil
+dr_40015080$Bismuth / pectin Oral Suspension
+dr_1597756$glimepiride
+dr_1342001$Enalaprilat
+dr_45892326$Sodium glycerophosphate
+pt_838782$Plectranthus barbatus
+dr_42874135$vincristine liposome
+dr_19039762$butamirate
+dr_19052552$Rabies antigen
+dr_19099102$KOREAN GINSENG ROOT
+dr_19114603$Providone-Iodine
+dr_19015346$Barbital
+pt_1842625$Lycium barbarum
+dr_42900439$nickel
+dr_42904167$RICE BRAN
+dr_46221771$Camphor / Histamine / Menthol Topical Spray
+dr_42709321$vismodegib
+dr_1351115$coenzyme Q10
+dr_1036059$Antipyrine
+dr_19037833$Domperidone
+dr_40012245$Aspirin / Caffeine / Codeine Oral Tablet
+dr_40241642$Acetylcysteine / L-methylfolate / mecobalamin Oral Tablet
+dr_938205$Camphor
+dr_42903427$Aldosterone
+dr_40024099$Chlorhexidine / silver sulfadiazine Topical Cream
+pt_1771309$Terminalia bellirica
+dr_992590$Chlorothiazide
+dr_935529$Benoxinate
+dr_937725$bismuth subgallate
+dr_1370109$Sotalol
+dr_19122138$Iodophors
+dr_19010868$abarelix
+dr_40023567$Chlorpheniramine / Pseudoephedrine Oral Solution
+dr_19010927$conivaptan
+dr_19041843$Carbocysteine
+dr_922868$Permethrin
+dr_1115008$Naproxen
+dr_40026522$Clopamide / Pindolol Oral Tablet
+dr_40131453$Deoxycholate / Pepsin A Oral Tablet
+dr_742267$topiramate
+dr_19135863$rosemary oil
+dr_42899969$WORMWOOD OIL
+dr_532881$Typhoid Vi Polysaccharide Vaccine, S typhi Ty2 strain
+dr_19011440$everolimus
+dr_19124477$Lithium
+dr_19080440$Formalin
+pt_1729664$Anamirta cocculus
+pt_1767524$Urtica urens
+dr_19092139$lepirudin
+dr_920113$mequinol
+dr_19042345$Lecithin
+dr_19069425$nimesulide
+dr_1714277$voriconazole
+dr_937439$Bethanechol
+dr_947705$podofilox
+dr_1521987$Teriparatide
+dr_43014229$seaweed extract
+dr_912803$Verteporfin
+dr_19071744$Crotalidae Polyvalent immune Fab
+dr_989301$Cetylpyridinium
+dr_40151038$cobamamide / Vitamin B 12 Sublingual Tablet
+pt_693531$Arachis hypogaea
+dr_40028118$Cyclopentolate / Phenylephrine Ophthalmic Solution
+pt_2029903$Aconitum carmichaelii
+dr_19135932$Rauwolfia Alkaloids
+pt_901085$Bambusa vulgaris
+dr_40029366$Dextromethorphan / Doxylamine Oral Solution
+pt_1788602$Cola nitida
+dr_40161662$besifloxacin
+pt_829264$Mentha arvensis
+dr_19038536$raltitrexed
+dr_19100435$talinolol
+dr_1344354$Epirubicin
+pt_1763045$Prunus americana
+dr_19002770$desflurane
+dr_19035856$distigmine
+pt_360553$Raphanus sativus
+dr_19018489$Bupranolol
+dr_19016072$certoparin
+dr_922976$Peruvian balsam
+dr_19055954$biclotymol
+dr_715997$donepezil
+dr_1153013$Promethazine
+dr_19015802$lercanidipine
+dr_1196677$formoterol
+dr_42705655$Bifidobacterium bifidum / Bifidobacterium lactis / Lactobacillus acidophilus / Lactobacillus casei rhamnosus Oral Capsule
+dr_43525903$Polyhexanide
+dr_40228152$dabigatran etexilate
+dr_1508241$policosanol
+dr_19020994$Nitroprusside
+dr_42874220$cobicistat
+dr_40131316$Chlorpheniramine / Dextromethorphan Chewable Tablet
+dr_1327256$Treprostinil
+dr_42899387$MORINDA CITRIFOLIA FRUIT JUICE
+dr_42899536$Oil of garlic
+dr_19042692$triclofos
+dr_46221677$Camphor / Menthol Topical Solution
+dr_40039678$Furosemide / Potassium Chloride Oral Tablet
+dr_40163615$dronedarone
+pt_1769783$Bryonia alba
+dr_1759270$Pyrantel
+dr_1111220$arformoterol
+dr_42899650$Nitric Acid
+dr_40173337$Polysorbate 20
+dr_43526934$RADIUM CHLORIDE RA-223
+dr_40066585$Methylprednisolone / Neomycin Topical Ointment
+dr_19071651$lavender oil
+dr_19082402$niaprazine
+dr_719174$Benztropine
+dr_19055224$Flunitrazepam
+dr_19051271$Cefotiam
+dr_19018013$micafungin
+pt_881774$Allium sativum
+dr_40008942$Amlodipine / benazepril Oral Capsule
+dr_19072028$mepindolol
+dr_40066152$Methylene blue / Naphazoline Ophthalmic Solution
+dr_1792429$Proguanil
+dr_19059658$chromocarb diethylamine
+dr_42899712$Salix alba bark extract
+dr_42900311$cinnamon oil, leaf
+pt_1730981$Aconitum balfourii
+dr_42903834$Esculin
+dr_1508439$Mifepristone
+dr_909021$medrysone
+dr_40146904$Loratadine / Pseudoephedrine Oral Solution
+pt_857438$Ananas comosus
+dr_19058343$Phenoxyethanol
+dr_19010943$Opiates
+pt_2027635$Saussurea costus
+dr_19080407$BELLADONNA LEAF
+dr_19041153$temafloxacin
+dr_950316$Ethyl Chloride
+dr_40002744$Acetaminophen / Naproxen Rectal Suppository
+dr_959196$Witch Hazel
+dr_19039227$bromperidol
+dr_40024320$Camphor / Eucalyptus oil / methyl salicylate Topical Ointment
+pt_1851454$Carum carvi
+dr_19131663$Perazine
+dr_19066602$Grapefruit seed extract
+dr_993979$Malathion
+dr_1169352$alpha 1-Antitrypsin
+dr_1399063$Echinacea purpurea extract
+dr_941472$terconazole
+dr_40017282$cafedrine / theodrenaline Oral Tablet
+dr_42900468$Platinum
+pt_1729388$Jateorhiza palmata
+dr_19059544$Sodium bitartrate
+dr_991825$Trospium
+dr_19009847$Methylmethacrylate
+pt_910197$Saccharum officinarum
+dr_911486$Glutamate
+dr_19071999$mecysteine
+dr_1311078$Cytarabine
+dr_43532299$dabrafenib
+dr_1336825$bortezomib
+dr_40010726$Bee pollen / royal jelly Chewable Tablet
+dr_950435$Citric Acid
+dr_1125315$Acetaminophen
+dr_1769389$Nevirapine
+dr_19125106$Medazepam
+dr_1145379$Ergotamine
+dr_19122259$Iproniazid
+dr_1183554$Isoproterenol
+dr_19091101$DOBESILIC ACID
+dr_19078126$Sodium polystyrene sulfonate
+dr_1718054$Caspofungin
+dr_19097059$DEXTROSE SOLUTION
+dr_43012202$Fluorodeoxyglucose F18
+dr_40028359$Ciprofloxacin / Dexamethasone Otic Suspension
+dr_908464$magnesium carbonate
+dr_19018601$Calcium Fluoride
+dr_19064698$flupirtine
+pt_1766221$Humulus lupulus
+dr_40241284$dyclonine / Glycerin Mucosal Spray
+dr_45892075$palbociclib
+dr_19000207$Medrogestone
+dr_19008897$manganese sulfate
+dr_43533066$diethylene glycol
+dr_40241186$Ticagrelor
+dr_42903799$fulvic acid
+dr_1836948$Tetracycline
+dr_1385645$Interferon Alfa-n3
+dr_19015812$cathine
+dr_1342439$trandolapril
+dr_42800240$sodium sulfide
+pt_912492$Coffea canephora
+dr_42901047$Lidocaine / Phenylephrine Rectal Cream
+dr_19035226$Remoxipride
+dr_42900491$mebrofenin
+dr_43012331$hydroxypropyl methylcellulose 2910
+dr_40125507$Chlorpheniramine / Phenylephrine Extended Release Suspension
+dr_40037958$Estrogens, Conjugated (USP) / Medroxyprogesterone Oral Tablet
+pt_1828464$Plantago lanceolata
+dr_19115051$risedronic acid
+dr_42903569$denatonium benzoate
+dr_943030$Phosphoric acid
+dr_19129638$Orotic Acid
+dr_704943$Methocarbamol
+pt_1747440$Populus alba
+dr_19052817$Dehydrocholate
+dr_40069004$Pancreatin / Pepsin A Oral Tablet
+dr_941577$tetrahydrozoline
+pt_1852933$Angelica dahurica
+dr_1391307$Saw palmetto extract
+dr_752061$Prochlorperazine
+dr_40231459$Panthenol
+dr_40242675$crizotinib
+dr_19018520$Beclamide
+dr_19096877$Anhydrous Dextrose
+dr_1344965$Guanfacine
+dr_1711523$Indinavir
+dr_40031530$Diosmin / Hesperidin Oral Tablet
+pt_1729846$Epimedium brevicornu
+dr_735951$Riluzole
+dr_1507835$Vasopressin (USP)
+pt_696526$Medicago sativa
+dr_40008987$Ammonium Chloride / Caffeine Delayed Release Oral Tablet
+dr_928980$Dimethyl Sulfoxide
+dr_40066489$Menthol / phenol Oral Lozenge
+dr_19135781$Polysaccharides
+dr_19009721$Trapidil
+dr_19018434$alpha-ketoglutaric acid
+dr_19100417$sulbutiamine
+dr_19028106$Isopropyl Alcohol
+dr_40044825$Hydrochlorothiazide / Methyldopa Oral Tablet
+dr_19090831$pholedrine
+dr_559532$Yellow Fever Vaccine
+dr_961145$Glycerin
+dr_1501700$levothyroxine
+dr_42899378$MENTHA ARVENSIS LEAF OIL
+dr_1436650$mercaptopurine
+dr_991710$Sodium Phosphate, Dibasic
+dr_19070174$Cefamandole
+dr_704053$Methamphetamine
+dr_1315003$Pomegranate Extract
+dr_923829$Opium
+dr_40053091$Ibuprofen / Oxycodone Oral Tablet
+dr_19058971$CALCIUM LEVULINATE
+pt_1852971$Angelica pubescens
+dr_19011985$dehydroemetine
+dr_1373928$Hydralazine
+dr_42900552$xanthine
+dr_794147$Maprotiline
+dr_42900430$myrrh oil
+dr_40002741$Acetaminophen / Metoclopramide Oral Tablet
+dr_703244$paliperidone
+pt_1789490$Sterculia urens
+dr_709567$Lisdexamfetamine
+dr_1345858$Pindolol
+dr_977421$rimexolone
+dr_40044851$Hydrochlorothiazide / Spironolactone Oral Tablet
+dr_19076389$Hydrogen
+dr_40147525$aliskiren / Hydrochlorothiazide Oral Tablet
+dr_19030299$aprobarbital
+dr_43531966$Immunoglobulin A
+dr_42900339$almond oil
+pt_1785850$Azadirachta indica
+dr_19061731$ferrous chloride
+dr_915829$isopropyl unoprostone
+dr_1310756$moexipril
+dr_40235485$azilsartan
+dr_974166$Hydrochlorothiazide
+dr_42904288$glycyrrhizinate
+dr_40131393$Chondroitin Sulfates / Glucosamine Oral Tablet
+dr_40029421$Citric Acid / sodium citrate Oral Solution
+dr_19042778$triflusal
+dr_19007490$Metyrapone
+dr_19092845$temsirolimus
+dr_43011671$aluminum magnesium silicate / Calcium Carbonate / Sodium Bicarbonate Oral Tablet
+dr_40142806$Brompheniramine / Phenylephrine Extended Release Oral Tablet
+dr_40105948$Benzocaine / phenol Mucous Membrane Topical Solution
+dr_19136047$Smallpox Vaccine
+dr_19098505$Ginkgo Biloba Leaf Extract
+dr_1703069$emtricitabine
+dr_19042550$triazulenone
+dr_19123624$flutrimazole
+dr_19135850$85 Strontium
+dr_19015726$Cisatracurium
+dr_40239178$Famotidine / Ibuprofen Oral Tablet
+dr_43531992$Ioflupane I-123
+dr_19103483$Ethacridine
+dr_938268$sennosides, USP
+dr_19024770$Biotin
+dr_40064151$Methenamine / Sodium Phosphate, Monobasic Oral Tablet
+dr_1311799$Daunorubicin
+dr_719311$Dextroamphetamine
+pt_1722072$Piper nigrum
+dr_1717002$enfuvirtide
+dr_40005862$Allopurinol / Benzbromarone Oral Tablet
+dr_1705674$Trimethoprim
+dr_1395557$fludarabine
+dr_19010876$Uridine
+dr_42709325$tafluprost
+dr_19026564$Dihydroergocryptine
+dr_19055183$Flunarizine
+dr_714684$nefazodone
+dr_1350489$Prazosin
+pt_908547$Paspalum notatum
+dr_45775313$Hirudin
+dr_40242133$Guaifenesin / Menthol Oral Suspension
+dr_1747032$grepafloxacin
+dr_749910$Carisoprodol
+dr_966282$Selenium
+dr_19057483$Aclarubicin
+dr_1746114$Piperacillin
+dr_19086554$Cellulose, Oxidized
+dr_43532539$vilanterol
+dr_40045126$Hydrochlorothiazide / telmisartan Oral Tablet
+dr_40030490$Chlorquinaldol / Hydrocortisone Topical Ointment
+dr_40231628$tesamorelin
+dr_1140643$Sumatriptan
+dr_929887$lansoprazole
+dr_1562586$Insulin, Zinc, Pork
+dr_19011126$gemeprost
+dr_19071833$Arnica montana Extract
+dr_40090601$Thiamine / Vitamin B 12 Oral Tablet
+pt_833683$Origanum vulgare
+dr_19102230$Ergot Alkaloids
+dr_953391$Propantheline
+dr_925636$Oxymetazoline
+dr_1341238$Terazosin
+dr_19050414$Ethylmorphine
+dr_40161669$canakinumab
+dr_529072$Streptococcus pneumoniae serotype 9V capsular antigen diphtheria CRM197 protein conjugate vaccine
+dr_955583$Fluorometholone
+dr_1398516$pine bark extract
+dr_19050387$Ethylestrenol
+dr_1358436$dasatinib
+dr_925102$Dienestrol
+dr_19054693$Olive Leaf Extract
+dr_759401$methsuximide
+dr_1124300$Diclofenac
+dr_19051035$cuprous oxide
+dr_19132965$Plantago Seed
+dr_530007$Haemophilus influenzae b (Ross strain) capsular polysaccharide Meningococcal Protein Conjugate Vaccine
+dr_1129625$Diphenhydramine
+dr_725131$Mirtazapine
+dr_19031267$cetiedil
+dr_19027958$fesoterodine
+dr_941004$Tadenan
+dr_19019088$Nikethamide
+dr_19061088$Dexmedetomidine
+dr_1792515$Chloroquine
+dr_1344143$Albumin Human, USP
+dr_19039029$brilliant green
+dr_40039762$Ethinyl Estradiol / Levonorgestrel Oral Tablet
+dr_40103241$Acetaminophen / Propoxyphene Extended Release Oral Tablet
+dr_1583722$exenatide
+dr_19069873$Sodium Iodide
+dr_19098741$Levobupivacaine
+dr_40039793$Ethinyl Estradiol / Norgestrel Oral Tablet
+dr_740275$Carbamazepine
+dr_40223496$Cilastatin / Imipenem Injectable Suspension
+pt_361861$Armoracia rusticana
+dr_970250$Spironolactone
+dr_40013973$Bacitracin / Neomycin / Polymyxin B Topical Ointment
+dr_929504$proparacaine
+dr_1787101$maraviroc
+dr_1305447$Methyldopa
+pt_845457$Rosmarinus officinalis
+dr_43012417$pasireotide
+dr_738152$Doxapram
+dr_740910$Phenytoin
+dr_19122437$Lactobacillus rhamnosus GG
+dr_19095285$ethanolamine oleate
+dr_44818083$Diphenhydramine / Hydrocortisone Medicated Shampoo
+dr_42874212$elvitegravir
+dr_19015533$nomegestrol
+dr_40002755$Acetaminophen / Pentazocine Oral Tablet
+dr_43012385$magnesium carbonate hydroxide
+dr_40132356$Benzocaine / Tetracaine Oral Spray
+dr_40042286$Fluoxetine / olanzapine Oral Capsule
+dr_1236607$Sulindac
+dr_794852$Chlorpromazine
+dr_19056571$dromostanolone
+dr_43013775$Polyethylene Glycol 1000
+dr_1786055$deferasirox
+dr_45776670$belinostat
+dr_19132906$Canrenoic Acid
+dr_40012869$Ascorbic Acid / Sodium Fluoride Extended Release Oral Tablet
+dr_43012215$1-Propanol
+dr_42903876$tricaprylin
+dr_1552929$Etidronate
+dr_917205$Desonide
+dr_19002077$Talampicillin
+dr_19008009$Cosyntropin
+dr_1309188$Mitoxantrone
+dr_19059405$Germanium
+dr_19000815$Strontium
+dr_1343346$vinorelbine
+dr_40027162$Dexamethasone / Neomycin / Polymyxin B Ophthalmic Suspension
+dr_40021665$Cetirizine / Pseudoephedrine Extended Release Oral Tablet
+dr_19048493$gadobutrol
+dr_1750928$Trimetrexate
+dr_44507580$Macitentan
+dr_19072255$Cefmetazole
+dr_581480$pegademase bovine
+dr_19122349$Isoflavones
+dr_19126511$gluconate
+dr_996625$Fluorescein
+dr_1387426$Folate
+dr_19126937$NADH
+pt_1828371$Plantago afra
+dr_939726$butamben
+dr_40145234$Albuterol / Guaifenesin Oral Solution
+pt_820331$Juniperus virginiana
+dr_40236897$Roflumilast
+dr_19046291$piperazine
+dr_40039209$Fosinopril / Hydrochlorothiazide Oral Tablet
+dr_40019011$Benzocaine / salicylamide Topical Gel
+dr_911638$glycolate
+pt_2409784$Astragalus propinquus
+dr_1586449$mecasermin rinfabate
+dr_40233617$Camphor / Menthol / methyl salicylate Topical Oil
+dr_19065867$gamma-oryzanol
+dr_19100431$sultopride
+dr_19029488$Diosmin
+dr_42898269$ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY
+dr_19033710$Phenacetin
+dr_903643$Tretinoin
+dr_1750500$Clarithromycin
+dr_40015664$Benzoyl Peroxide / Clindamycin Topical Gel
+dr_19093225$pipamperone
+dr_19048202$GOLDEN SEAL EXTRACT
+dr_19058355$Cholecystokinin
+pt_1828389$Plantago caffra
+dr_19006969$Aprindine
+dr_1335606$Disopyramide
+dr_1551803$Fenofibrate
+dr_19018438$aluminum magnesium silicate
+dr_1544838$Insulin, Glulisine, Human
+pt_1784984$Citrus aurantiifolia
+dr_704599$Triazolam
+dr_1101703$homatropine
+dr_1398693$KAVA ROOT
+dr_40037280$Felodipine / Metoprolol Extended Release Oral Tablet
+dr_44507848$Ibrutinib
+dr_19004095$Methandriol
+dr_1337651$Vorinostat
+dr_915175$Bacitracin
+dr_1344905$Carboplatin
+dr_44506452$Fenofibrate / Simvastatin Oral Tablet
+dr_40137949$Acetaminophen / Aspirin / Caffeine Oral Powder
+dr_1368671$Milrinone
+dr_42899647$Naphthalene
+dr_19024535$carbazochrome
+dr_19009896$Molybdenum
+dr_1112921$Ipratropium
+dr_19129643$Oxyfedrine
+pt_820344$Juniperus oxycedrus
+dr_19019122$Dextran 40
+dr_19024249$Clodronic Acid
+dr_1786842$Cephradine
+dr_19098649$SIBERIAN GINSENG ROOT
+dr_19049150$Carboprost
+dr_1359516$Astragalus Root Extract
+dr_19050761$clebopride
+dr_1313200$Nadolol
+dr_42706008$Calcium Carbonate / vitamin D3 Chewable Tablet
+dr_40052989$Hydrocortisone / Zinc Sulfate Topical Ointment
+dr_1189697$eletriptan
+pt_1746957$Salix nigra
+dr_19071905$lithium sulfate
+dr_40144024$fluticasone / salmeterol Metered Dose Inhaler
+dr_1558471$cabergoline
+dr_1836410$Sulfadoxine
+dr_906780$Metoclopramide
+dr_40012575$Aspirin / Dipyridamole Oral Capsule
+pt_1852918$Angelica archangelica
+dr_1800835$Cloxacillin
+dr_19058274$Purified Protein Derivative of Tuberculin
+dr_19018640$bopindolol
+dr_19003522$lanatoside C
+dr_1315140$Horse Chestnut Preparation
+dr_19100363$clothiapine
+dr_42898462$CLOVE LEAF OIL
+pt_1796298$Viscum album
+dr_43014178$palmitate
+dr_42904106$Betula pendula leaf extract
+dr_19031583$gadoxetate
+dr_19000921$sulthiame
+dr_19033278$arachis oil
+dr_19071967$Creatine
+dr_19092290$Chlormezanone
+dr_40019697$Calcium Carbonate / Glycine Oral Tablet
+dr_19095043$Chlortetracycline
+dr_40011453$Ascorbic Acid / Aspirin Oral Tablet
+dr_43012210$geranylgeranylacetone
+dr_44818466$ceritinib
+dr_40050301$isoniazid / Rifampin Oral Tablet
+dr_19029327$proglumetacin
+dr_19002425$Sodium Pertechnetate Tc 99m
+dr_40096806$benzthiazide / Triamterene Oral Capsule
+pt_1812818$Arctostaphylos uva-ursi
+dr_949279$Carboxymethylcellulose
+dr_42800417$Ammonia
+dr_19024761$butethamate citrate
+dr_1543112$Lutropin alfa
+dr_938362$pemirolast
+dr_45775686$tedizolid
+dr_40042054$Estradiol / Testosterone Injectable Suspension
+dr_19058410$degarelix
+dr_19024140$quinagolide
+dr_1307863$Verapamil
+dr_40242716$Epinephrine / Lidocaine Prefilled Syringe
+dr_42900398$argan oil
+dr_19112533$pumpkin seed oil
+dr_19046036$piperacetazine
+dr_1186087$abatacept
+dr_1553610$Levocarnitine
+dr_19086790$Cephapirin
+dr_45892558$dasabuvir
+pt_1843182$Capsicum annuum
+dr_19123846$gamma-Aminobutyrate
+dr_43533099$GRAPEFRUIT JUICE
+dr_19069103$ifenprodil
+dr_903031$tiopronin
+dr_40225716$resveratrol
+dr_19045317$digoxin antibodies Fab fragments
+dr_19000382$Lactobacillus bulgaricus
+dr_998598$ALPHA-D-GALACTOSIDASE ENZYME
+dr_40132785$Hydrocodone / Pseudoephedrine Extended Release Suspension
+dr_42900480$jasmine oil
+dr_1139179$bromfenac
+dr_909959$alefacept
+dr_1036425$Sulfamethizole
+dr_40163171$Mineral Oil, Light / Petrolatum Oral Gel
+dr_40142178$Papain / Urea Topical Foam
+dr_40062921$Mestranol / Norethindrone Oral Tablet
+dr_42799067$Acetaminophen / Diphenhydramine / Pseudoephedrine Oral Suspension
+dr_19113063$nilvadipine
+dr_46233855$oldaterol / tiotropium Metered Dose Inhaler
+dr_1333379$arsenic trioxide
+dr_40011853$Bendroflumethiazide / Potassium Extended Release Oral Tablet
+dr_19029644$acipimox
+dr_19063297$thyrotropin alfa (USP)
+dr_741530$orlistat
+dr_40002849$Acetaminophen / Tramadol Oral Tablet
+pt_1748422$Turnera diffusa
+dr_1192710$Chlorpheniramine
+dr_19136716$Taurine
+dr_19008374$Tea Tree Oil
+dr_19127550$Nialamide
+dr_19067271$Iotrolan
+dr_19015768$Methoxy polyethylene glycol-epoetin beta
+dr_1510813$rosuvastatin
+pt_1784383$Agathosma betulina
+dr_19081343$Sodium Chloride, Bacteriostatic
+dr_1595799$Ferrous fumarate
+dr_717136$Neostigmine
+dr_40091165$Triamcinolone / Urea Topical Ointment
+pt_829247$Melissa officinalis
+dr_1750074$Ethionamide
+dr_40142130$Lamivudine / Stavudine Oral Tablet
+dr_19068397$Allylestrenol
+dr_1519936$Etonogestrel
+dr_1756831$darunavir
+dr_19101402$habekacin
+dr_19007693$Vanadium
+dr_19091809$talniflumate
+pt_1730926$Actaea racemosa
+dr_45775566$gadopentetate
+dr_19055717$Erwinia asparaginase
+pt_1767456$Urtica ardens
+dr_19010309$Water
+dr_19003249$ioxilan
+dr_45775636$meningococcal group B vaccine
+pt_896884$Fraxinus americana
+dr_40156435$adapalene / Benzoyl Peroxide Topical Gel
+dr_19054991$helicidine
+dr_913782$tolterodine
+dr_1111706$zafirlukast
+pt_697008$Cytisus scoparius
+dr_40022933$Chloramphenicol / Hydrocortisone Topical Ointment
+dr_751246$Lithium Carbonate
+dr_19101597$trimethylphloroglucinol
+dr_19113058$moxaverine
+dr_44817971$Chlorpheniramine / Dextromethorphan / Phenylephrine Effervescent Oral Tablet
+dr_19090016$dipipanone
+dr_19056756$Tegafur
+dr_1512674$drospirenone
+dr_40020076$Calcium Carbonate / Ergocalciferol Oral Tablet
+dr_19009365$methoxyphenamine
+pt_1856752$Silybum marianum
+dr_19068893$guaiazulene
+dr_44818489$ramucirumab
+dr_1114620$Nedocromil
+dr_19136429$Sulfamethazine
+dr_19031224$Pentostatin
+dr_1151789$Etanercept
+dr_1321341$Norepinephrine
+pt_1737950$Hamamelis virginiana
+dr_46221581$insulin, isophane
+dr_19086712$Peppermint oil
+dr_42904298$ocriplasmin
+dr_19112593$Levabuterol
+dr_745790$Pimozide
+dr_19126622$Moxalactam
+dr_19095309$Cholestyramine Resin
+dr_19014215$SODIUM LAURYL SULFOACETATE
+pt_1750339$Hypericum perforatum
+dr_19136207$Lymphocyte Immune Globulin, Anti-Thymocyte Globulin
+dr_43012577$Catechin
+dr_19035396$reproterol
+dr_1766340$halofantrine
+dr_40172153$collagenase Clostridium histolyticum
+dr_561401$Tetanus immune globulin, human
+dr_42904205$tofacitinib
+dr_40238052$Vandetanib
+dr_40241205$azficel-T
+dr_45775396$nintedanib
+dr_40079358$Streptodornase / Streptokinase Topical Solution
+dr_19124329$Levopropoxyphene
+dr_19091486$doxacurium
+dr_42899645$Octopamine
+dr_40240536$Camphor / Menthol / phenol Topical Solution
+dr_948515$Polyethylene Glycols
+dr_1797155$peginterferon alfa-2b
+dr_19013951$Insulin, Regular, Beef
+dr_40012579$Aspirin / Hydrocodone Oral Tablet
+dr_19082894$Dexetimide
+dr_19008261$Viloxazine
+dr_19076414$Potassium Acetate
+dr_1501309$thyroid (USP)
+dr_19011193$Acetyldigitoxin
+dr_19097605$gallium nitrate
+dr_40012578$Aspirin / Glycine Oral Tablet
+dr_19007803$lofexidine
+dr_1502826$nateglinide
+dr_40030487$Chlorquinaldol / Diflucortolone Topical Cream
+dr_19016754$Benzbromarone
+dr_951469$calcium acetate
+dr_19068715$monofluorophosphate
+dr_1378509$Topotecan
+dr_915855$olopatadine
+dr_1345141$Mibefradil
+dr_19109079$Interferon-beta
+dr_916005$Solifenacin
+dr_40015092$Bisoprolol / Hydrochlorothiazide Oral Tablet
+dr_19048700$Haemophilus B Conjugate Vaccine
+dr_19095288$ethaverine
+dr_1301267$Melphalan
+dr_1715117$Aztreonam
+dr_1717963$ertapenem
+dr_930916$Diphenoxylate
+dr_529118$Haemophilus influenzae type b, capsular polysaccharide inactivated tetanus toxoid conjugate vaccine
+dr_19039767$butobarbital
+dr_19100440$terodiline
+dr_40054620$ezetimibe / Simvastatin Oral Tablet
+dr_19080550$CHROMIUM PICOLINATE
+dr_19035100$fibrinolysis inhibitor
+dr_19056189$Pancreas extract
+dr_19135796$Feprazone
+dr_43525787$ado-trastuzumab emtansine
+dr_19027080$potassium bicarbonate
+dr_42903959$Helicobacter pylori
+dr_1735947$rifaximin
+pt_879488$Smilax aristolochiifolia
+dr_1150836$Terfenadine
+dr_45892916$Carbidopa / Levodopa Oral Suspension
+dr_19030957$Escherichia coli
+dr_19070899$CARBO VEGETABILIS
+dr_19086100$mizolastine
+dr_1352213$Factor VIII
+dr_40002767$Acetaminophen / Phenylpropanolamine / phenyltoloxamine Oral Tablet
+dr_1000772$Granisetron
+dr_1201620$Codeine
+dr_1521592$Norgestrel
+dr_19004724$Methionine
+dr_43013616$Edetate Calcium
+dr_1594973$Chlorpropamide
+dr_910888$Cysteamine
+dr_19071904$lithium succinate
+dr_1777417$Rifabutin
+pt_1735063$Fumaria officinalis
+dr_19050237$crataegus extract
+dr_44814284$Acetaminophen / Oxycodone Extended Release Oral Tablet
+dr_40182120$heme iron polypeptide
+dr_43012199$Chloroform
+dr_19126395$OREGANO OIL
+dr_19002431$Tilidine
+dr_1036525$Sulfur
+dr_43012233$citral
+dr_40027584$Cilastatin / Imipenem Injectable Solution
+dr_19092712$Chlorphenesin
+pt_1763055$Prunus armeniaca
+dr_44818507$sanguinarine
+dr_19050560$Eugenol
+dr_40140677$Clavulanic Acid / Ticarcillin Injectable Solution
+dr_1596779$synthetic conjugated estrogens, A
+dr_1037358$Thiethylperazine
+dr_40092302$alginic acid / Aluminum Hydroxide Oral Tablet
+dr_19050087$ibutilide
+dr_40145247$Acetaminophen / Promethazine Oral Solution
+dr_40049453$Indapamide / Perindopril Oral Tablet
+dr_42799278$Benzoyl Peroxide / Sulfur Medicated Shampoo
+dr_45775207$Lactobacillus casei
+dr_19001904$cefpirome
+dr_1548111$cinacalcet
+dr_19054048$Propyliodone
+dr_40039775$Ethinyl Estradiol / Lynestrenol Oral Tablet
+dr_40025169$Chloroquine / Proguanil Oral Tablet
+dr_19059817$Pyridoxal
+dr_981654$penciclovir
+dr_19054248$Proteins
+dr_19078187$Ifosfamide
+dr_904453$Esomeprazole
+dr_1308738$Vitamin B 12
+dr_19049437$chloropyramine
+dr_43526405$dicloran
+dr_1536743$ganirelix
+dr_19000817$Sulbenicillin
+dr_19017742$febuxostat
+dr_40142961$Chlorpheniramine / Hydrocodone Extended Release Oral Capsule
+dr_40007372$Amiloride / Cyclopenthiazide Oral Tablet
+dr_19035577$Phenylalanine
+dr_1159811$Pyrilamine
+dr_40012621$Aspirin / Quinine Oral Tablet
+pt_1851908$Petroselinum crispum
+dr_1154161$montelukast
+dr_19010969$Virginiamycin
+dr_19015397$Activated attapulgite
+dr_40029837$Codeine / Ibuprofen Oral Tablet
+dr_42899432$Klebsiella pneumoniae
+dr_738818$Doxylamine
+pt_696697$Robinia pseudoacacia
+dr_19100759$tiropramide
+dr_19014158$nalmefene
+dr_19037624$Acetylcholine
+dr_1731597$drotrecogin alfa
+dr_19018663$Fluoride Ion
+dr_1784749$Kanamycin
+dr_19016435$benorilate
+dr_40166388$Morphine / Naltrexone Extended Release Oral Capsule
+dr_733523$rivastigmine
+dr_19011097$Propionate
+dr_19017390$Indigotindisulfonate
+pt_823607$Lavandula angustifolia
+dr_40224705$autologous cultured chondrocytes
+dr_19059622$ethyl cysteine
+dr_1776430$Hydrogen Peroxide
+dr_1200939$guaiacolsulfonic acid
+dr_40029243$Cystine / Vitamin B6 Oral Tablet
+dr_1304277$Milk thistle extract
+dr_40012892$Ascorbic Acid / calcium phosphate Oral Tablet
+dr_44816322$Fatty Acids, Omega-6
+dr_40226208$Pegloticase
+pt_1738831$Sedum griseum
+dr_919986$apraclonidine
+pt_1727825$Cinnamomum verum
+dr_1164108$salicylamide
+dr_46234437$ivabradine
+dr_19005570$Trimeprazine
+dr_918906$oxybutynin
+dr_1366237$Guanabenz
+dr_19113052$Almitrine
+dr_45775210$Potassium ascorbate
+dr_19017805$Inamrinone
+dr_1153928$Fenoprofen
+dr_40017006$Cyclamate / Saccharin Oral Tablet
+dr_986790$Azelate
+dr_40018130$Betamethasone / Clioquinol Topical Ointment
+dr_42898624$Barium
+dr_40007374$Amiloride / Furosemide Oral Tablet
+dr_19011124$GRAPEFRUIT EXTRACT
+dr_705103$lamotrigine
+dr_40238770$boceprevir
+dr_19024191$Reteplase
+dr_19050863$clobutinol
+dr_40172543$spinosad
+dr_1315342$Flaxseed extract
+dr_714785$Amphetamine
+dr_19027339$potassium perchlorate
+dr_44818493$coagulation factor IX recombinant immunoglobulin G1 fusion protein
+dr_1309799$eplerenone
+dr_40003676$Acetaminophen / Chlorpheniramine Oral Tablet
+dr_19009877$methylparaben
+dr_19121338$Tocotrienols
+dr_19051865$Muromonab-CD3
+dr_19056402$amphotericin B liposomal
+dr_1307542$Mexiletine
+dr_19066894$Silicones
+dr_40027796$Cyclizine / Morphine Injectable Solution
+dr_42873639$aclidinium
+pt_906605$Lolium perenne
+dr_19009165$Plicamycin
+dr_43531935$Iobenguane I-123
+dr_40010968$Atropine / Diphenoxylate Oral Tablet
+dr_19060358$Pyrithioxin
+dr_42900528$grape seed oil
+dr_586413$pneumococcal polysaccharides (23)
+pt_216666$Solanum dulcamara
+dr_1549786$Ethinyl Estradiol
+dr_40131837$Glutamate / magnesium citrate Oral Tablet
+dr_949459$chloroxylenol
+dr_19103699$gadodiamide
+dr_905371$Methylcellulose
+dr_42800040$avanafil
+dr_19097109$ZINC, CHELATED
+dr_19062817$Riboflavin
+dr_19041852$Emepronium
+dr_19070929$GAMMA LINOLEIC ACID
+dr_42899437$LACHESIS MUTA VENOM
+dr_19041222$Phloroglucinol
+dr_40124350$emtricitabine / tenofovir disoproxil Oral Tablet
+dr_42899538$Oil of niaouli
+dr_1436169$Antithrombin III
+pt_819059$Chenopodium album
+dr_44507693$luliconazole
+dr_40012538$Ascorbic Acid / Ferrous fumarate Oral Tablet
+dr_992956$Magnesium Hydroxide
+dr_40073281$Phenylephrine / Tropicamide Ophthalmic Solution
+pt_1031679$Melaleuca alternifolia
+dr_19092412$Chlorobutanol
+dr_943634$epinastine
+pt_696405$Trifolium pratense
+dr_1717704$valacyclovir
+dr_1319193$gefitinib
+dr_40222431$cabazitaxel
+dr_19018164$oxeladin
+dr_40101742$pramoxine / Zinc Acetate Topical Spray
+pt_1772813$Lythrum salicaria
+dr_986864$Nalidixate
+dr_19018746$idrocilamide
+dr_19022417$Heroin
+dr_932196$Cisapride
+dr_1351779$Procarbazine
+pt_1831559$Rehmannia glutinosa
+dr_19006877$Uracil
+pt_1881529$Calea acuminata
+dr_19037401$calcium phosphate
+dr_19136097$Bifidobacterium Infantis
+dr_1319998$Acebutolol
+dr_43013470$Argon
+dr_501343$hepatitis B immune globulin
+dr_19044522$Zinc Sulfate
+dr_1103314$Tramadol
+dr_1351541$Leuprolide
+dr_40076561$Potassium bitartrate / Sodium Bicarbonate Rectal Suppository
+dr_19137042$Thalidomide
+dr_711452$Benzoate
+dr_1344992$Iloprost
+dr_919681$Benzyl Alcohol
+dr_523202$Typhoid Vaccine Live Ty21a
+dr_40171076$sodium selenate
+dr_19018544$Calcium
+dr_40241654$Ascorbate Manganese
+pt_2287250$Chlorella pyrenoidosa
+dr_19135808$Proscillaridin
+dr_45775570$polystyrene sulfonate
+dr_42900092$Thymus vulgaris leaf extract
+dr_19086788$Potassium bitartrate
+dr_19044812$Phytosterols
+dr_19021932$paramethadione
+dr_19041226$Anethole Trithione
+dr_19012686$Aspartic Acid
+dr_43012161$mustard oil
+dr_19060831$Anise oil
+dr_974140$Hydrochloric Acid
+pt_844313$Quercus rubra
+dr_19097405$fusafungin
+pt_1843184$Capsicum baccatum
+dr_40062181$Metronidazole / Nystatin Vaginal Tablet
+dr_40020018$Calcium Carbonate / Magnesium Hydroxide Oral Tablet
+dr_19054821$clofarabine
+dr_1150886$chlophedianol
+dr_44785086$simeprevir
+dr_45775576$OMACETAXINE
+dr_40081017$Sulfalene / Trimethoprim Oral Suspension
+dr_19056706$LEVOMETHADONE
+dr_724816$Oxazepam
+dr_43013182$ponatinib
+dr_43012200$Indium
+dr_1736971$abacavir
+dr_19003412$iso-sulfan blue
+dr_40030492$Chlorquinaldol / promestriene Oral Tablet
+dr_19056447$FLUPREDNIDENE
+dr_19029322$propyphenazone
+dr_19083285$Inosine Pranobex
+dr_40053599$Kaolin / pectin Oral Suspension
+pt_1770731$Carya illinoiensis
+dr_19060837$Racemethionine
+dr_1167322$Allopurinol
+dr_942350$torsemide
+dr_514834$Honey bee venom
+dr_1389780$methylsulfonylmethane
+dr_19057354$alglucerase
+dr_19030087$alizapride
+pt_1812094$Styrax paralleloneurum
+dr_713823$ropinirole
+dr_42904231$danofloxacin
+dr_40020043$Calcium Carbonate / Sodium Fluoride Oral Tablet
+dr_42900581$tumeric oil
+dr_1560278$Glucagon
+dr_975125$Hydrocortisone
+dr_19008106$coumarin
+pt_693336$Tamarindus indica
+dr_44506753$lipegfilgrastim
+dr_40108485$Citric Acid / potassium bicarbonate Oral Tablet
+dr_19037706$bismuth oxide
+dr_43013171$teduglutide
+dr_19084915$Karaya Gum
+dr_1384360$Isoxsuprine
+dr_40244149$Bupivacaine / Sufentanil Injectable Solution
+dr_19031360$quinfamide
+dr_19100313$salicin
+dr_19129400$propinox
+dr_19011067$temoporfin
+dr_1300978$Megestrol
+pt_2044301$Prunus africana
+pt_1833727$Harpagophytum procumbens
+pt_820471$Abies balsamea
+dr_19010792$Cyproterone
+dr_19072857$Cefonicid
+dr_19086910$Tiaprofenate
+dr_40147651$dexbrompheniramine / Pseudoephedrine Oral Solution
+dr_948490$Polyethylene Glycol 400
+dr_929542$acetohydroxamic acid
+dr_19061374$Halibut liver oil
+dr_1309770$Aldesleukin
+dr_1554072$Propylthiouracil
+dr_40009527$Amphetamine / Dextroamphetamine Oral Tablet
+dr_40028890$Cyproterone / Ethinyl Estradiol Oral Tablet
+dr_923840$Dibucaine
+dr_1308842$valsartan
+dr_729855$Botulinum Toxin Type A
+dr_19048012$Escin
+dr_40012591$Aspirin / Methocarbamol Oral Tablet
+dr_948787$Polythiazide
+dr_42900485$mercuric cyanide
+dr_45892906$C1 esterase inhibitor
+dr_903893$emedastine
+dr_19069195$Homeopathic Remedies
+dr_19026277$Androstenedione
+dr_19081224$Iopamidol
+dr_1391846$Lomustine
+dr_930747$amcinonide
+dr_45774861$dalbavancin
+dr_19041910$tianeptine
+dr_1503432$pegvisomant
+dr_958999$carbamide peroxide
+dr_45776001$human skin preparation
+dr_40173582$Alendronate / Cholecalciferol Oral Tablet
+dr_40097560$aceprometazine / Meprobamate Oral Tablet
+dr_43532150$Prolactin
+dr_42899025$EMU OIL
+dr_19040051$spirapril
+dr_1150770$Astemizole
+dr_19084693$reboxetine
+dr_1343914$zeaxanthin
+dr_40137871$Lidocaine / Tetracaine Topical Cream
+dr_19012543$valrubicin
+dr_19079390$ZINC PICOLINATE
+dr_1712889$raltegravir
+dr_42900250$enzalutamide
+dr_948487$Polyethylene Glycol 300
+dr_19018431$alminoprofen
+dr_19100985$panitumumab
+dr_19024068$Bile Salts
+dr_991876$Loperamide
+dr_42903441$Influenza A virus
+dr_915542$brimonidine
+pt_846800$Salvia purpurea
+dr_40064619$Mineral Oil / Petrolatum Ophthalmic Ointment
+dr_1511856$phenylacetate
+dr_19100438$temocillin
+dr_19068830$ibritumomab tiuxetan
+dr_40175460$Cytarabine liposome
+dr_40044856$Hydrochlorothiazide / Triamterene / Verapamil Oral Tablet
+dr_40065740$Methyclothiazide / Triamterene Oral Tablet
+dr_19080470$LICORICE EXTRACT
+dr_537647$palivizumab
+dr_40031160$Chlorzoxazone / Ibuprofen Oral Tablet
+dr_19022015$Novobiocin
+dr_19089269$pirenoxine
+dr_42873636$mirabegron
+dr_1348407$imiglucerase
+dr_19097824$Clenbuterol
+dr_1503057$Aminoglutethimide
+dr_40013671$Bilberry extract / Black Pepper Preparation Oral Capsule
+dr_40154274$Diphenhydramine / Pseudoephedrine Extended Release Oral Tablet
+dr_19011082$Cystine
+dr_44814542$Droxidopa
+dr_1110410$Morphine
+dr_1308290$Vincristine
+dr_19016670$Docosahexaenoate
+dr_1385800$yohimbine
+dr_40175900$polidocanol
+dr_1710612$Zidovudine
+dr_19068894$tositumomab
+dr_42899307$Lithium Chloride
+dr_19058978$tricalcium phosphate
+dr_19110701$Fish Oils
+dr_19045581$cifenline
+dr_19045290$Evening primrose oil
+dr_40167554$pazopanib
+pt_1771563$Anogeissus latifolia
+dr_19039262$brotizolam
+dr_19053866$Fendiline
+dr_1307515$Urokinase
+dr_19009250$methdilazine
+dr_19101677$trofosfamide
+dr_1317640$telmisartan
+dr_988447$Masoprocol
+pt_1734422$Chelidonium majus
+dr_19066274$Selenite
+dr_1036884$Tetracaine
+dr_789578$Levodopa
+dr_1139699$butalbital
+dr_42900442$norflurane
+dr_19100575$theanine
+pt_2486866$Schisandra chinensis
+dr_1107830$Loratadine
+dr_1777806$Ceftriaxone
+dr_19127637$Chlopheniramine
+dr_19126544$Penicillin
+dr_19088393$dezocine
+dr_40224095$sipuleucel-T
+dr_1515249$troglitazone
+dr_19050090$Ethisterone
+dr_19072699$Botulism Immune Globulin IV Human
+dr_735979$Risperidone
+dr_19005918$borage oil
+dr_19036942$pramiverine
+pt_1855764$Atractylodes lancea
+dr_19096506$flubendazole
+dr_19017067$tirofiban
+pt_861740$Curcuma longa
+dr_19004283$Magnesium malate
+dr_44506794$bazedoxifene
+dr_19112915$methylfolic acid
+pt_878974$Ruscus aculeatus
+dr_19018255$Pyroglutamate
+dr_19013759$CHLORIDE HEXAHYDRATE
+dr_19003303$Metaraminol
+dr_40004013$Acetaminophen / butalbital / Caffeine Oral Tablet
+dr_19020789$corticorelin ovine
+dr_40129534$glimepiride / rosiglitazone Oral Tablet
+dr_940183$Carbachol
+dr_917006$Benzocaine
+dr_19011018$Zinc Orotate
+dr_40132089$Omeprazole / Sodium Bicarbonate Oral Suspension
+dr_1738170$lopinavir
+dr_19066567$MILK THISTLE FRUIT
+dr_19110712$trepibutone
+dr_1547504$rosiglitazone
+dr_1502877$mecasermin
+dr_19014213$POTASSIUM LACTATE
+dr_19011004$White wax
+dr_19111235$avobenzone
+pt_1852072$Angelica sinensis
+dr_40016170$Bromelains / Papain / TRYPSIN Delayed Release Oral Tablet
+dr_43532589$calcium phosphate / Cholecalciferol Chewable Tablet
+dr_908921$calcipotriene
+dr_1103518$isometheptene
+dr_1751310$Primaquine
+dr_19078156$Idoxuridine
+dr_967496$Lodoxamide
+pt_903537$Elymus repens
+dr_42900505$linaclotide
+dr_19022131$Fosaprepitant dimeglumine
+dr_19123346$Khellin
+dr_40001301$Lidocaine / Triamcinolone Topical Ointment
+dr_590675$MEASLES VIRUS VACCINE,LIVE ATTENUATED
+dr_19095761$ferric chloride
+dr_19020002$Vigabatrin
+dr_937712$phenyl salicylate
+dr_19059511$Ox bile extract
+dr_1140640$carbetapentane
+dr_528301$Neisseria meningitidis serogroup Y capsular polysaccharide diphtheria toxoid protein conjugate vaccine
+dr_19049759$denatured ethanol
+dr_40170592$enrofloxacin
+dr_1526475$ezetimibe
+pt_837243$Phyllanthus emblica
+dr_19037596$Acetylcarnitine
+dr_19029108$propamidine
+dr_780369$metaxalone
+dr_1326901$Papaverine
+dr_19010970$Vitamin B Complex
+dr_19064089$Safflower Oil
+dr_19101604$Cod Liver Oil
+pt_833015$Aralia elata
+dr_40056433$difebarbamate / febarbamate / Phenobarbital Oral Tablet
+dr_19027475$potassium sulfate
+dr_40148606$Niacin / Simvastatin Extended Release Oral Tablet
+dr_19010871$Tuberculin
+dr_19063575$esmolol
+dr_40008355$Ambroxol / Doxycycline Oral Capsule
+dr_40020216$Bisacodyl / Docusate Rectal Suppository
+dr_19017241$iloperidone
+pt_834588$Panax japonicus
+dr_42899259$Gallium
+pt_2546066$Curcuma xanthorrhiza
+dr_1729323$adefovir
+pt_821519$Hyssopus officinalis
+dr_19113574$Interferon-alpha
+pt_881765$Allium salinum
+dr_45776409$Acetaminophen / Caffeine Oral Powder
+dr_43525870$Guanine
+dr_42898952$Coconut Oil
+dr_19003107$invert sugar
+dr_40044466$Hydralazine / Hydrochlorothiazide Oral Tablet
+dr_700465$Thiothixene
+dr_43014081$glaucine
+dr_700299$Thioridazine
+dr_924309$Phenolphthalein
+dr_40034892$Diltiazem / Hydrochlorothiazide Extended Release Oral Capsule
+dr_40042028$Estradiol / Levonorgestrel Transdermal Patch
+dr_19082880$oxetorone
+dr_996416$Finasteride
+dr_1133201$Buprenorphine
+dr_19001409$glibornuride
+dr_19058510$cafedrine
+dr_45775547$UNOPROSTONE
+dr_1312706$alemtuzumab
+dr_40042000$Enalapril / Hydrochlorothiazide Oral Tablet
+dr_19097452$IGNATIA
+dr_529660$Hepatitis A Vaccine (Inactivated) Strain HM175
+dr_1506270$Methylprednisolone
+dr_1377023$Hydroxocobalamin
+dr_19113022$GLUCEPTATE
+dr_42903961$Potassium Ion
+dr_40022927$Chloramphenicol / Dexamethasone Ophthalmic Solution
+dr_19011127$prednylidene
+dr_998392$Gluconolactone
+dr_19009819$Molsidomine
+dr_1836430$Sulfamethoxazole
+dr_19026448$Dihydralazine
+dr_19086827$decanoic acid
+dr_19011438$Benzoin
+dr_19042445$tramazoline
+dr_40019690$Calcium Carbonate / Famotidine / Magnesium Hydroxide Chewable Tablet
+pt_846476$Salvia hispanica
+dr_988294$dexpanthenol
+dr_19005626$Trimetazidine
+dr_943191$tyloxapol
+dr_1380068$Interferon Alfa-2b
+dr_19003010$Meptazinol
+dr_998394$Heavy mineral oil
+dr_19113039$Lithium acetate
+dr_19025274$Oxygen
+dr_19090984$armodafinil
+dr_40012644$Aspirin / butalbital Oral Tablet
+dr_19034726$Sirolimus
+dr_40222570$Dutasteride / tamsulosin Oral Capsule
+dr_40003680$Acetaminophen / Chlorzoxazone Oral Tablet
+dr_19017671$Ginseng Preparation
+dr_40230761$lurasidone
+dr_936429$efalizumab
+dr_958527$belladonna extract, USP
+dr_1716721$gemifloxacin
+dr_19095275$potassium iodate
+dr_19103572$Air
+dr_19092849$Magnesium Chloride
+dr_19133992$pipothiazine
+dr_40241181$Turmeric extract
+dr_19113002$Recombinant Interferon
+dr_42900061$VETIVER OIL
+dr_19115050$rilmenidine
+dr_40012908$Ascorbic Acid / ferrous sulfate Oral Tablet
+dr_40046785$Hydrocortisone / Miconazole Topical Ointment
+dr_42900318$deslorelin
+dr_909841$methylnaltrexone
+dr_19006186$Tryptophan
+dr_19028947$Dimethindene
+dr_902251$hypromellose
+dr_1394027$Manganese
+dr_40081790$Sulfamoxole / Trimethoprim Oral Tablet
+dr_40242566$Bifidobacterium lactis
+dr_40045770$Hydrocodone / Ibuprofen Oral Tablet
+dr_40170911$liraglutide
+dr_43012333$hypromellose 2208
+dr_939881$Capsaicin
+dr_40236662$Dextromethorphan / Doxylamine / Pseudoephedrine Oral Solution
+dr_1126658$Hydromorphone
+dr_45776590$blueberry extract
+dr_19070012$Sodium Tetradecyl Sulfate
+dr_19051642$denileukin diftitox
+dr_1517070$desmopressin
+dr_1503184$Mestranol
+dr_906072$Tropicamide
+dr_40020072$Calcium Carbonate / Vitamin D Oral Wafer
+dr_42904294$Phosphorus 32
+dr_40095250$Atovaquone / Proguanil Oral Tablet
+dr_19060903$Digitalis preparation
+dr_40012555$Ascorbic Acid / Hesperidin Oral Tablet
+dr_19136423$Sulfalene
+dr_42898652$BAY LEAF OIL
+dr_19092358$Lynestrenol
+dr_19057718$Trichophyton antigen
+pt_1725444$Peumus boldus
+dr_1366310$Goserelin
+dr_40017191$Benzyl Alcohol / Sodium Chloride Injectable Solution
+dr_44784845$Inosine
+dr_1505346$Triiodothyronine
+dr_46221433$lenvatinib
+dr_40042037$Estradiol / Norethindrone Oral Tablet
+dr_40173209$Neisseria meningitidis serogroup Y oligosaccharide diphtheria CRM197 protein conjugate vaccine
+dr_1138050$bitolterol
+dr_1790692$Lincomycin
+pt_1784991$Citrus limon
+dr_19121248$4000 CPS
+dr_42900351$cajuput oil
+dr_1436678$Tamoxifen
+dr_19026524$Dihydroergocornine
+dr_19053864$Felypressin
+dr_19023450$rilonacept
+dr_19070224$Soybean Oil
+pt_1828479$Plantago major
+dr_42899537$Oil of ginger
+dr_1392182$Grape Seed Extract
+dr_19119253$terlipressin
+dr_19017895$Deoxycorticosterone
+dr_19050907$cloprednol
+dr_19135791$Practolol
+dr_1106740$Methysergide
+dr_19024636$Poloxamer 188
+dr_901318$Sodium Ascorbate
+dr_954696$Plasmin
+dr_42898757$Chamomile Flower Oil
+dr_1724869$Didanosine
+dr_40038639$Estrone / Progesterone Injectable Suspension
+dr_44506754$Lixisenatide
+dr_1130585$Pentazocine
+dr_19019620$Benzydamine
+dr_46221501$3,3'-diindolylmethane
+dr_19059518$Latrodectus mactans antivenin
+dr_1736999$tipranavir
+dr_933794$attapulgite
+dr_43014203$resorcinol / Sulfur Paste
+dr_1552310$Progesterone
+dr_919839$Arnica extract
+dr_40003685$Acetaminophen / Codeine / Ibuprofen Oral Tablet
+dr_40147374$Sulfamethoxazole / Trimethoprim Oral Solution
+dr_19099181$Clopamide
+dr_1715472$Nelfinavir
+dr_734354$pregabalin
+dr_44814525$ELOSULFASE ALFA
+dr_42901041$Bupivacaine / Hydromorphone Prefilled Syringe
+dr_1781406$Stavudine
+dr_40032489$Dicyclomine / Phenobarbital Oral Tablet
+dr_1359143$Cinnamon Bark
+dr_1322184$clopidogrel
+dr_19125582$iodine povacrylex
+dr_40142114$Lovastatin / Niacin Oral Tablet
+dr_42899445$LOVAGE OIL
+pt_362034$Brassica rapa
+dr_45775965$pembrolizumab
+dr_719057$Dexfenfluramine
+dr_19081256$Iopanoic Acid
+dr_19018435$althiazide
+dr_19012585$ASPARAGINASE
+dr_19080847$Alphaprodine
+dr_43525871$Cytosine
+dr_1103640$Methadone
+dr_19010296$Meningitis vaccine
+dr_19038440$basiliximab
+dr_1717240$Amphotericin B
+dr_19087208$Lactose
+dr_1326012$Isradipine
+dr_19055153$Flumazenil
+dr_918172$Benzoyl Peroxide
+dr_40062928$Mestranol / Norethynodrel Oral Tablet
+pt_1798819$Rheum officinale
+dr_43014106$Ethylene Oxide
+dr_44814342$Menthol / Zinc Oxide Topical Lotion
+dr_19037038$Calcium Gluconate
+dr_40012311$Aspirin / Codeine Oral Tablet
+dr_19037983$secnidazole
+dr_19095564$etofylline
+dr_40091379$Tegafur / Uracil Oral Capsule
+dr_969276$crotamiton
+dr_1344996$Moricizine
+dr_1188114$dexchlorpheniramine
+dr_19054825$Cladribine
+dr_1345205$Ergonovine
+dr_712615$ziprasidone
+dr_725822$Diethylpropion
+dr_19095079$potassium bromide
+dr_19069022$Sodium Fluoride
+dr_19127551$Nifurtimox
+dr_40023878$Chlorhexidine / Neomycin Topical Cream
+dr_1567198$Insulin, Aspart, Human
+dr_800878$Clozapine
+dr_19047598$Japanese encephalitis virus vaccine, inactivated
+dr_19066433$MILK THISTLE SEED EXTRACT
+dr_19003472$Rabbit anti-human T-lymphocyte globulin
+dr_40163731$ferumoxytol
+dr_19136046$Sitosterols
+dr_40044834$Hydrochlorothiazide / olmesartan Oral Tablet
+dr_19135852$Technetium 99m
+dr_1110942$omalizumab
+dr_19018070$ancestim
+dr_535714$Rho(D) Immune Globulin
+dr_19033634$artemether
+dr_42898720$Carbomer 1342
+dr_19006410$Arginine
+dr_19040627$sultamicillin
+dr_40092812$althiazide / Spironolactone Oral Tablet
+dr_19015703$ferumoxides
+dr_45775668$Acetaminophen / Dextromethorphan / Guaifenesin / Phenylephrine Oral Suspension
+dr_1397599$Cisplatin
+dr_955252$Fluocinonide
+dr_19008281$Tin
+dr_19034280$bamipine
+dr_40167522$maropitant
+dr_921956$Sinecatechins
+dr_19103213$CHROMIUM CITRATE
+dr_19106973$Omega-3 Fatty Acids
+dr_40011695$Ascorbic Acid / Bioflavonoids / Echinacea Preparation Oral Capsule
+dr_19061907$cortivazol
+dr_19012922$Amodiaquine
+dr_40158262$Salicylic Acid / Sulfur Medicated Liquid Soap
+dr_40166571$bepotastine
+dr_19004160$Methaqualone
+dr_43533115$asparaginase Erwinia chrysanthemi
+dr_45775146$peginterferon beta-1a
+dr_43532213$Uric Acid
+dr_42899326$Magnesium silicate
+dr_19082458$nickel sulfate
+dr_1360890$Spirulina
+dr_19037560$bifonazole
+dr_40223205$Acetaminophen / Tramadol Oral Capsule
+dr_19137056$Theobromine
+dr_980955$docosanol
+dr_19035344$Phenprocoumon
+dr_756018$Fluphenazine
+dr_40003695$Acetaminophen / Codeine Oral Tablet
+dr_19026710$Capreomycin
+dr_981709$dorzolamide
+dr_43532434$lactobionate
+dr_40097589$acrivastine / Pseudoephedrine Oral Capsule
+dr_1338558$SAMARIUM Sm153
+dr_43012575$Carrot Juice
+dr_19112623$Solfenacin
+pt_1813770$Rhododendron luteum
+dr_925952$Oxytetracycline
+dr_985247$Aluminum Hydroxide
+dr_1350310$cilostazol
+dr_1036667$Talc
+dr_19113026$Haemophilus influenzae type b
+dr_40027458$Dexamethasone / Tobramycin Ophthalmic Suspension
+dr_19006155$Trypan Blue
+dr_752276$Procyclidine
+dr_40127934$brimonidine / Timolol Ophthalmic Solution
+dr_1391889$Ginkgo biloba extract
+dr_976778$hydroquinone
+dr_42898386$Ambergris
+dr_1315286$nilutamide
+dr_798874$Clonazepam
+dr_19100740$thymalfasin
+dr_19052317$Proflavine
+dr_42899427$Melissa officinalis leaf oil
+dr_19056506$ROSE HIPS
+dr_45776944$idelalisib
+dr_1315411$cetuximab
+dr_40052971$Hydrocortisone / Neomycin Topical Spray
+dr_19011415$Brown mixture
+dr_989482$Dutasteride
+dr_19080512$Articaine
+dr_44785908$umeclidinium / vilanterol Dry Powder Inhaler
+dr_19041220$tenoxicam
+dr_40056400$dienogest / Ethinyl Estradiol Oral Tablet
+dr_1105889$Triprolidine
+dr_1149380$fluticasone
+dr_19050104$Carnitine
+dr_19132889$Phenoperidine
+dr_44785020$factor VII
+dr_40018276$Calamine / Diphenhydramine Topical Spray
+dr_19096743$Bee pollen
+dr_40044832$Hydrochlorothiazide / Metoprolol Oral Tablet
+dr_40051161$Lamivudine / Zidovudine Oral Tablet
+dr_19129648$Papaveretum
+dr_19090000$diphenylpyraline
+dr_40077218$Potassium tartrate / Sodium Bicarbonate Rectal Suppository
+dr_1113648$nabumetone
+pt_888862$Ephedra sinica
+dr_45775372$dabigatran
+dr_40145237$Acetaminophen / Doxylamine Oral Solution
+dr_19005208$Methoxamine
+dr_40016505$Bromhexine / Cephalexin Oral Suspension
+dr_19055712$COBALT GLUCONATE
+dr_961304$Shark liver oil
+dr_769935$Sodium Oxybate
+dr_19025348$ixabepilone
+dr_19003953$Rocuronium
+dr_44817909$Acetaminophen / Codeine Effervescent Oral Tablet
+dr_19071181$MANGANESE CITRATE
+dr_19018403$racecadotril
+dr_798336$Hyaluronan
+pt_1850632$Ligusticum porteri
+dr_1000995$Coal Tar
+dr_965748$Scopolamine
+dr_19136651$Suramin
+dr_1197677$Clemastine
+dr_40054952$deserpidine / Methyclothiazide Oral Tablet
+dr_1774932$Cefotetan
+dr_963353$Glycopyrrolate
+dr_19046180$Carbon Dioxide
+dr_40149417$Melatonin / theanine Oral Tablet
+dr_42900466$methylene chloride
+dr_19100347$Monascus purpureus West
+dr_970011$Sorbitol
+pt_1766109$Ulmus rubra
+dr_40239290$pimobendan
+dr_19053746$ardeparin
+dr_19040060$Dydrogesterone
+dr_1511646$pamidronate
+dr_19056694$Framycetin
+dr_1315946$letrozole
+dr_790253$clorazepate
+dr_594249$Measles Vaccine
+dr_19016063$Dequalinium
+pt_1842634$Lycium chilense
+dr_19079469$Deet
+dr_19008269$Vincamine
+dr_1380191$Interferon gamma-1b
+dr_19025284$pipenzolate
+dr_40004070$Acetaminophen / dihydrocodeine Oral Tablet
+dr_1332418$Amlodipine
+dr_19018226$Acepromazine
+dr_1789521$Charcoal
+dr_1391470$Ferrous Asparto Glycinate
+dr_40223712$formoterol / Mometasone Metered Dose Inhaler
+pt_2658224$Triticum aestivum\1Thinopyrum intermedium alien addition line
+dr_1774470$Cefotaxime
+pt_820215$Salsola kali
+dr_1391648$Black Cohosh Extract
+dr_19007595$Calcium oxide
+dr_781039$Alprazolam
+dr_19093362$piperocaine
+dr_44785045$Protein S
+dr_19011064$tiludronic acid
+dr_19092958$picolinic acid
+dr_767410$lithium citrate
+dr_1388796$Leucovorin
+dr_19066747$Halothane
+pt_1792953$Althaea officinalis
+dr_19061821$Chromium
+dr_1715315$nitazoxanide
+dr_40002770$Acetaminophen / Phenylpropanolamine Oral Tablet
+dr_19054875$dichlorobenzyl alcohol
+dr_19056758$Alcuronium
+dr_42903493$hydroxycitric acid
+dr_40054224$Iodine / Potassium Iodide Topical Solution
+dr_40033032$Droperidol / Fentanyl Injectable Solution
+dr_989727$dihydroxyaluminum sodium carbonate
+dr_1387104$trastuzumab
+dr_42903737$Interferon gamma-1a
+dr_19037731$bismuth subcarbonate
+dr_1707687$Vancomycin
+dr_19122327$imidapril
+dr_40008941$Amlodipine / atorvastatin Oral Tablet
+dr_42904036$walnut oil
+dr_19132884$Phenazocine
+dr_1118117$naratriptan
+dr_1389036$Mitomycin
+dr_19091430$idursulfase
+dr_40011921$Ascorbic Acid / Biotin Oral Tablet
+dr_19010482$Cyclosporine
+dr_19029018$prolintane
+dr_40011290$Atropine / difenoxin Oral Tablet
+dr_44506752$riociguat
+dr_1708748$Zanamivir
+dr_950696$Nizatidine
+dr_19102107$zofenopril
+dr_956630$formic acid
+dr_990499$Sodium Phosphate, Monobasic
+dr_1518198$norelgestromin
+dr_19136750$Teniposide
+dr_19018192$Chloride Ion
+pt_2304461$Carya illinoinensis
+dr_19047423$abciximab
+dr_19095727$fenproporex
+dr_927322$potassium nitrate
+dr_1525215$pioglitazone
+dr_1314924$gemcitabine
+dr_42898651$BATILOL
+dr_43531797$Ceramide 2
+dr_920378$Nitrofurazone
+dr_19050419$Etilefrine
+dr_40015668$Benzoyl Peroxide / Erythromycin Topical Gel
+dr_1537655$salmon calcitonin
+dr_19096054$propicillin
+dr_910232$Cyclopentolate
+dr_19021959$Sapropterin
+dr_19006880$Uracil Mustard
+dr_19020061$Nitrendipine
+dr_19133329$piketoprofen
+dr_40038021$Fenoterol / Ipratropium Inhalant Solution
+dr_19009138$Miocamycin
+dr_42903868$Flavin-Adenine Dinucleotide
+dr_732309$Pergolide
+dr_40168296$krill oil
+dr_40167041$Codeine / Guaifenesin / Pseudoephedrine Oral Suspension
+dr_19095462$vinpocetine
+dr_40162087$sweet vernal grass pollen extract
+dr_40063656$Mannitol / Sorbitol Oral Solution
+dr_43012292$cabozantinib
+dr_19018547$Calcium Carbimide
+dr_1314865$Azacitidine
+dr_836208$Succinylcholine
+dr_994058$Mannitol
+dr_19058572$Calcium Citrate
+dr_19048561$Polygeline
+dr_19122135$Linolenate
+dr_1153428$fexofenadine
+dr_19135931$Cyanocobalamin Co57
+dr_1754994$Fluconazole
+dr_40125462$Chlorpheniramine / Ibuprofen / Pseudoephedrine Oral Suspension
+dr_1316262$sildenafil
+dr_1389888$bexarotene
+dr_1150871$Misoprostol
+dr_19050750$Fleroxacin
+dr_42898673$Bacillus coagulans
+dr_40094093$buzepide metiodide / Haloperidol Oral Tablet
+pt_829307$Mentha piperita
+pt_362030$Brassica oleracea
+pt_853370$Thymus vulgaris
+dr_40064621$Mineral Oil / Petrolatum Topical Ointment
+dr_19123348$Aluminum Oxide
+dr_19127678$Nilotinib Hydrochloride
+dr_19113004$Glyoxal
+dr_19063763$flopropione
+dr_1133993$azatadine
+dr_40131388$Chondroitin Sulfates / hyaluronate Injectable Solution
+dr_19004388$YUCCA ROOT
+dr_19048016$amylocaine
+dr_43012175$basil oil
+dr_40004033$Acetaminophen / butalbital Oral Tablet
+dr_40016173$Bromelains / TRYPSIN Topical Ointment
+dr_731188$quazepam
+dr_45892628$nivolumab
+dr_40046451$Glycerin / Polysorbate 80 Ophthalmic Solution
+dr_45892722$finafloxacin
+dr_43013634$Glycyrrhiza glabra extract
+dr_19132970$Rose Bengal Sodium I 131
+dr_1380341$Chitosan
+dr_1116031$zolmitriptan
+dr_19011028$mucopolysaccharide polysulfate
+dr_19025928$Oxyphenonium
+dr_42800058$azelastine / fluticasone Nasal Inhaler
+dr_903963$Triamcinolone
+dr_19054915$aldioxa
+dr_19008339$Vitamin A
+dr_947651$podophyllin
+dr_19071995$manidipine
+dr_1768734$Hexachlorophene
+dr_19036638$royal jelly
+dr_43560324$dalotuzumab
+dr_19050216$Cilazapril
+dr_1101898$leflunomide
+dr_40067745$Nystatin / Triamcinolone Topical Ointment
+dr_40012261$Aspirin / Caffeine / cinnamedrine Oral Tablet
+dr_1180412$Eucalyptus oil
+dr_42900482$juniper berry oil
+dr_1389885$red yeast rice
+pt_1741941$Tribulus terrestris
+dr_1154077$rizatriptan
+dr_1326378$Rauwolfia preparation
+dr_19091311$Alexitol sodium
+dr_1789515$quinupristin
+dr_40227498$Coal Tar / Salicylic Acid / Sulfur Topical Ointment
+dr_42904283$TOCOPHERYL NICOTINATE, D-.ALPHA.
+pt_2737037$Astragalus membranaceus
+pt_888989$Ginkgo biloba
+pt_1818393$Gentiana lutea
+dr_19030675$aluminum phosphate
+dr_988095$Ursodeoxycholate
+dr_1189596$dihydrocodeine
+dr_45774435$dulaglutide
+dr_44817956$Aspirin / Caffeine Effervescent Oral Tablet
+dr_19125628$Aminopyrine
+dr_1354698$Mesna
+dr_40002706$Acetaminophen / Hydrocodone Oral Tablet
+dr_1141018$carbinoxamine
+dr_954688$latanoprost
+dr_40057995$drospirenone / Ethinyl Estradiol Oral Tablet
+dr_1734104$Azithromycin
+dr_991003$retapamulin
+pt_845617$Rubia tinctorum
+dr_711714$Dantrolene
+dr_1135710$Phenylbutazone
+dr_19135924$Selenomethionine Se 75
+pt_845075$Attalea racemosa
+dr_19016889$magnesium orotate
+dr_19024213$pholcodine
+pt_1770281$Citrullus lanatus
+dr_19094153$Strychnine
+dr_1354860$Flecainide
+pt_1842882$Withania somnifera
+dr_19016463$Benserazide
+dr_19057932$beractant
+dr_1301125$Epoetin Alfa
+dr_19095002$Chlorprothixene
+dr_19059506$ethenzamide
+dr_906874$Oxyquinoline
+dr_1703653$Itraconazole
+dr_924296$Dichlorphenamide
+dr_791967$Lorazepam
+dr_1549254$Estrone
+pt_1766316$Morus alba
+dr_978555$Indapamide
+dr_738156$Doxepin
+dr_40012271$Aspirin / Caffeine / salicylamide Oral Tablet
+dr_19025138$Bismuth
+dr_19026674$Pancuronium
+pt_1765602$Frangula purshiana
+dr_19067971$MAGNESIUM GLUCONATE
+dr_19076785$Potassium tartrate
+dr_45776270$Buprenorphine / Naloxone Buccal Film
+dr_42903718$tartrate
+dr_1786621$Cephalexin
+dr_940535$sulconazole
+dr_1701651$Spectinomycin
+dr_19036781$Calcium Chloride
+dr_19052987$Promegestone
+dr_750982$Bupropion
+dr_914533$Naphazoline
+dr_19033243$carbromal
+dr_19038433$bone meal
+pt_829315$Mentha spicata
+dr_40133592$alginic acid / Aluminum Hydroxide / magnesium carbonate Oral Suspension
+dr_19124906$Magnesium
+dr_19072122$midecamycin
+dr_43526404$gadoterate meglumine
+dr_1516976$insulin detemir
+dr_19089891$calfactant
+dr_19051463$Probucol
+dr_42899140$Hypericum perforatum leaf extract
+pt_1879917$Tanacetum vulgare
+dr_1305637$Methylergonovine
+dr_19022956$Bezafibrate
+pt_1763057$Prunus avium
+dr_523212$Rubella Virus Vaccine Live (Wistar RA 27-3 Strain)
+dr_42709314$Pyrethrum extract
+dr_1555887$Fluoxymesterone
+dr_19010337$aminosalicylate
+dr_19024775$Oxamniquine
+dr_19011092$Aspartate Magnesium Hydrochloride
+dr_45775578$Radium
+dr_19025194$methyl 5-aminolevulinate
+dr_19008893$manganese chloride
+pt_2778031$Malus sp.
+dr_40017302$Caffeine / Dipyrone Rectal Suppository
+dr_1836191$Streptomycin
+dr_778711$cyclobenzaprine
+dr_19002230$hydrotalcite
+dr_43012918$Polyethylene Glycol 1450
+dr_529116$L1 protein, Human papillomavirus type 6 Vaccine
+dr_1734205$bacampicillin
+dr_529216$Human-Bovine Reassortant Rotavirus Strain P1A[8] Vaccine
+dr_19092684$Chlorotrianisene
+dr_19097684$Gestodene
+dr_19024665$Poloxamer
+dr_40168516$Agkistrodon piscivorus antivenin
+dr_19025198$pinaverium
+dr_42898902$Coix lacryma-jobi seed extract
+dr_989567$difenoxin
+dr_19061083$Glutathione
+dr_40132397$Chlorpheniramine / Phenylephrine / Pyrilamine Extended Release Suspension
+dr_19047756$Carbon Monoxide
+dr_40018269$Calamine / Camphor / Diphenhydramine Topical Lotion
+dr_924120$Aminolevulinate
+dr_19001599$hexamidine
+dr_19050016$Ethiodized Oil
+dr_1379969$Interferon Alfa-2a
+pt_1727293$Cinnamomum camphora
+dr_1308216$Lisinopril
+dr_19006742$Methyprylon
+pt_1780721$Commiphora wightii
+dr_40022484$Carisoprodol / Naproxen Oral Tablet
+dr_1353776$Felodipine
+dr_19033193$Pertussis Vaccine
+dr_1513103$Raloxifene
+pt_700281$Dimorphandra mollis
+dr_1503501$lanreotide
+dr_43532347$Epidermal Growth Factor
+pt_1788476$Theobroma cacao
+dr_42900470$indeloxazine
+dr_19135839$Magnesium salt
+dr_40031849$Diphenhydramine / Lidocaine Topical Gel
+dr_40241937$Vemurafenib
+dr_42898412$Aluminum
+dr_19097481$Cinnarizine
+dr_19117912$Immunoglobulin G
+dr_43532102$Peppermint oil / SAGE OIL Toothpaste
+dr_702685$Mephobarbital
+dr_40129571$fexofenadine / Pseudoephedrine Extended Release Oral Tablet
+dr_19041813$thiocolchicoside
+dr_42900203$Streptococcus pyogenes
+dr_40133568$carbinoxamine / Dextromethorphan / Pseudoephedrine Extended Release Suspension
+dr_1309204$Adenosine
+dr_40044817$Hydrochlorothiazide / Lisinopril Oral Tablet
+dr_43533015$ferric hydroxide
+dr_544411$rabies virus vaccine flury-lep strain
+dr_19045672$Anthrax Vaccine Adsorbed
+dr_40012603$Aspirin / Pentazocine Oral Tablet
+dr_19036946$benzyl benzoate
+dr_40078767$prednisolone / Salicylic Acid Topical Solution
+dr_19078399$Teicoplanin
+dr_1103006$desloratadine
+dr_40017300$Caffeine / Dipyrone / Ergotamine Oral Tablet
+pt_1784985$Citrus aurantium
+pt_2755910$Malus domestica
+dr_981691$imiquimod
+dr_19030323$aloglutamol
+dr_1136422$levocetirizine
+dr_40013216$Benzocaine / Calamine Topical Spray
+dr_19040606$Carbimazole
+pt_2000680$Piper methysticum
+dr_1557272$Alendronate
+dr_40175609$Chia Seed Oil
+dr_42899733$SAGE OIL
+dr_42900243$diethylene glycol monoethyl ether
+dr_45892244$Articaine / Epinephrine Prefilled Syringe
+dr_1163570$Aurothioglucose
+dr_40046684$Helium / Oxygen Gas for Inhalation
+dr_19124297$Levallorphan
+dr_715458$tiagabine
+dr_19052489$Alanine
+dr_923540$phenol
+dr_19097471$BETAINE, ANHYDROUS
+pt_1850214$Bupleurum eginense
+dr_19135934$Sodium iodide I131
+dr_1560305$Omega-3 Acid Ethyl Esters (USP)
+dr_19087317$Lanolin
+dr_1383925$Isosorbide Dinitrate
+dr_19078649$galsulfase
+dr_19113032$iprazochrome
+dr_19136642$Superoxide Dismutase
+dr_40130693$desloratadine / Pseudoephedrine Extended Release Oral Tablet
+pt_1816089$Vaccinium myrtillus
+dr_19030387$Bromelains
+dr_19080817$Iodipamide
+dr_19015342$bamethan
+dr_40045119$Hydrochlorothiazide / irbesartan Oral Tablet
+dr_1181809$Isoetharine
+dr_1775741$Cefoxitin
+dr_19095709$fenipentol
+dr_40036613$Diclofenac / Misoprostol Oral Tablet
+dr_19068419$Glycyrrhizic Acid
+dr_1354118$Epoprostenol
+pt_694058$Cyamopsis tetragonoloba
+dr_19086759$Cephalothin
+pt_2670463$Chlorella sp.
+dr_42898933$defibrotide
+dr_19054245$Protamines
+dr_1521369$Norethindrone
+dr_42709319$glucarpidase
+dr_19135793$Prednimustine
+pt_879591$Smilax officinalis
+dr_730729$Pentobarbital
+dr_1036475$Sulfanilamide
+dr_40044837$Hydrochlorothiazide / Potassium Chloride Oral Tablet
+dr_1325608$pegfilgrastim
+dr_19026096$Diflucortolone
+dr_19028950$Procaterol
+dr_40029809$Clavulanate / Ticarcillin Injectable Solution
+dr_19008994$mebeverine
+dr_905223$Methoxsalen
+dr_1315865$fondaparinux
+pt_1815829$Vaccinium angustifolium
+dr_19011061$glucomannan
+dr_1037015$Bran
+dr_1712549$trovafloxacin
+dr_42898599$CHERRY JUICE
+dr_19005129$Clobetasone
+dr_19015523$bendamustine
+dr_19071933$lonazolac
+dr_19066865$Silicon Dioxide
+dr_43560557$HYPROMELLOSE 2910 (10000 MPA.S)
+dr_46233752$Panthenol / Salicylic Acid Medicated Shampoo
+dr_45774941$Naloxone / Oxycodone Extended Release Oral Tablet
+dr_19137362$Thiamphenicol
+dr_42705222$Caffeine / Dihydroergocryptine Oral Tablet
+dr_705219$HYLAN G-F 20
+dr_19049105$Potassium Chloride
+dr_1714527$Demeclocycline
+dr_40015766$Boron / Calcium Carbonate Oral Tablet
+dr_19051096$cloxazolam
+dr_40115853$Hydrocortisone / Nystatin Topical Ointment
+dr_1776684$Ceftazidime
+dr_42900373$calcium silicate
+pt_1850198$Bupleurum chinense
+dr_42899449$Interleukin-3
+dr_44785094$sofosbuvir
+dr_908523$Mineral Oil
+dr_40020555$Captopril / Hydrochlorothiazide Oral Tablet
+dr_19069904$Sodium Morrhuate
+dr_1359548$lapatinib
+dr_1309161$Mitotane
+dr_40180818$Sodium chlorite
+dr_1337107$ranolazine
+dr_595252$Cholera Vaccine
+dr_19028288$ceforanide
+pt_908548$Paspalum nudatum
+dr_40050296$isoniazid / Pyrazinamide / Rifampin Oral Tablet
+dr_40102934$Lauromacrogols / Urea Topical Cream
+dr_42899841$Rubidium
+pt_1583152$Equisetum hyemale
+dr_19010128$Vitamin K
+dr_543287$Chickenpox Vaccine
+dr_19030847$amezinium
+dr_1790024$dirithromycin
+dr_40148860$Folic Acid / Vitamin B 12 Disintegrating Oral Tablet
+dr_923645$Omeprazole
+dr_19081195$buclizine
+dr_19022003$Dextrothyroxine
+dr_1742432$tigecycline
+dr_42900022$Viscum album leaf extract
+dr_1742253$Levofloxacin
+pt_216890$Solanum lycopersicum
+dr_19135832$Multivitamin preparation
+dr_1589505$Levonorgestrel
+dr_986517$Cellulose
+dr_1317597$GARLIC POWDER
+pt_1781148$Aesculus hippocastanum
+dr_40003248$amylmetacresol / dichlorobenzyl alcohol / Menthol Oral Lozenge
+dr_19136626$Sulpiride
+dr_1714319$Naltrexone
+dr_1560524$Glucose
+pt_1883838$Echinacea purpurea
+dr_40244151$Bupivacaine liposome
+dr_705944$Methylphenidate
+dr_45892421$Betamethasone / Clotrimazole / Gentamicin Otic Ointment
+dr_40060280$danthron / Poloxamer 188 Oral Suspension
+dr_19080982$ranibizumab
+pt_905764$Hordeum vulgare
+dr_19069907$Sodium Nitrite
+dr_751889$Glatiramer
+dr_19092433$ebastine
+dr_40224234$microcrystalline cellulose
+dr_1560171$Glipizide
+dr_40014799$Bupivacaine / Lidocaine Injectable Solution
+pt_1827679$Digitalis purpurea
+pt_1782266$Paullinia cupana
+dr_705178$Trihexyphenidyl
+dr_1548195$Estradiol
+dr_1542948$Follitropin Alfa
+dr_744798$zonisamide
+dr_19033354$Petrolatum
+dr_1524769$Oxandrolone
+dr_958396$butenafine
+dr_731533$dexmethylphenidate
+dr_19037989$Dothiepin
+dr_42904192$palmate
+dr_42900584$teriflunomide
+dr_19029398$acemetacin
+dr_40027634$Coal Tar / Menthol Medicated Shampoo
+dr_40010065$Antipyrine / Benzocaine Otic Solution
+dr_1741008$Edetic Acid
+dr_19040624$sulfametrole
+dr_19016725$silver acetate
+dr_19015230$Adenosine Triphosphate
+dr_19124319$Gadoxetate Disodium
+dr_42899620$Nutmeg oil
+dr_1701677$colistimethate
+dr_40148365$Acetaminophen / Chlorpheniramine / Dextromethorphan Prefilled Applicator
+dr_43012635$Clopidol
+pt_863488$Dioscorea villosa
+dr_1781314$interferon alfacon-1
+dr_19056701$Somatorelin
+dr_19010459$mivacurium
+dr_966956$silver sulfadiazine
+dr_19043191$tulobuterol
+dr_1586808$synthetic conjugated estrogens, B
+dr_1719061$oxychlorosene
+dr_1395773$ferric oxide, saccharated
+pt_881204$Allium cepa
+pt_1767469$Urtica dioica
+dr_43012293$hydroxyethyl starch 130-0.4
+dr_40080225$Sulfacetamide / Sulfur Topical Lotion
+dr_19032619$Amorolfine
+dr_40094733$yohimbine / Zinc Sulfate Oral Tablet
+dr_19011130$Normal saline
+dr_42899737$SEA SALT
+dr_40039805$Ethinyl Estradiol / norelgestromin Transdermal Patch
+dr_766529$Haloperidol
+dr_750146$Ethotoin
+dr_40059139$eprosartan / Hydrochlorothiazide Oral Tablet
+dr_19122130$brivudine
+dr_19126896$Muramidase
+pt_1763277$Prunus serotina
+dr_914244$Undecylenate
+dr_19015123$Azlocillin
+dr_909440$methyl salicylate
+dr_19080493$naftazone
+dr_40003492$Acetaminophen / Aspirin / Caffeine Oral Tablet
+dr_40161354$Pentastarch
+dr_19006764$Bifidobacterium bifidum
+dr_19136048$Sodium
+dr_40029531$Codeine / Guaifenesin Oral Solution
+dr_40161532$ustekinumab
+dr_40045116$Hydrochlorothiazide / Triamterene Oral Tablet
+dr_40020004$Calcium Carbonate / Magnesium Hydroxide / Simethicone Chewable Tablet
+dr_43560137$Choline Fenofibrate
+dr_40154395$Ammonium Chloride / Diphenhydramine / sodium citrate Oral Solution
+dr_42898944$Cobalt
+dr_44817833$Diphenhydramine / Phenylephrine Oral Suspension
+dr_952004$sevelamer
+dr_42874050$Nicotine Bitartrate
+dr_977968$sodium citrate
+dr_1300673$Thrombin
+dr_19095802$ferric sulfate
+dr_40147787$isoniazid / Vitamin B6 Oral Solution
+dr_19137377$Thimerosal
+pt_1751406$Garcinia gummi-gutta
+dr_19096880$SODIUM PHOSPHATE, MONOBASIC, ANHYDROUS
+dr_40145392$Atropine / Hyoscyamine / Phenobarbital / Scopolamine Oral Solution
+dr_729959$botulinum toxin type B
+dr_40168303$levoleucovorin
+dr_19024544$Ancrod
+dr_40222391$Tylosin
+pt_859537$Carex fructus
+dr_19086491$standardized senna concentrate

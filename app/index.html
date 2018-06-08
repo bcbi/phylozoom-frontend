@@ -31,7 +31,7 @@
 		stroke-width: 2px;
 	}
 	#dropdown-id {
-		max-width: 200px;
+		width: 200px;
 		height: 30px;
 	}
 	.bg-danger {
@@ -46,6 +46,10 @@
 	.controllers {
 		margin-top: 10rem;
 		color: black;
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;
 	}
 	select {
 		height: 4rem !important;
@@ -54,6 +58,16 @@
 	.tree-container {
 		text-align: center;
 	}
+	label {
+		color: white !important;
+		font-weight: normal;
+	}
+	.radio {
+		text-align: left;
+	}
+
+
+
 </style>
 
 </head>
@@ -67,12 +81,19 @@
 	  <h1 class="display-4">PhytoKB Tree View</h1>
 	  	<p class="lead">Brown Center for Biomedical Informatics</p>
 		<div class="container controllers">
-			<div class="row">
-			</div>
-			<div class="row">
+			<div class="radio-buttons">
+					<div class="radio">
+					  <label><input type="radio" class="dr" name="optradio">Prescription drugs</label>
+					</div>
+					<div class="radio">
+					  <label><input type="radio" class="pt" name="optradio">Other drugs</label>
+					</div>
+					<div class="radio">
+						<label><input type="radio" class="all" name="optradio" checked="checked">All</label>
+					</div>
+				</div>
 					<select id="dropdown-id" class="dropdown btn btn-secondary"></select>
 					<select id="dropdown-id-levels" class="dropdown btn btn-secondary"></select>
-		</div>
 	</div>
 </div>
 

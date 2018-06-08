@@ -9,6 +9,17 @@ d3.text("assets/static/hd_tree_taxon_path.txt", function(data) {
 });
 
 // Populate dropdown
+function filter_menu(d) {
+    if(d3.select(".pt").property("checked") && d.startsWith("pt")) {
+        var id_ = d;
+    } else if (d3.select(".dr").property("checked") && d.startsWith("dr")) {
+        var id_ = d;
+    } else if (d3.select(".all").property("checked")) {
+        var id_ = d;
+    }
+    else { var id_ = false ;}
+    return id_
+};
 
 function populateDropdown(dropdownId, data) {
   d3.select("#" + dropdownId)
@@ -22,23 +33,26 @@ function populateDropdown(dropdownId, data) {
 
 };
 
-var nameId = [{"id": "placeholder", "name": "1. Choose taxon"}];
+function setNameDropdown() {
+    var nameId = [{"id": "placeholder", "name": "1. Choose taxon"}];
 
-d3.text("assets/static/drugid_names.txt", function(data) {
-  data.split("\n").forEach( function(element) {
-    var item = {};
-    var elementArray = element.split("$");
-    var max_level = (paths[elementArray[0]] - 9) / 2;
+    d3.text("assets/static/drugid_names.txt", function(data) {
+      data.split("\n").forEach( function(element) {
+        var item = {};
+        var elementArray = element.split("$");
+        var max_level = (paths[elementArray[0]] - 9) / 2;
 
-    if ( max_level > 1) {
-        item.id = elementArray[0];
-        item.name = elementArray[1];
-        nameId.push(item);
-        }
+        if ( max_level > 1 && filter_menu(elementArray[0])) {
+            item.id = elementArray[0];
+            item.name = elementArray[1];
+            nameId.push(item);
+            }
+        });
+        populateDropdown("dropdown-id", nameId);
     });
-    populateDropdown("dropdown-id", nameId);
-});
+}
 
+setNameDropdown();
 
 function getLevelDropdown(selected_id) {
     max_level = (paths[selected_id] - 9) / 2;
@@ -77,7 +91,7 @@ function setLevelDropdown(data) {
 
 
 var height = 900,
-    width = 600
+    width = 900
 
 
 var main_tree = d3.layout.phylotree()
@@ -116,6 +130,7 @@ function parseText(response) {
 }
 var dropdown = d3.select("#dropdown-id");
 var input = d3.select("#dropdown-id-levels");
+var radio = d3.selectAll(".radio");
 
 function getData() {
     var selected_id = d3.select("#dropdown-id").property("value");
@@ -132,6 +147,7 @@ function updateTree() {
     });
 }
 
+
 dropdown.on("change", function() {
     var selected_id = getData()[0];
     var dropdown_data = getLevelDropdown(selected_id);
@@ -142,4 +158,9 @@ dropdown.on("change", function() {
 input.on("change", function() {
     var selected_id = getData()[0];
     updateTree();
+});
+
+radio.on("change", function(){
+    d3.selectAll("#dropdown-id").selectAll("option").remove();
+    setNameDropdown()
 });

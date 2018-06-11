@@ -130,6 +130,33 @@ var radio = d3.selectAll(".radio");
 var treeView = d3.select("#tree-view");
 var branchView = d3.select("#branch-view");
 
+
+function edgeStyler(element, data) {
+    var selected_id = d3.select("#dropdown-id").property("value");
+    var selected_name = d3.select("#" + selected_id).text();
+
+    if (data.target.name == selected_name) {
+            element.style("stroke", "blue")
+                   .style("stroke-width", "6px");
+    }
+    else {
+        element.style("stroke", "gray")
+               .style("stroke-width", "3px");
+    }
+}
+
+function edgeStylerFull(element, data) {
+    var selected_id = d3.select("#dropdown-id").property("value");
+
+    if (data.target.name == selected_id) {
+            element.style("stroke", "blue")
+                   .style("strokw-width", "10px");
+    }
+    else {
+        element.style("stroke", "lightgray");
+    }
+}
+
 function initTree() {
     var height = window.innerHeight / 1.8,
         width = window.innerWidth / 3;
@@ -148,7 +175,10 @@ function initTree() {
                            'align-tips': true,
                          })
                  .size([height, width])
-                 .font_size(18);
+                 .font_size(15)
+                 .style_edges(edgeStyler);
+
+
     return main_tree;
 }
 
@@ -159,14 +189,18 @@ function getData() {
 }
 
 var main_tree = initTree();
+var guide_tree, parsed;
+
 
 function updateTree(main_tree) {
     var data = getData();
     search(data[0], data[1]).then(function(result) {
-            var parsed = d3.layout.newick_parser(result);
-            main_tree(parsed).layout();
+            var parsed_newick = d3.layout.newick_parser(result);
+            main_tree(parsed_newick).layout();
             d3.selectAll(".internal-node").remove();
             d3.selectAll("text").style("font-size", "18px");
+
+            main_tree.style_edges(edgeStyler);
     });
 }
 
@@ -179,6 +213,10 @@ dropdown.on("change", function() {
         var dropdown_data = getLevelDropdown(selected_id);
         setLevelDropdown(dropdown_data);
         updateTree(main_tree);
+    }
+    else {
+
+        d3.select("#tree-guide").style_edges(edgeStylerFull);
     }
 });
 
@@ -193,6 +231,7 @@ radio.on("change", function(){
     d3.selectAll("#dropdown-id").selectAll("option").remove();
     setNameDropdown()
 });
+
 
 treeView.on("click", function() {
     d3.select("#large-tree-display")

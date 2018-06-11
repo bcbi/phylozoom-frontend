@@ -5,7 +5,7 @@ function largeTree(newick_str) {
       .attr("id", "tree-guide");
 
     var guide_tree, parsed;
-    var width = window.innerWidth / 2;
+    var width = window.innerWidth;
     var main_tree = d3.layout.phylotree()
                  .svg(d3.select("#large-tree-display"))
                  .options({
@@ -13,14 +13,14 @@ function largeTree(newick_str) {
                            'top-bottom-spacing': 'fit-to-size',
                            'zoom': false,
                            'show-scale': true,
-                           'align-tips': true,
+                           'align-tips': false,
                          })
-                 .size([38330, width]);
+                 .size([100000, width]);
 
 
     // render to this SVG element
     parsed = d3.layout.newick_parser(newick_str);
-    main_tree(parsed).font_size([200])
+    main_tree(parsed).style_edges(edgeStylerFull)
       // parse the Newick into a d3 hierarchy object with additional fields
       .layout();
     // layout and render the tree
@@ -62,8 +62,12 @@ function largeTree(newick_str) {
         'selectable': false
       })
       .size([guide_height, guide_width])
-      .node_circle_size(0);
-    guide_tree(parsed)
+      .node_circle_size(0)
+      .style_edges(function(element, data) { element.style("stroke-width", "1px"); });
+
+    d3.select("#large-tree-display").selectAll("text").style("font-size", "14px");
+
+    guide_tree(parsed).style_edges(edgeStylerFull)
       .layout();
 
     var x = d3.scale.linear()
@@ -92,4 +96,5 @@ function largeTree(newick_str) {
     main_tree.selection_callback(function(selected){
       guide_tree.sync_edge_labels();
     });
+
 };

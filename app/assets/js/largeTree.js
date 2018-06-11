@@ -1,15 +1,22 @@
 function largeTree(newick_str) {
+    d3.select(".tree-container").append("div")
+      .attr("id", "guide")
+      .append("svg")
+      .attr("id", "tree-guide");
+
     var guide_tree, parsed;
-    main_tree.options({
-        'show-scale': false,
-        'left-right-spacing': 'fit-to-size',
-        // fit to given size top-to-bottom
-        'top-bottom-spacing': 'fit-to-size',
-        'collapsible': false,
-        'zoom': true,
-        'radial': true
-      })
-      .size([38330, 1000]);
+    var width = window.innerWidth / 2;
+    var main_tree = d3.layout.phylotree()
+                 .svg(d3.select("#large-tree-display"))
+                 .options({
+                           'left-right-spacing': 'fit-to-size',
+                           'top-bottom-spacing': 'fit-to-size',
+                           'zoom': false,
+                           'show-scale': true,
+                           'align-tips': true,
+                         })
+                 .size([38330, width]);
+
 
     // render to this SVG element
     parsed = d3.layout.newick_parser(newick_str);
@@ -32,13 +39,13 @@ function largeTree(newick_str) {
     main_tree.resort_children (function (a,b) {
       return (a["count_depth"] - b["count_depth"]);
     });
-    var guide_height = 400,
+    var guide_height = window.innerHeight / 2,
       guide_width = 400;
     d3.select('#guide')
       .style('height', guide_height+'px')
       .style('width', guide_width+'px');
     guide_tree = d3.layout.phylotree()
-      .svg(d3.select("#tree_guide"))
+      .svg(d3.select("#tree-guide"))
       .options({
         'left-right-spacing': 'fit-to-size',
         // fit to given size top-to-bottom
@@ -65,7 +72,7 @@ function largeTree(newick_str) {
     var y = d3.scale.linear()
       .domain([0, document.body.scrollHeight])
       .range([0, guide_height]);
-    var rect = d3.select("#tree_guide")
+    var rect = d3.select("#tree-guide")
       .append('rect')
         .attr('x', 0)
         .attr('y', 0)

@@ -6,6 +6,8 @@
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
 <link href="//veg.github.io/phylotree.js/phylotree.css" rel="stylesheet">
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+
 
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
 <script src="//code.jquery.com/jquery.js"></script>
@@ -17,12 +19,12 @@
 <style>
 	#guide {
 		position: fixed;
-		top: 25px;
-		right: 25px;
+		bottom: 25px;
+		right: 10vw;
 		border-style: solid;
-		border-color: red;
+		border-color: white;
 		border-width: 1px;
-		background: white;
+		background: red;
 	}
 	#guide path.branch {
 		stroke: #DDD;
@@ -40,11 +42,13 @@
 	}
 	.jumbotron {
 		padding: 2em;
-		height: 30vh;
+		height: 40vh;
 		text-align: center;
 	}
+	.heading {
+		margin-bottom: 4rem;
+	}
 	.controllers {
-		margin-top: 10rem;
 		color: black;
 		display: flex;
 		flex-direction: row;
@@ -65,6 +69,23 @@
 	.radio {
 		text-align: left;
 	}
+	.view {
+		margin-right: 3rem;
+		margin-left: 3rem;
+		margin-top: 2rem;
+		padding: 1rem;
+	}
+	button:focus {
+		background-color: lightgray;
+	}
+
+	.fa-spinner {
+		color: red;
+		margin-top: 20vh;
+	}
+	#large-tree-display {
+		margin-left: -25vw;
+	}
 
 
 
@@ -78,9 +99,11 @@
     <svg id="tree_guide" />
   </div> -->
 	<div class="jumbotron bg-danger">
-	  <h1 class="display-4">PhytoKB Tree View</h1>
+		<div class="heading">
+	  	<h1 class="display-4">PhytoKB Tree View</h1>
 	  	<p class="lead">Brown Center for Biomedical Informatics</p>
-		<div class="container controllers">
+		</div>
+		<div class="row controllers">
 			<div class="radio-buttons">
 					<div class="radio">
 					  <label><input type="radio" class="dr" name="optradio">Prescription drugs</label>
@@ -94,14 +117,19 @@
 				</div>
 					<select id="dropdown-id" class="dropdown btn btn-secondary"></select>
 					<select id="dropdown-id-levels" class="dropdown btn btn-secondary"></select>
-	</div>
-</div>
-
-	<div class="container">
-		<div class="row tree-container">
-	  	<svg id="tree_display" />
 		</div>
-	</div>
+			<div class="row controllers">
+				<button id="branch-view" type="button" class="btn btn-secondary view">Branch View</button>
+				<button id="tree-view" type="button" class="btn btn-secondary view">Tree View</button>
+			</div>
+
+		</div>
+
+		<div class="row tree-container">
+		</div>
+
+
+
 </body>
 <script type='application/javascript' src='assets/js/largeTree.js'></script>
 <script type='application/javascript' src='assets/js/main.js'></script>

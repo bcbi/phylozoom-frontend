@@ -27,12 +27,21 @@ function parseText(response) {
 
 // Read data and set up input fields (radio buttons, dropdowns)
 
-var paths = {};
+const paths = {};
 
 d3.text("assets/static/hd_tree_taxon_path.txt", function(data) {
     data.split("\n").slice(0,-1).forEach( function(element) {
         var elementArray = element.split("$");
         paths[elementArray[0]] = elementArray[1].split(".").length;
+    })
+});
+
+const names = {};
+
+d3.text("assets/static/drugid_names.txt", function(data) {
+    data.split("\n").slice(0,-1).forEach( function(element) {
+        var elementArray = element.split("$");
+        names[elementArray[0]] = elementArray[1];
     })
 });
 
@@ -131,7 +140,7 @@ var treeView = d3.select("#tree-view");
 var branchView = d3.select("#branch-view");
 
 
-function edgeStyler(element, data) {
+function edgeStylerold(element, data) {
     var selected_id = d3.select("#dropdown-id").property("value");
     var selected_name = d3.select("#" + selected_id).text();
 
@@ -145,7 +154,7 @@ function edgeStyler(element, data) {
     }
 }
 
-function edgeStylerFull(element, data) {
+function edgeStyler(element, data) {
     var selected_id = d3.select("#dropdown-id").property("value");
 
     if (data.target.name == selected_id) {
@@ -178,6 +187,7 @@ function initTree() {
                  .font_size(15)
                  .style_edges(edgeStyler);
 
+    renameAll(d3.select("#tree-display"));
 
     return main_tree;
 }
@@ -186,6 +196,27 @@ function getData() {
     var selected_id = d3.select("#dropdown-id").property("value");
     var selected_level = d3.select("#dropdown-id-levels").property("value");
     return [selected_id, selected_level]
+}
+
+
+function rename(selection, names, id) {
+    selection.selectAll("text")
+      .filter(function() {
+          return d3.select(this).text() == id
+      })
+      .text(names[id])
+}
+
+function renameAll(selection) {
+    var ids = [];
+    selection.selectAll("text")
+      .each(function(d) {
+          ids.push(d3.select(this).text());
+
+       })
+    ids.forEach(function(d){
+        rename(selection, names, d)
+    })
 }
 
 var main_tree = initTree();
@@ -198,9 +229,13 @@ function updateTree(main_tree) {
             var parsed_newick = d3.layout.newick_parser(result);
             main_tree(parsed_newick).layout();
             d3.selectAll(".internal-node").remove();
-            d3.selectAll("text").style("font-size", "18px");
+            d3.selectAll("text").style("font-size", "14px");
+            d3.select(".tree-scale-bar").selectAll("text").style("font-size", "10px");
+            renameAll(d3.select(".phylotree-container"));
 
             main_tree.style_edges(edgeStyler);
+
+
     });
 }
 
@@ -215,8 +250,7 @@ dropdown.on("change", function() {
         updateTree(main_tree);
     }
     else {
-
-        d3.select("#tree-guide").style_edges(edgeStylerFull);
+        scrollTo(d3.select("#large-tree-display"));
     }
 });
 
@@ -248,6 +282,7 @@ treeView.on("click", function() {
       .attr("id", "large-tree-display");
     d3.text("assets/static/hd_consensus_tree.nwk", function(data) {
         largeTree(data);
+        renameAll(d3.select("#large-tree-display").select(".phylotree-container"));
         d3.select(".fa-5x").remove();
     })
 })

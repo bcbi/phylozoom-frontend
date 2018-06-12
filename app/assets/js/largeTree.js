@@ -20,7 +20,7 @@ function largeTree(newick_str) {
 
     // render to this SVG element
     parsed = d3.layout.newick_parser(newick_str);
-    main_tree(parsed).style_edges(edgeStylerFull)
+    main_tree(parsed).style_edges(edgeStyler)
       // parse the Newick into a d3 hierarchy object with additional fields
       .layout();
     // layout and render the tree
@@ -65,9 +65,9 @@ function largeTree(newick_str) {
       .node_circle_size(0)
       .style_edges(function(element, data) { element.style("stroke-width", "1px"); });
 
-    d3.select("#large-tree-display").selectAll("text").style("font-size", "14px");
+    d3.select("#large-tree-display").selectAll("text").style("font-size", "12x");
 
-    guide_tree(parsed).style_edges(edgeStylerFull)
+    guide_tree(parsed).style_edges(edgeStyler)
       .layout();
 
     var x = d3.scale.linear()
@@ -96,5 +96,7 @@ function largeTree(newick_str) {
     main_tree.selection_callback(function(selected){
       guide_tree.sync_edge_labels();
     });
+
+
 
 };

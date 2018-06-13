@@ -96,7 +96,4 @@ function largeTree(newick_str) {
     main_tree.selection_callback(function(selected){
       guide_tree.sync_edge_labels();
     });
-
-
-
 };

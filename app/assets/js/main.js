@@ -159,7 +159,7 @@ function edgeStyler(element, data) {
 
     if (data.target.name == selected_id) {
             element.style("stroke", "blue")
-                   .style("strokw-width", "10px");
+                   .style("strokw-width", "100px");
     }
     else {
         element.style("stroke", "lightgray");
@@ -179,9 +179,9 @@ function initTree() {
                  .options({
                            'left-right-spacing': 'fit-to-size',
                            'top-bottom-spacing': 'fit-to-size',
-                           'zoom': false,
+                           'zoom': true,
                            'show-scale': true,
-                           'align-tips': true,
+                           'align-tips': false,
                          })
                  .size([height, width])
                  .font_size(15)
@@ -219,8 +219,14 @@ function renameAll(selection) {
     })
 }
 
+function getElementByText(id) {
+    return d3.selectAll("text")
+             .filter(function() {
+                 return d3.select(this).text() == id
+             })
+}
+
 var main_tree = initTree();
-var guide_tree, parsed;
 
 
 function updateTree(main_tree) {
@@ -235,7 +241,6 @@ function updateTree(main_tree) {
 
             main_tree.style_edges(edgeStyler);
 
-
     });
 }
 
@@ -248,9 +253,24 @@ dropdown.on("change", function() {
         var dropdown_data = getLevelDropdown(selected_id);
         setLevelDropdown(dropdown_data);
         updateTree(main_tree);
+        main_tree.size([window.innerHeight / 1.8, window.innerWidth / 3])
     }
     else {
-        scrollTo(d3.select("#large-tree-display"));
+        d3.select("#large-tree-display").selectAll("text")
+            .style("font-size", "14px")
+            .style("fill", "black")
+
+        var id = getData()[0]
+        var name = d3.select("#" + id).text();
+
+        getElementByText(name)
+            .style("font-size", "25px")
+            .style("font-wright", "bold")
+            .style("fill", "blue")
+            .attr("id", "text_" + id);
+
+        document.getElementById("text_" + id).scrollIntoView({block: "center"});
+
     }
 });
 
@@ -258,6 +278,7 @@ input.on("change", function() {
     if (!d3.select("#large-tree-display")[0][0]) {
         var selected_id = getData()[0];
         updateTree(main_tree);
+        main_tree.size([window.innerHeight, window.innerWidth / 2]);
     }
 });
 

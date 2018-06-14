@@ -24,6 +24,9 @@ function parseText(response) {
  return response.text();
 }
 
+function capitalizeFirstLetter(string) {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+}
 
 // Read data and set up input fields (radio buttons, dropdowns)
 
@@ -41,7 +44,7 @@ const names = {};
 d3.text("assets/static/drugid_names.txt", function(data) {
     data.split("\n").slice(0,-1).forEach( function(element) {
         var elementArray = element.split("$");
-        names[elementArray[0]] = elementArray[1];
+        names[elementArray[0]] = capitalizeFirstLetter(elementArray[1]);
     })
 });
 
@@ -83,7 +86,7 @@ function setNameDropdown() {
 
         if ( max_level > 1 && filter_menu(elementArray[0])) {
             item.id = elementArray[0];
-            item.name = elementArray[1];
+            item.name = capitalizeFirstLetter(elementArray[1]);
             nameId.push(item);
             }
         });
@@ -145,7 +148,7 @@ function edgeStylerold(element, data) {
     var selected_name = d3.select("#" + selected_id).text();
 
     if (data.target.name == selected_name) {
-            element.style("stroke", "blue")
+            element.style("stroke", "#2a5775")
                    .style("stroke-width", "6px");
     }
     else {
@@ -158,7 +161,7 @@ function edgeStyler(element, data) {
     var selected_id = d3.select("#dropdown-id").property("value");
 
     if (data.target.name == selected_id) {
-            element.style("stroke", "blue")
+            element.style("stroke", "#2a5775")
                    .style("strokw-width", "100px");
     }
     else {
@@ -266,7 +269,7 @@ dropdown.on("change", function() {
         getElementByText(name)
             .style("font-size", "25px")
             .style("font-wright", "bold")
-            .style("fill", "blue")
+            .style("fill", "#2a5775")
             .attr("id", "text_" + id);
 
         document.getElementById("text_" + id).scrollIntoView({block: "center"});
@@ -306,6 +309,8 @@ treeView.on("click", function() {
         renameAll(d3.select("#large-tree-display").select(".phylotree-container"));
         d3.select(".fa-5x").remove();
     })
+    d3.select("#dropdown-id-levels")
+        .style("display", "none");
 })
 
 branchView.on("click", function() {
@@ -313,4 +318,6 @@ branchView.on("click", function() {
     d3.select("#tree-display").style("display", "initial");
     d3.select("#guide").remove();
     updateTree(main_tree);
+    d3.select("#dropdown-id-levels")
+        .style("display", "initial");
 })

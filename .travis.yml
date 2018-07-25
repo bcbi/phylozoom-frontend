@@ -1,17 +1,8 @@
 git:
   depth: 10
 dist: trusty
-sudo: required
 
 matrix:
-  - stage: test
-    before_install:
-      - sudo apt-get update
-      - sudo apt-get install node -y
-    install:
-      - npm install
-    script:
-      - npm start
   - stage: build docker image
     script:
     - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --pasword-stdin

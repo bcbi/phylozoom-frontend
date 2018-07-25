@@ -2,7 +2,7 @@
 
 [![Travis](https://img.shields.io/travis/bcbi/phylozoom-frontend.svg?style=flat-square)](https://travis-ci.org/bcbi/phylozoom-frontend)
 [![License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://github.com/bcbi/phylozoom-frontend/blob/master/LICENSE)
-[![Docker](https://img.shields.io/badge/docker-latest-magenta.svg?style=flat-square)](https://hub.docker.com/r/fernandogelin/phylozoom-frontend/)
+[![Docker](https://img.shields.io/badge/docker-latest-000fff.svg?style=flat-square)](https://hub.docker.com/r/fernandogelin/phylozoom-frontend/)
 ## Overview
 
 Front-end for PhyloZoom web application. Built with [d3.js](https://d3js.org/) and [phylotree.js](https://github.com/veg/phylotree.js/tree/master).

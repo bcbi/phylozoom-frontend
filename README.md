@@ -11,8 +11,6 @@ Front-end for PhyloZoom web application. Built with [d3.js](https://d3js.org/) a
 
 - [Node](https://nodejs.org/en/)
 - [NPM](https://nodejs.org/en/)
-- [Gulp](https://gulpjs.com)
-
 
 ## Install Dependencies
 
@@ -30,3 +28,16 @@ npm start
 # navigate to
 localhost:8080/app
 ```
+
+## Using Docker
+
+```bash
+docker pull bcbi/phylozoom-frontend
+docker run -p 8080:8080 bcbi/phylozoom-frontend
+```
+
+## Or to run the web application with the backend:
+```bash
+docker-compose up
+```
+And navigate to `localhost:8080` on your browser.

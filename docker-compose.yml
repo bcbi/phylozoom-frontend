@@ -1,0 +1,12 @@
+version: '3'
+services:
+  api:
+    image: 'fernandogelin/phylozoom-api'
+    ports:
+      - "8089:8089"
+  frontend:
+    image: 'fernandogelin/phylozoom-frontend'
+    ports:
+      - "8080:8080"
+    depends_on:
+      - "api"

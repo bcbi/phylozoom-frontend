@@ -12,7 +12,7 @@ COPY . /usr/src/phylozoom_frontend
 RUN npm install
 RUN cd ./client; npm install
 
-EXPOSE 3030
+EXPOSE 8080
 
 # defined in package.json
 CMD [ "npm", "start" ]

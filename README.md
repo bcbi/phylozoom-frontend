@@ -1,5 +1,11 @@
-# PhytoKB Tree View
+# PhyloZoom
 
+[![Travis](https://img.shields.io/travis/bcbi/phylozoom-frontend.svg?style=flat-square)](https://travis-ci.org/bcbi/phylozoom-frontend)
+[![License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](https://github.com/bcbi/phylozoom-frontend/blob/master/LICENSE)
+
+## Overview
+
+Front-end for PhyloZoom web application. Built with [d3.js](https://d3js.org/) and [phylotree.js](https://github.com/veg/phylotree.js/tree/master).
 
 ## Requirements
 
@@ -21,8 +27,6 @@ watch files for changes:
 
 ```bash
 npm start
-# in another terminal:
-gulp
 # navigate to
 localhost:8080/app
 ```

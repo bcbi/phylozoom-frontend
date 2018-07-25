@@ -1,14 +1,20 @@
 git:
   depth: 10
-
 sudo: required
 
-before_install:
-  - sudo apt-get update
-  - sudo apt-get install node -y
-
-install:
-  - npm install
-
-script:
-  - npm start
+matrix:
+  - stage: test
+    before_install:
+      - sudo apt-get update
+      - sudo apt-get install node -y
+    install:
+      - npm install
+    script:
+      - npm start
+  - stage: build docker image
+    script:
+    - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --pasword-stdin
+    - docker build -t phylozoom-frontend
+    - docker images
+    - docker tag phylozoom-frontend $DOCKER_USERNAME/phylozoom-frontend
+    - docker push $DOCKER_USERNAME/phylozoom-frontend

@@ -12,6 +12,7 @@ matrix:
       install:
         - npm install
     - stage: build docker image
+      local_dir: ./
       script:
       - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --pasword-stdin
       - docker build -t phylozoom-frontend .

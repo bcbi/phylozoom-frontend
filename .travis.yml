@@ -8,7 +8,7 @@ matrix:
     - stage: build docker image
       local_dir: ./
       script:
-      - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --pasword-stdin
+      - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
       - docker build -t phylozoom-frontend .
       - docker images
       - docker tag phylozoom-frontend $DOCKER_USERNAME/phylozoom-frontend

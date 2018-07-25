@@ -6,7 +6,6 @@ sudo: required
 matrix:
   include:
     - stage: build docker image
-      local_dir: .
       script:
       - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
       - docker build -t phylozoom-frontend .

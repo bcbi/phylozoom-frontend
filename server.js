@@ -11,4 +11,4 @@ const app = express();
 app.use(express.static("."));
 
 app.listen(PORT, HOST);
-console.log(`Running on http://${HOST}:${PORT}`);
+console.log(`Running on https://${HOST}:${PORT}`);

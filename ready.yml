@@ -1,12 +1,7 @@
 repo:             phylozoom-frontend
 site_name:        PhyloZoom
-authors:
-  - name: Fernando Gelin
-    github_username: fernandogelin
-  - name: Isabel Restrepo
-    github_username: mirestrepo
-# site_author:      Fernando Gelin
-# github_user: fernandogelin
+site_author:      Fernando Gelin
+github_user: fernandogelin
 repo_url:         https://github.com/bcbi/phylozoom-frontend # not required if repo is part of compbiocore organization.
 site_description: Web tool to zoom in and out branches of a large phylogenetic tree.
 site_url: https://bcbi.brown.edu/phylozoom

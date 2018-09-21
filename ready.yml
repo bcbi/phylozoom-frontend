@@ -2,7 +2,7 @@ repo:             phylozoom-frontend
 site_name:        PhyloZoom
 authors:
   - name: Fernando Gelin
-  - github_username: fernandogelin
+    github_username: fernandogelin
 # site_author:      Fernando Gelin
 # github_user: fernandogelin
 repo_url:         https://github.com/bcbi/phylozoom-frontend # not required if repo is part of compbiocore organization.

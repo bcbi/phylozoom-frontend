@@ -1,5 +1,7 @@
 repo:             phylozoom-frontend
 site_name:        PhyloZoom
+- author: Fernando Gelin
+- author: Vivek Sharma
 authors:
   - name: Fernando Gelin
     github_user: fernandogelin

@@ -5,8 +5,6 @@ authors:
     github_user: fernandogelin
   - name: Vivek Sharma
     github_user: vsharma10
-# site_author:      Fernando Gelin
-# github_user: fernandogelin
 repo_url:         https://github.com/bcbi/phylozoom-frontend # not required if repo is part of compbiocore organization.
 site_description: Web tool to zoom in and out branches of a large phylogenetic tree.
 site_url: https://bcbi.brown.edu/phylozoom

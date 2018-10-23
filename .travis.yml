@@ -10,7 +10,7 @@ matrix:
         - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
         - docker build -t phylozoom_frontend .
         - docker images
-        - docker tag phylozoom-frontend $DOCKER_ORGANIZATION/phylozoom_frontend
+        - docker tag phylozoom_frontend $DOCKER_ORGANIZATION/phylozoom_frontend
         - docker push $DOCKER_ORGANIZATION/phylozoom_frontend
       on:
         branch: master

@@ -17,6 +17,7 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "bootstrap": "^3.4.1",
     "d3": "3.x",
     "express": "^4.13.3",
     "jquery": "^3.3.1",
